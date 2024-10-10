@@ -6001,3 +6001,4 @@
 0300. ✨ feat: add export to CSV option
 0232. 🎨 style: apply consistent indentation
 0476. 🚀 perf: reduce image load time
+0660. 🐛 fix: correct typo in registration form
