@@ -9999,3 +9999,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0965. 🎨 style: reformat files with black
 0989. 📚 docs: write FAQ section
+0501. ✨ feat: add export to CSV option
