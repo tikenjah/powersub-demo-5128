@@ -10000,3 +10000,4 @@
 0965. 🎨 style: reformat files with black
 0989. 📚 docs: write FAQ section
 0501. ✨ feat: add export to CSV option
+0335. ♻️ chore: update .gitignore
