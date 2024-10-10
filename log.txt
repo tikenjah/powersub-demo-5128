@@ -4998,3 +4998,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0627. 📚 docs: document token refresh logic
 0650. ✅ test: add unit test for quiz service
+0934. ✨ feat: support email verification
