@@ -6003,3 +6003,4 @@
 0476. 🚀 perf: reduce image load time
 0660. 🐛 fix: correct typo in registration form
 0481. ✅ test: add unit test for quiz service
+0422. 🔧 refactor: organize models into subfolders
