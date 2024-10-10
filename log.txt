@@ -7999,3 +7999,4 @@
 0100. ♻️ chore: update .gitignore
 0704. 🚀 perf: cache repeated calculations
 0249. ✅ test: increase coverage on auth module
+0406. ✨ feat: add export to CSV option
