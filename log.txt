@@ -5001,3 +5001,4 @@
 0934. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
 0778. 📚 docs: write FAQ section
+0259. 🚀 perf: lazy-load components
