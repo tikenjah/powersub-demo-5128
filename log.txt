@@ -6,3 +6,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0635. 🎨 style: apply consistent indentation
 0442. 🎨 style: standardize quote style
+0378. 🐛 fix: prevent crash on empty input
