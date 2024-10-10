@@ -1,2 +1,3 @@
 0628. ♻️ chore: add GitHub actions badge
 0411. ✅ test: add unit test for quiz service
+0102. ✨ feat: support email verification
