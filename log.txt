@@ -5000,3 +5000,4 @@
 0650. ✅ test: add unit test for quiz service
 0934. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
+0778. 📚 docs: write FAQ section
