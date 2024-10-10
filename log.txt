@@ -8000,3 +8000,4 @@
 0704. 🚀 perf: cache repeated calculations
 0249. ✅ test: increase coverage on auth module
 0406. ✨ feat: add export to CSV option
+0544. 🔧 refactor: organize models into subfolders
