@@ -5003,3 +5003,4 @@
 0778. 📚 docs: write FAQ section
 0259. 🚀 perf: lazy-load components
 0540. ♻️ chore: add GitHub actions badge
+0518. ✨ feat: support email verification
