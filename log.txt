@@ -8004,3 +8004,4 @@
 0476. 🚀 perf: reduce image load time
 0351. ✨ feat: add export to CSV option
 0529. 📚 docs: write FAQ section
+0790. 📚 docs: write FAQ section
