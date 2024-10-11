@@ -5005,3 +5005,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0518. ✨ feat: support email verification
 0483. 📚 docs: update README with setup steps
+0829. 🔧 refactor: organize models into subfolders
