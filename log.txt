@@ -15,3 +15,4 @@
 0665. ♻️ chore: update .gitignore
 0921. 🐛 fix: correct typo in registration form
 0001. 🚀 perf: cache repeated calculations
+0296. 🔧 refactor: organize models into subfolders
