@@ -12,3 +12,4 @@
 0111. 📚 docs: update README with setup steps
 0245. 🐛 fix: resolve issue with date parsing
 0969. ✨ feat: create admin dashboard
+0665. ♻️ chore: update .gitignore
