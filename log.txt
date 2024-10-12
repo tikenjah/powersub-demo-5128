@@ -22,3 +22,4 @@
 0333. 🚀 perf: cache repeated calculations
 0051. ✨ feat: enable dark mode toggle
 0156. 🎨 style: rename variables for clarity
+0450. 🐛 fix: fix broken CSS in mobile view
