@@ -6006,3 +6006,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0188. 🎨 style: apply consistent indentation
 0409. 🚀 perf: lazy-load components
+0749. ✨ feat: support email verification
