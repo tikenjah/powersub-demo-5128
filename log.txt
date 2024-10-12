@@ -32,3 +32,4 @@
 0730. ✅ test: test user registration edge cases
 0623. 🎨 style: standardize quote style
 0627. 📚 docs: document token refresh logic
+0575. ✅ test: add unit test for quiz service
