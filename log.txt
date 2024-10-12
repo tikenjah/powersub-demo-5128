@@ -7008,3 +7008,4 @@
 0749. ✨ feat: support email verification
 0802. 🔧 refactor: remove redundant code blocks
 0656. 🎨 style: apply consistent indentation
+0511. 🐛 fix: fix broken CSS in mobile view
