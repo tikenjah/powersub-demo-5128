@@ -9002,3 +9002,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0150. 🎨 style: remove trailing whitespace
 0400. 🐛 fix: fix null pointer exception on login
+0434. 📚 docs: document token refresh logic
