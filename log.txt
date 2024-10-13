@@ -41,3 +41,4 @@
 0137. 🎨 style: rename variables for clarity
 0435. ✅ test: add unit test for quiz service
 0963. 🚀 perf: reduce image load time
+0875. ✅ test: increase coverage on auth module
