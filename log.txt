@@ -38,3 +38,4 @@
 0582. ✨ feat: add export to CSV option
 0234. ♻️ chore: rename env.example
 0670. ✨ feat: add export to CSV option
+0137. 🎨 style: rename variables for clarity
