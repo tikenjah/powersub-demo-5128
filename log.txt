@@ -8008,3 +8008,4 @@
 0883. 📚 docs: improve code comments in utils
 0291. 📚 docs: write FAQ section
 0497. 🔧 refactor: refactor quiz grading logic
+0524. ♻️ chore: rename env.example
