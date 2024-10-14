@@ -46,3 +46,4 @@
 0131. 📚 docs: write FAQ section
 0016. 🎨 style: apply consistent indentation
 0968. 🎨 style: standardize quote style
+0682. ♻️ chore: rename env.example
