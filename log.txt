@@ -9007,3 +9007,4 @@
 0690. 🚀 perf: lazy-load components
 0027. 📚 docs: clarify environment setup
 0432. 🎨 style: apply consistent indentation
+0320. 📚 docs: update README with setup steps
