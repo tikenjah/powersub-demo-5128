@@ -61,3 +61,4 @@
 0790. 📚 docs: write FAQ section
 0990. ♻️ chore: rename env.example
 0887. 📚 docs: add API usage examples
+0464. 🎨 style: remove trailing whitespace
