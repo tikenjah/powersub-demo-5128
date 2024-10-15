@@ -7018,3 +7018,4 @@
 0797. 📚 docs: add API usage examples
 0721. 🚀 perf: optimize database query for quiz results
 0751. 🐛 fix: handle 500 error in quiz API
+0939. 📚 docs: update README with setup steps
