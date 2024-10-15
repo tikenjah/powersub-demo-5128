@@ -10008,3 +10008,4 @@
 0824. 🚀 perf: lazy-load components
 0938. 🎨 style: rename variables for clarity
 0593. 🐛 fix: correct typo in registration form
+0539. 🔧 refactor: organize models into subfolders
