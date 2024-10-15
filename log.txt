@@ -58,3 +58,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0440. 📚 docs: update README with setup steps
 0801. ✨ feat: enable dark mode toggle
+0790. 📚 docs: write FAQ section
