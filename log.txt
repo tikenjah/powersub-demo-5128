@@ -8016,3 +8016,4 @@
 0623. 🎨 style: standardize quote style
 0647. 🐛 fix: prevent crash on empty input
 0095. ✅ test: mock database connection in test suite
+0352. ✨ feat: add export to CSV option
