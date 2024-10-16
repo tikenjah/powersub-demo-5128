@@ -5015,3 +5015,4 @@
 0437. 📚 docs: clarify environment setup
 0888. 🚀 perf: lazy-load components
 0742. 📚 docs: clarify environment setup
+0571. 🔧 refactor: clean up auth middleware
