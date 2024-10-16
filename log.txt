@@ -76,3 +76,4 @@
 0502. 📚 docs: update README with setup steps
 0607. 🐛 fix: prevent crash on empty input
 0522. 🐛 fix: handle 500 error in quiz API
+0799. ♻️ chore: clean up unused files
