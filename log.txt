@@ -72,3 +72,4 @@
 0174. 📚 docs: clarify environment setup
 0580. ♻️ chore: bump dependencies
 0667. ✨ feat: add export to CSV option
+0223. 🔧 refactor: remove redundant code blocks
