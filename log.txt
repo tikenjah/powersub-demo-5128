@@ -73,3 +73,4 @@
 0580. ♻️ chore: bump dependencies
 0667. ✨ feat: add export to CSV option
 0223. 🔧 refactor: remove redundant code blocks
+0502. 📚 docs: update README with setup steps
