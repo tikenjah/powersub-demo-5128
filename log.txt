@@ -7021,3 +7021,4 @@
 0939. 📚 docs: update README with setup steps
 0671. 🐛 fix: fix null pointer exception on login
 0896. 🚀 perf: reduce image load time
+0618. ✨ feat: support email verification
