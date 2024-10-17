@@ -92,3 +92,4 @@
 0585. 🚀 perf: lazy-load components
 0194. 🎨 style: standardize quote style
 0952. 🔧 refactor: split large controller into smaller functions
+0105. 🐛 fix: correct typo in registration form
