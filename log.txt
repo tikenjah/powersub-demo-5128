@@ -99,3 +99,4 @@
 0820. 📚 docs: add API usage examples
 0555. ✨ feat: create admin dashboard
 0628. ♻️ chore: add GitHub actions badge
+0070. ✨ feat: implement quiz timer feature
