@@ -98,3 +98,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0820. 📚 docs: add API usage examples
 0555. ✨ feat: create admin dashboard
+0628. ♻️ chore: add GitHub actions badge
