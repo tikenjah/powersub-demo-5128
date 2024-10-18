@@ -104,3 +104,4 @@
 0300. ✨ feat: add export to CSV option
 0342. 🚀 perf: cache repeated calculations
 0712. 🎨 style: apply consistent indentation
+0525. ✅ test: mock database connection in test suite
