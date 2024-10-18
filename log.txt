@@ -109,3 +109,4 @@
 0914. ✅ test: test user registration edge cases
 0127. 🐛 fix: fix null pointer exception on login
 0293. ✅ test: add integration test for /submit endpoint
+0353. ♻️ chore: rename env.example
