@@ -7024,3 +7024,4 @@
 0618. ✨ feat: support email verification
 0572. ✨ feat: add user authentication
 0001. 🚀 perf: cache repeated calculations
+0329. 📚 docs: update README with setup steps
