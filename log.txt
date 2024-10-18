@@ -5022,3 +5022,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0164. 📚 docs: document token refresh logic
 0834. ✅ test: increase coverage on auth module
+0871. ✅ test: add integration test for /submit endpoint
