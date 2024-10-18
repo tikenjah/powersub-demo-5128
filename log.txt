@@ -113,3 +113,4 @@
 0166. 🚀 perf: cache repeated calculations
 0380. 🐛 fix: fix null pointer exception on login
 0101. 📚 docs: clarify environment setup
+0900. 🐛 fix: handle 500 error in quiz API
