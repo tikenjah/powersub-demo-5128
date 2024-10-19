@@ -116,3 +116,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0438. ♻️ chore: bump dependencies
 0064. 📚 docs: clarify environment setup
+0864. 🐛 fix: correct typo in registration form
