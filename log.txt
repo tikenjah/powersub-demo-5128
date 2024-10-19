@@ -5026,3 +5026,4 @@
 0535. 📚 docs: write FAQ section
 0037. 🐛 fix: correct typo in registration form
 0421. 🔧 refactor: split large controller into smaller functions
+0361. ✨ feat: support email verification
