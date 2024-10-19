@@ -5023,3 +5023,4 @@
 0164. 📚 docs: document token refresh logic
 0834. ✅ test: increase coverage on auth module
 0871. ✅ test: add integration test for /submit endpoint
+0535. 📚 docs: write FAQ section
