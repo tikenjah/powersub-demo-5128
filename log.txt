@@ -134,3 +134,4 @@
 0184. 📚 docs: improve code comments in utils
 0679. ♻️ chore: bump dependencies
 0970. ♻️ chore: update .gitignore
+0127. 🐛 fix: fix null pointer exception on login
