@@ -10016,3 +10016,4 @@
 0273. 🚀 perf: reduce image load time
 0048. 📚 docs: update README with setup steps
 0556. ✨ feat: support email verification
+0112. ✨ feat: enable dark mode toggle
