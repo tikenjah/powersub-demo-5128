@@ -128,3 +128,4 @@
 0076. 🎨 style: reformat files with black
 0850. ♻️ chore: rename env.example
 0727. ♻️ chore: add GitHub actions badge
+0979. 🎨 style: standardize quote style
