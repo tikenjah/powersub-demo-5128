@@ -8025,3 +8025,4 @@
 0992. ♻️ chore: clean up unused files
 0606. 📚 docs: improve code comments in utils
 0518. ✨ feat: support email verification
+0383. 🐛 fix: fix broken CSS in mobile view
