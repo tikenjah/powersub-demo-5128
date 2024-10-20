@@ -8027,3 +8027,4 @@
 0518. ✨ feat: support email verification
 0383. 🐛 fix: fix broken CSS in mobile view
 0711. 🐛 fix: fix broken CSS in mobile view
+0513. ♻️ chore: bump dependencies
