@@ -8026,3 +8026,4 @@
 0606. 📚 docs: improve code comments in utils
 0518. ✨ feat: support email verification
 0383. 🐛 fix: fix broken CSS in mobile view
+0711. 🐛 fix: fix broken CSS in mobile view
