@@ -148,3 +148,4 @@
 0823. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
 0843. 📚 docs: document token refresh logic
+0272. 🔧 refactor: remove redundant code blocks
