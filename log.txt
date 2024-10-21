@@ -139,3 +139,4 @@
 0670. ✨ feat: add export to CSV option
 0434. 📚 docs: document token refresh logic
 0891. ✨ feat: create admin dashboard
+0953. 🎨 style: remove trailing whitespace
