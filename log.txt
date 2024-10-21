@@ -6026,3 +6026,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0903. ✅ test: mock database connection in test suite
 0880. 🐛 fix: fix broken CSS in mobile view
+0960. ✅ test: increase coverage on auth module
