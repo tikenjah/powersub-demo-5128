@@ -6028,3 +6028,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
 0661. ✅ test: add integration test for /submit endpoint
+0633. ✨ feat: add user authentication
