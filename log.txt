@@ -8031,3 +8031,4 @@
 0659. 📚 docs: add API usage examples
 0176. 🔧 refactor: remove redundant code blocks
 0157. ✅ test: mock database connection in test suite
+0914. ✅ test: test user registration edge cases
