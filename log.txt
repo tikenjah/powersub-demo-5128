@@ -164,3 +164,4 @@
 0844. 📚 docs: update README with setup steps
 0008. 🚀 perf: reduce image load time
 0376. 🎨 style: apply consistent indentation
+0792. 🎨 style: standardize quote style
