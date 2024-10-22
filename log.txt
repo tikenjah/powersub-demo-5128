@@ -10023,3 +10023,4 @@
 0042. 📚 docs: document token refresh logic
 0662. ♻️ chore: clean up unused files
 0352. ✨ feat: add export to CSV option
+0379. ✨ feat: support email verification
