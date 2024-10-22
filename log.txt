@@ -154,3 +154,4 @@
 0454. ♻️ chore: bump dependencies
 0449. ✅ test: add unit test for quiz service
 0719. 🎨 style: apply consistent indentation
+0246. ✅ test: add integration test for /submit endpoint
