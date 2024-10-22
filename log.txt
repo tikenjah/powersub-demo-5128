@@ -7037,3 +7037,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0950. 🎨 style: reformat files with black
 0754. 🐛 fix: handle 500 error in quiz API
+0114. ♻️ chore: update .gitignore
