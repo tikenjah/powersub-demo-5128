@@ -176,3 +176,4 @@
 0686. 🎨 style: standardize quote style
 0383. 🐛 fix: fix broken CSS in mobile view
 0976. ✨ feat: implement quiz timer feature
+0764. ✨ feat: add user authentication
