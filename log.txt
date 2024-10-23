@@ -7039,3 +7039,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0114. ♻️ chore: update .gitignore
 0858. ♻️ chore: clean up unused files
+0660. 🐛 fix: correct typo in registration form
