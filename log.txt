@@ -9026,3 +9026,4 @@
 0217. 🚀 perf: reduce image load time
 0114. ♻️ chore: update .gitignore
 0725. 🚀 perf: lazy-load components
+0292. 📚 docs: clarify environment setup
