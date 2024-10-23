@@ -175,3 +175,4 @@
 0150. 🎨 style: remove trailing whitespace
 0686. 🎨 style: standardize quote style
 0383. 🐛 fix: fix broken CSS in mobile view
+0976. ✨ feat: implement quiz timer feature
