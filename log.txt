@@ -10025,3 +10025,4 @@
 0352. ✨ feat: add export to CSV option
 0379. ✨ feat: support email verification
 0503. ♻️ chore: rename env.example
+0792. 🎨 style: standardize quote style
