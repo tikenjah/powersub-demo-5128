@@ -10026,3 +10026,4 @@
 0379. ✨ feat: support email verification
 0503. ♻️ chore: rename env.example
 0792. 🎨 style: standardize quote style
+0630. 🚀 perf: lazy-load components
