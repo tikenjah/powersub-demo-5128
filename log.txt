@@ -9025,3 +9025,4 @@
 0861. ♻️ chore: clean up unused files
 0217. 🚀 perf: reduce image load time
 0114. ♻️ chore: update .gitignore
+0725. 🚀 perf: lazy-load components
