@@ -10029,3 +10029,4 @@
 0630. 🚀 perf: lazy-load components
 0847. ♻️ chore: clean up unused files
 0915. 🚀 perf: cache repeated calculations
+0114. ♻️ chore: update .gitignore
