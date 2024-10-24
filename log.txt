@@ -5039,3 +5039,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0073. 🔧 refactor: split large controller into smaller functions
 0967. ♻️ chore: add GitHub actions badge
+0281. ✨ feat: support email verification
