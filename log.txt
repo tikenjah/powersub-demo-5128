@@ -187,3 +187,4 @@
 0134. ✨ feat: implement quiz timer feature
 0010. ✨ feat: add user authentication
 0376. 🎨 style: apply consistent indentation
+0147. ♻️ chore: bump dependencies
