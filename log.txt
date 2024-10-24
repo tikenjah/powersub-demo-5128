@@ -10030,3 +10030,4 @@
 0847. ♻️ chore: clean up unused files
 0915. 🚀 perf: cache repeated calculations
 0114. ♻️ chore: update .gitignore
+0384. 📚 docs: clarify environment setup
