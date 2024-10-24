@@ -180,3 +180,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0242. ♻️ chore: clean up unused files
 0161. ✨ feat: create admin dashboard
+0344. ♻️ chore: add GitHub actions badge
