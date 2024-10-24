@@ -7041,3 +7041,4 @@
 0858. ♻️ chore: clean up unused files
 0660. 🐛 fix: correct typo in registration form
 0288. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
