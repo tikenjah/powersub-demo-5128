@@ -192,3 +192,4 @@
 0601. ✨ feat: implement quiz timer feature
 0494. 🎨 style: rename variables for clarity
 0573. ✅ test: add integration test for /submit endpoint
+0673. 🐛 fix: correct typo in registration form
