@@ -195,3 +195,4 @@
 0673. 🐛 fix: correct typo in registration form
 0288. 🔧 refactor: refactor quiz grading logic
 0164. 📚 docs: document token refresh logic
+0493. ✨ feat: add user authentication
