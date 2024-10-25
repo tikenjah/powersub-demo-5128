@@ -5041,3 +5041,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0281. ✨ feat: support email verification
 0147. ♻️ chore: bump dependencies
+0849. 🐛 fix: correct typo in registration form
