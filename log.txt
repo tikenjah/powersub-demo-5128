@@ -7045,3 +7045,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0592. 📚 docs: add API usage examples
 0671. 🐛 fix: fix null pointer exception on login
+0463. 🚀 perf: reduce image load time
