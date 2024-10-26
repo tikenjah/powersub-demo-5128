@@ -201,3 +201,4 @@
 0707. 🎨 style: apply consistent indentation
 0835. 🐛 fix: prevent crash on empty input
 0155. ✨ feat: create admin dashboard
+0909. 🔧 refactor: organize models into subfolders
