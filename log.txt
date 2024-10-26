@@ -10033,3 +10033,4 @@
 0384. 📚 docs: clarify environment setup
 0550. 🔧 refactor: split large controller into smaller functions
 0186. ✅ test: test user registration edge cases
+0187. ✨ feat: support email verification
