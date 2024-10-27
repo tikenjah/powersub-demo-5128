@@ -225,3 +225,4 @@
 0903. ✅ test: mock database connection in test suite
 0556. ✨ feat: support email verification
 0662. ♻️ chore: clean up unused files
+0739. 🎨 style: remove trailing whitespace
