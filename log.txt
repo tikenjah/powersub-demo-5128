@@ -220,3 +220,4 @@
 0287. 📚 docs: write FAQ section
 0074. ♻️ chore: add GitHub actions badge
 0181. ♻️ chore: add GitHub actions badge
+0544. 🔧 refactor: organize models into subfolders
