@@ -227,3 +227,4 @@
 0662. ♻️ chore: clean up unused files
 0739. 🎨 style: remove trailing whitespace
 0269. ✅ test: test user registration edge cases
+0595. ✨ feat: enable dark mode toggle
