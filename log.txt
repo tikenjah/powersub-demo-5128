@@ -9035,3 +9035,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0570. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
+0665. ♻️ chore: update .gitignore
