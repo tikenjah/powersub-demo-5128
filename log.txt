@@ -219,3 +219,4 @@
 0969. ✨ feat: create admin dashboard
 0287. 📚 docs: write FAQ section
 0074. ♻️ chore: add GitHub actions badge
+0181. ♻️ chore: add GitHub actions badge
