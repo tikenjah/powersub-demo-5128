@@ -229,3 +229,4 @@
 0269. ✅ test: test user registration edge cases
 0595. ✨ feat: enable dark mode toggle
 0399. ✅ test: mock database connection in test suite
+0204. 🎨 style: standardize quote style
