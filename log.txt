@@ -218,3 +218,4 @@
 0405. ✅ test: mock database connection in test suite
 0969. ✨ feat: create admin dashboard
 0287. 📚 docs: write FAQ section
+0074. ♻️ chore: add GitHub actions badge
