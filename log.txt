@@ -226,3 +226,4 @@
 0556. ✨ feat: support email verification
 0662. ♻️ chore: clean up unused files
 0739. 🎨 style: remove trailing whitespace
+0269. ✅ test: test user registration edge cases
