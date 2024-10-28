@@ -8045,3 +8045,4 @@
 0766. 🎨 style: reformat files with black
 0221. ✨ feat: add user authentication
 0977. 🔧 refactor: organize models into subfolders
+0056. ♻️ chore: rename env.example
