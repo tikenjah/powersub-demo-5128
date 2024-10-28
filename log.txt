@@ -6041,3 +6041,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0251. ♻️ chore: update .gitignore
 0063. 🐛 fix: handle 500 error in quiz API
+0511. 🐛 fix: fix broken CSS in mobile view
