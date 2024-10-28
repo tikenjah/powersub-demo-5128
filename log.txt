@@ -6043,3 +6043,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0511. 🐛 fix: fix broken CSS in mobile view
 0959. 🐛 fix: fix null pointer exception on login
+0848. 📚 docs: update README with setup steps
