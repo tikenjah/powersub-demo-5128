@@ -7053,3 +7053,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0379. ✨ feat: support email verification
 0925. ✨ feat: add export to CSV option
+0079. 🐛 fix: correct typo in registration form
