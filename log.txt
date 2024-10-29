@@ -251,3 +251,4 @@
 0464. 🎨 style: remove trailing whitespace
 0506. 🐛 fix: handle 500 error in quiz API
 0746. ♻️ chore: add GitHub actions badge
+0019. ✨ feat: enable dark mode toggle
