@@ -241,3 +241,4 @@
 0468. 📚 docs: update README with setup steps
 0099. 🚀 perf: reduce image load time
 0387. ✨ feat: enable dark mode toggle
+0798. 🚀 perf: reduce image load time
