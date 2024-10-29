@@ -243,3 +243,4 @@
 0387. ✨ feat: enable dark mode toggle
 0798. 🚀 perf: reduce image load time
 0095. ✅ test: mock database connection in test suite
+0871. ✅ test: add integration test for /submit endpoint
