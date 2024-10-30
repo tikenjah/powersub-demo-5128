@@ -262,3 +262,4 @@
 0842. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
 0134. ✨ feat: implement quiz timer feature
+0591. ♻️ chore: clean up unused files
