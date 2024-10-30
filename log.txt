@@ -260,3 +260,4 @@
 0529. 📚 docs: write FAQ section
 0724. ✅ test: mock database connection in test suite
 0842. 🎨 style: remove trailing whitespace
+0186. ✅ test: test user registration edge cases
