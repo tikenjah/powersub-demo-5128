@@ -10042,3 +10042,4 @@
 0904. ✨ feat: implement quiz timer feature
 0710. 🐛 fix: fix broken CSS in mobile view
 0947. 📚 docs: write FAQ section
+0374. 🎨 style: standardize quote style
