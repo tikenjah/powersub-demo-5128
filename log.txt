@@ -255,3 +255,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0972. 🔧 refactor: refactor quiz grading logic
 0065. ✅ test: add integration test for /submit endpoint
+0050. ✨ feat: enable dark mode toggle
