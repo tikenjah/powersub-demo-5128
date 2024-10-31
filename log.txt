@@ -281,3 +281,4 @@
 0499. 🎨 style: reformat files with black
 0351. ✨ feat: add export to CSV option
 0250. 📚 docs: update README with setup steps
+0104. 🎨 style: apply consistent indentation
