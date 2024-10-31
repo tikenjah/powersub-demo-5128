@@ -10043,3 +10043,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0947. 📚 docs: write FAQ section
 0374. 🎨 style: standardize quote style
+0491. 🚀 perf: lazy-load components
