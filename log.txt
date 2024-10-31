@@ -5055,3 +5055,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0377. ✨ feat: add user authentication
 0173. 🚀 perf: cache repeated calculations
+0866. 📚 docs: add API usage examples
