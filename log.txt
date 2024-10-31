@@ -276,3 +276,4 @@
 0513. ♻️ chore: bump dependencies
 0530. 🔧 refactor: refactor quiz grading logic
 0963. 🚀 perf: reduce image load time
+0315. ✅ test: add integration test for /submit endpoint
