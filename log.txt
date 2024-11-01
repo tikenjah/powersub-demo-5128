@@ -289,3 +289,4 @@
 0460. 📚 docs: write FAQ section
 0867. 🔧 refactor: refactor quiz grading logic
 0313. 🎨 style: apply consistent indentation
+0333. 🚀 perf: cache repeated calculations
