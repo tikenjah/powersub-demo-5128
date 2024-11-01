@@ -287,3 +287,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0290. ✅ test: test user registration edge cases
 0460. 📚 docs: write FAQ section
+0867. 🔧 refactor: refactor quiz grading logic
