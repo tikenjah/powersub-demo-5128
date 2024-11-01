@@ -5064,3 +5064,4 @@
 0242. ♻️ chore: clean up unused files
 0235. 🐛 fix: fix null pointer exception on login
 0437. 📚 docs: clarify environment setup
+0243. 🔧 refactor: clean up auth middleware
