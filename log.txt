@@ -7061,3 +7061,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0408. ♻️ chore: add GitHub actions badge
 0951. 🎨 style: rename variables for clarity
+0206. 🐛 fix: handle 500 error in quiz API
