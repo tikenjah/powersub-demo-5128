@@ -285,3 +285,4 @@
 0604. 📚 docs: add API usage examples
 0341. 🚀 perf: lazy-load components
 0880. 🐛 fix: fix broken CSS in mobile view
+0290. ✅ test: test user registration edge cases
