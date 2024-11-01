@@ -5058,3 +5058,4 @@
 0866. 📚 docs: add API usage examples
 0164. 📚 docs: document token refresh logic
 0484. 🐛 fix: handle 500 error in quiz API
+0526. ✨ feat: add user authentication
