@@ -8058,3 +8058,4 @@
 0981. 🚀 perf: lazy-load components
 0976. ✨ feat: implement quiz timer feature
 0477. 🐛 fix: fix broken CSS in mobile view
+0979. 🎨 style: standardize quote style
