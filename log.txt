@@ -299,3 +299,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0904. ✨ feat: implement quiz timer feature
 0033. 🎨 style: apply consistent indentation
+0529. 📚 docs: write FAQ section
