@@ -301,3 +301,4 @@
 0033. 🎨 style: apply consistent indentation
 0529. 📚 docs: write FAQ section
 0419. 🎨 style: remove trailing whitespace
+0576. ♻️ chore: update .gitignore
