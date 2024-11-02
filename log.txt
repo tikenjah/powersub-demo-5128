@@ -302,3 +302,4 @@
 0529. 📚 docs: write FAQ section
 0419. 🎨 style: remove trailing whitespace
 0576. ♻️ chore: update .gitignore
+0666. 🐛 fix: fix broken CSS in mobile view
