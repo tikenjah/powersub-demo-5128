@@ -9059,3 +9059,4 @@
 0032. 🎨 style: apply consistent indentation
 0669. ✨ feat: enable dark mode toggle
 0452. ✨ feat: implement quiz timer feature
+0978. 🐛 fix: prevent crash on empty input
