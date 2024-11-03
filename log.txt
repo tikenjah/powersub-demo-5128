@@ -5068,3 +5068,4 @@
 0051. ✨ feat: enable dark mode toggle
 0800. 🚀 perf: optimize database query for quiz results
 0850. ♻️ chore: rename env.example
+0945. ♻️ chore: add GitHub actions badge
