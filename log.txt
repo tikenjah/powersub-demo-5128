@@ -7068,3 +7068,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0981. 🚀 perf: lazy-load components
 0395. 📚 docs: write FAQ section
+0194. 🎨 style: standardize quote style
