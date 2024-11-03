@@ -9060,3 +9060,4 @@
 0669. ✨ feat: enable dark mode toggle
 0452. ✨ feat: implement quiz timer feature
 0978. 🐛 fix: prevent crash on empty input
+0848. 📚 docs: update README with setup steps
