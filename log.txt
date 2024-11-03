@@ -5069,3 +5069,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0850. ♻️ chore: rename env.example
 0945. ♻️ chore: add GitHub actions badge
+0794. ♻️ chore: clean up unused files
