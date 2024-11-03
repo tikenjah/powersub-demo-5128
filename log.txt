@@ -7069,3 +7069,4 @@
 0981. 🚀 perf: lazy-load components
 0395. 📚 docs: write FAQ section
 0194. 🎨 style: standardize quote style
+0340. 🚀 perf: optimize database query for quiz results
