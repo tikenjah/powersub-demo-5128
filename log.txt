@@ -341,3 +341,4 @@
 0684. 🚀 perf: reduce image load time
 0333. 🚀 perf: cache repeated calculations
 0754. 🐛 fix: handle 500 error in quiz API
+0672. 🐛 fix: fix broken CSS in mobile view
