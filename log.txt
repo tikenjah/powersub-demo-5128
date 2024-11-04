@@ -10052,3 +10052,4 @@
 0984. ♻️ chore: clean up unused files
 0909. 🔧 refactor: organize models into subfolders
 0627. 📚 docs: document token refresh logic
+0394. 🚀 perf: lazy-load components
