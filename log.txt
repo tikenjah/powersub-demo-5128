@@ -337,3 +337,4 @@
 0569. 📚 docs: document token refresh logic
 0361. ✨ feat: support email verification
 0905. ♻️ chore: bump dependencies
+0197. 📚 docs: update README with setup steps
