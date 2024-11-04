@@ -334,3 +334,4 @@
 0166. 🚀 perf: cache repeated calculations
 0970. ♻️ chore: update .gitignore
 0713. 🐛 fix: handle 500 error in quiz API
+0569. 📚 docs: document token refresh logic
