@@ -340,3 +340,4 @@
 0197. 📚 docs: update README with setup steps
 0684. 🚀 perf: reduce image load time
 0333. 🚀 perf: cache repeated calculations
+0754. 🐛 fix: handle 500 error in quiz API
