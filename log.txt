@@ -9066,3 +9066,4 @@
 0401. 🚀 perf: reduce image load time
 0714. 📚 docs: improve code comments in utils
 0223. 🔧 refactor: remove redundant code blocks
+0379. ✨ feat: support email verification
