@@ -347,3 +347,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0618. ✨ feat: support email verification
 0408. ♻️ chore: add GitHub actions badge
+0026. 🔧 refactor: clean up auth middleware
