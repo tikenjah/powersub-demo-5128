@@ -6054,3 +6054,4 @@
 0846. ✨ feat: implement quiz timer feature
 0008. 🚀 perf: reduce image load time
 0178. ✨ feat: support email verification
+0508. ✅ test: add unit test for quiz service
