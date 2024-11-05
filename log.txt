@@ -7074,3 +7074,4 @@
 0458. ✨ feat: create admin dashboard
 0328. 🐛 fix: resolve issue with date parsing
 0971. 🎨 style: standardize quote style
+0131. 📚 docs: write FAQ section
