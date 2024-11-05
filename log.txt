@@ -356,3 +356,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0029. 🚀 perf: lazy-load components
 0022. 📚 docs: document token refresh logic
+0755. 🚀 perf: cache repeated calculations
