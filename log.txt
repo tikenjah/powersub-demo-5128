@@ -8061,3 +8061,4 @@
 0979. 🎨 style: standardize quote style
 0713. 🐛 fix: handle 500 error in quiz API
 0452. ✨ feat: implement quiz timer feature
+0896. 🚀 perf: reduce image load time
