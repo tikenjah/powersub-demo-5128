@@ -8063,3 +8063,4 @@
 0452. ✨ feat: implement quiz timer feature
 0896. 🚀 perf: reduce image load time
 0604. 📚 docs: add API usage examples
+0754. 🐛 fix: handle 500 error in quiz API
