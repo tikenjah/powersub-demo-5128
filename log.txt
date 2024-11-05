@@ -6055,3 +6055,4 @@
 0008. 🚀 perf: reduce image load time
 0178. ✨ feat: support email verification
 0508. ✅ test: add unit test for quiz service
+0706. ✨ feat: support email verification
