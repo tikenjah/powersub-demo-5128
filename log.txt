@@ -368,3 +368,4 @@
 0749. ✨ feat: support email verification
 0169. 📚 docs: add API usage examples
 0632. 🎨 style: remove trailing whitespace
+0820. 📚 docs: add API usage examples
