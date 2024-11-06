@@ -8066,3 +8066,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0705. 🔧 refactor: refactor quiz grading logic
 0836. 🚀 perf: optimize database query for quiz results
+0833. ✨ feat: add user authentication
