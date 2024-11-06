@@ -369,3 +369,4 @@
 0169. 📚 docs: add API usage examples
 0632. 🎨 style: remove trailing whitespace
 0820. 📚 docs: add API usage examples
+0139. 📚 docs: document token refresh logic
