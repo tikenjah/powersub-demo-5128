@@ -389,3 +389,4 @@
 0271. ✅ test: add unit test for quiz service
 0695. ✨ feat: create admin dashboard
 0653. 🐛 fix: prevent crash on empty input
+0996. ✅ test: test user registration edge cases
