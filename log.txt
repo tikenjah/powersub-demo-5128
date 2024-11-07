@@ -391,3 +391,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0996. ✅ test: test user registration edge cases
 0757. 🔧 refactor: remove redundant code blocks
+0751. 🐛 fix: handle 500 error in quiz API
