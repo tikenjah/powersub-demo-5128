@@ -7080,3 +7080,4 @@
 0528. ♻️ chore: clean up unused files
 0512. 🚀 perf: reduce image load time
 0719. 🎨 style: apply consistent indentation
+0579. 📚 docs: clarify environment setup
