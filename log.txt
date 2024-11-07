@@ -394,3 +394,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0410. 🎨 style: reformat files with black
 0363. 📚 docs: clarify environment setup
+0102. ✨ feat: support email verification
