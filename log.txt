@@ -6066,3 +6066,4 @@
 0904. ✨ feat: implement quiz timer feature
 0858. ♻️ chore: clean up unused files
 0996. ✅ test: test user registration edge cases
+0680. ♻️ chore: add GitHub actions badge
