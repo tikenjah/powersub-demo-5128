@@ -6067,3 +6067,4 @@
 0858. ♻️ chore: clean up unused files
 0996. ✅ test: test user registration edge cases
 0680. ♻️ chore: add GitHub actions badge
+0177. 📚 docs: add API usage examples
