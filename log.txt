@@ -402,3 +402,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0958. 🐛 fix: prevent crash on empty input
 0826. 📚 docs: clarify environment setup
+0871. ✅ test: add integration test for /submit endpoint
