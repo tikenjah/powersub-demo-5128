@@ -9079,3 +9079,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0846. ✨ feat: implement quiz timer feature
 0742. 📚 docs: clarify environment setup
+0099. 🚀 perf: reduce image load time
