@@ -6065,3 +6065,4 @@
 0597. 🚀 perf: cache repeated calculations
 0904. ✨ feat: implement quiz timer feature
 0858. ♻️ chore: clean up unused files
+0996. ✅ test: test user registration edge cases
