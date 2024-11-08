@@ -396,3 +396,4 @@
 0363. 📚 docs: clarify environment setup
 0102. ✨ feat: support email verification
 0425. 🔧 refactor: refactor quiz grading logic
+0725. 🚀 perf: lazy-load components
