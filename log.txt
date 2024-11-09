@@ -416,3 +416,4 @@
 0809. ♻️ chore: rename env.example
 0599. ✅ test: test user registration edge cases
 0837. 🚀 perf: cache repeated calculations
+0945. ♻️ chore: add GitHub actions badge
