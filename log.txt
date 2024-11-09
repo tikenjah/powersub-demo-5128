@@ -5089,3 +5089,4 @@
 0146. 🎨 style: apply consistent indentation
 0673. 🐛 fix: correct typo in registration form
 0523. ♻️ chore: bump dependencies
+0672. 🐛 fix: fix broken CSS in mobile view
