@@ -10073,3 +10073,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0010. ✨ feat: add user authentication
 0262. 🎨 style: remove trailing whitespace
+0273. 🚀 perf: reduce image load time
