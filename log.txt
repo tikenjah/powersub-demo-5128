@@ -411,3 +411,4 @@
 0083. 🎨 style: reformat files with black
 0091. ✨ feat: add user authentication
 0860. 🔧 refactor: organize models into subfolders
+0275. 🎨 style: standardize quote style
