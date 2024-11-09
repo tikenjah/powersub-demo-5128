@@ -406,3 +406,4 @@
 0411. ✅ test: add unit test for quiz service
 0651. ✨ feat: enable dark mode toggle
 0037. 🐛 fix: correct typo in registration form
+0048. 📚 docs: update README with setup steps
