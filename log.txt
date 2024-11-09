@@ -407,3 +407,4 @@
 0651. ✨ feat: enable dark mode toggle
 0037. 🐛 fix: correct typo in registration form
 0048. 📚 docs: update README with setup steps
+0264. 🚀 perf: optimize database query for quiz results
