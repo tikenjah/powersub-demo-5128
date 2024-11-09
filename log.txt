@@ -8071,3 +8071,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0847. ♻️ chore: clean up unused files
 0667. ✨ feat: add export to CSV option
+0929. ✨ feat: support email verification
