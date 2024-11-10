@@ -8076,3 +8076,4 @@
 0928. 🎨 style: apply consistent indentation
 0351. ✨ feat: add export to CSV option
 0925. ✨ feat: add export to CSV option
+0668. 🚀 perf: optimize database query for quiz results
