@@ -7090,3 +7090,4 @@
 0269. ✅ test: test user registration edge cases
 0519. 📚 docs: document token refresh logic
 0713. 🐛 fix: handle 500 error in quiz API
+0151. ✅ test: add unit test for quiz service
