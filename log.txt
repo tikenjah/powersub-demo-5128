@@ -421,3 +421,4 @@
 0259. 🚀 perf: lazy-load components
 0712. 🎨 style: apply consistent indentation
 0583. ✅ test: increase coverage on auth module
+0496. ✅ test: add integration test for /submit endpoint
