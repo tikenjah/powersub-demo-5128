@@ -6074,3 +6074,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0651. ✨ feat: enable dark mode toggle
 0562. 🔧 refactor: clean up auth middleware
+0528. ♻️ chore: clean up unused files
