@@ -418,3 +418,4 @@
 0837. 🚀 perf: cache repeated calculations
 0945. ♻️ chore: add GitHub actions badge
 0015. ✨ feat: implement quiz timer feature
+0259. 🚀 perf: lazy-load components
