@@ -434,3 +434,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0060. ♻️ chore: clean up unused files
 0807. 🔧 refactor: remove redundant code blocks
+0243. 🔧 refactor: clean up auth middleware
