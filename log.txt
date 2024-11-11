@@ -9082,3 +9082,4 @@
 0099. 🚀 perf: reduce image load time
 0055. 📚 docs: update README with setup steps
 0930. 🎨 style: apply consistent indentation
+0778. 📚 docs: write FAQ section
