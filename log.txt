@@ -442,3 +442,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0130. 🔧 refactor: split large controller into smaller functions
 0526. ✨ feat: add user authentication
+0574. ✨ feat: enable dark mode toggle
