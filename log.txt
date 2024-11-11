@@ -6076,3 +6076,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0528. ♻️ chore: clean up unused files
 0458. ✨ feat: create admin dashboard
+0929. ✨ feat: support email verification
