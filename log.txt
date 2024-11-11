@@ -428,3 +428,4 @@
 0833. ✨ feat: add user authentication
 0121. ✨ feat: support email verification
 0978. 🐛 fix: prevent crash on empty input
+0948. 🐛 fix: fix broken CSS in mobile view
