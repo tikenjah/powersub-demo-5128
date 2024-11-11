@@ -5096,3 +5096,4 @@
 0419. 🎨 style: remove trailing whitespace
 0258. 🐛 fix: prevent crash on empty input
 0957. 🐛 fix: fix null pointer exception on login
+0052. 🎨 style: standardize quote style
