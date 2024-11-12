@@ -449,3 +449,4 @@
 0793. 📚 docs: clarify environment setup
 0629. 🔧 refactor: organize models into subfolders
 0507. 🔧 refactor: clean up auth middleware
+0656. 🎨 style: apply consistent indentation
