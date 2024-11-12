@@ -9086,3 +9086,4 @@
 0795. 📚 docs: update README with setup steps
 0802. 🔧 refactor: remove redundant code blocks
 0668. 🚀 perf: optimize database query for quiz results
+0920. 🔧 refactor: organize models into subfolders
