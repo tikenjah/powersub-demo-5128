@@ -448,3 +448,4 @@
 0418. ✅ test: mock database connection in test suite
 0793. 📚 docs: clarify environment setup
 0629. 🔧 refactor: organize models into subfolders
+0507. 🔧 refactor: clean up auth middleware
