@@ -454,3 +454,4 @@
 0916. ♻️ chore: bump dependencies
 0427. ✅ test: mock database connection in test suite
 0239. 🎨 style: standardize quote style
+0896. 🚀 perf: reduce image load time
