@@ -467,3 +467,4 @@
 0605. ✨ feat: support email verification
 0778. 📚 docs: write FAQ section
 0641. 📚 docs: write FAQ section
+0381. ♻️ chore: clean up unused files
