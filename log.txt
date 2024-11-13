@@ -462,3 +462,4 @@
 0974. ✨ feat: add export to CSV option
 0726. ✨ feat: enable dark mode toggle
 0095. ✅ test: mock database connection in test suite
+0890. 🔧 refactor: organize models into subfolders
