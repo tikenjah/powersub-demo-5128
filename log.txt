@@ -8082,3 +8082,4 @@
 0335. ♻️ chore: update .gitignore
 0841. 🚀 perf: optimize database query for quiz results
 0153. ♻️ chore: rename env.example
+0024. 📚 docs: write FAQ section
