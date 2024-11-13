@@ -465,3 +465,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0586. 🎨 style: remove trailing whitespace
 0605. ✨ feat: support email verification
+0778. 📚 docs: write FAQ section
