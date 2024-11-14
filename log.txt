@@ -5103,3 +5103,4 @@
 0765. ♻️ chore: clean up unused files
 0353. ♻️ chore: rename env.example
 0074. ♻️ chore: add GitHub actions badge
+0210. 🎨 style: apply consistent indentation
