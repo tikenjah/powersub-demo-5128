@@ -488,3 +488,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0858. ♻️ chore: clean up unused files
 0565. ♻️ chore: add GitHub actions badge
+0978. 🐛 fix: prevent crash on empty input
