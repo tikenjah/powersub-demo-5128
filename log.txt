@@ -7095,3 +7095,4 @@
 0055. 📚 docs: update README with setup steps
 0862. ♻️ chore: bump dependencies
 0539. 🔧 refactor: organize models into subfolders
+0367. 🐛 fix: fix null pointer exception on login
