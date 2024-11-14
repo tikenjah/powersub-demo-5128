@@ -6085,3 +6085,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0182. 🔧 refactor: remove redundant code blocks
 0327. 🔧 refactor: split large controller into smaller functions
+0116. ✨ feat: support email verification
