@@ -8088,3 +8088,4 @@
 0725. 🚀 perf: lazy-load components
 0792. 🎨 style: standardize quote style
 0673. 🐛 fix: correct typo in registration form
+0022. 📚 docs: document token refresh logic
