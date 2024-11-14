@@ -8084,3 +8084,4 @@
 0153. ♻️ chore: rename env.example
 0024. 📚 docs: write FAQ section
 0833. ✨ feat: add user authentication
+0079. 🐛 fix: correct typo in registration form
