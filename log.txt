@@ -487,3 +487,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0067. 🔧 refactor: remove redundant code blocks
 0858. ♻️ chore: clean up unused files
+0565. ♻️ chore: add GitHub actions badge
