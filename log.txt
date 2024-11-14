@@ -480,3 +480,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0936. 🔧 refactor: organize models into subfolders
 0051. ✨ feat: enable dark mode toggle
+0162. ♻️ chore: add GitHub actions badge
