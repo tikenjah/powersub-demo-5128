@@ -6088,3 +6088,4 @@
 0116. ✨ feat: support email verification
 0038. 🎨 style: rename variables for clarity
 0390. 🎨 style: standardize quote style
+0703. 🔧 refactor: clean up auth middleware
