@@ -500,3 +500,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0770. ♻️ chore: rename env.example
 0641. 📚 docs: write FAQ section
+0238. 🎨 style: apply consistent indentation
