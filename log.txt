@@ -8091,3 +8091,4 @@
 0022. 📚 docs: document token refresh logic
 0923. ✨ feat: support email verification
 0450. 🐛 fix: fix broken CSS in mobile view
+0231. 🔧 refactor: clean up auth middleware
