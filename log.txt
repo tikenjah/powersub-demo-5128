@@ -499,3 +499,4 @@
 0265. 🎨 style: reformat files with black
 0497. 🔧 refactor: refactor quiz grading logic
 0770. ♻️ chore: rename env.example
+0641. 📚 docs: write FAQ section
