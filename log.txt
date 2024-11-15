@@ -10088,3 +10088,4 @@
 0996. ✅ test: test user registration edge cases
 0982. 🚀 perf: lazy-load components
 0166. 🚀 perf: cache repeated calculations
+0094. 📚 docs: document token refresh logic
