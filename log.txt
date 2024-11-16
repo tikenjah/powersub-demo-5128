@@ -511,3 +511,4 @@
 0939. 📚 docs: update README with setup steps
 0158. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
+0886. ♻️ chore: clean up unused files
