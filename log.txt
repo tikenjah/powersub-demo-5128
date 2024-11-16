@@ -513,3 +513,4 @@
 0605. ✨ feat: support email verification
 0886. ♻️ chore: clean up unused files
 0830. 🎨 style: apply consistent indentation
+0501. ✨ feat: add export to CSV option
