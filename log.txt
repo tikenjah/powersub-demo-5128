@@ -514,3 +514,4 @@
 0886. ♻️ chore: clean up unused files
 0830. 🎨 style: apply consistent indentation
 0501. ✨ feat: add export to CSV option
+0181. ♻️ chore: add GitHub actions badge
