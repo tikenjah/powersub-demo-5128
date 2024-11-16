@@ -7102,3 +7102,4 @@
 0852. ✨ feat: enable dark mode toggle
 0050. ✨ feat: enable dark mode toggle
 0331. 🐛 fix: fix broken CSS in mobile view
+0889. 🚀 perf: lazy-load components
