@@ -5107,3 +5107,4 @@
 0126. 🎨 style: rename variables for clarity
 0270. ♻️ chore: rename env.example
 0866. 📚 docs: add API usage examples
+0511. 🐛 fix: fix broken CSS in mobile view
