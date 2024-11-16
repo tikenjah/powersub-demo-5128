@@ -10093,3 +10093,4 @@
 0238. 🎨 style: apply consistent indentation
 0302. ✨ feat: implement quiz timer feature
 0987. ✨ feat: create admin dashboard
+0171. 🐛 fix: fix broken CSS in mobile view
