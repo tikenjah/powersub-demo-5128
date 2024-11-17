@@ -531,3 +531,4 @@
 0088. 📚 docs: add API usage examples
 0717. 🔧 refactor: refactor quiz grading logic
 0364. 🐛 fix: resolve issue with date parsing
+0531. 🐛 fix: prevent crash on empty input
