@@ -523,3 +523,4 @@
 0944. ✨ feat: add user authentication
 0530. 🔧 refactor: refactor quiz grading logic
 0662. ♻️ chore: clean up unused files
+0332. 🎨 style: standardize quote style
