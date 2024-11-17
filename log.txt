@@ -5109,3 +5109,4 @@
 0866. 📚 docs: add API usage examples
 0511. 🐛 fix: fix broken CSS in mobile view
 0790. 📚 docs: write FAQ section
+0219. ✅ test: increase coverage on auth module
