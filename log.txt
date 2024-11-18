@@ -6100,3 +6100,4 @@
 0417. 🎨 style: rename variables for clarity
 0074. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
+0105. 🐛 fix: correct typo in registration form
