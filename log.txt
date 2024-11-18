@@ -547,3 +547,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0007. 🎨 style: rename variables for clarity
 0847. ♻️ chore: clean up unused files
+0159. 🚀 perf: lazy-load components
