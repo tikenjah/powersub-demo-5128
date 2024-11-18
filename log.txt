@@ -9100,3 +9100,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0477. 🐛 fix: fix broken CSS in mobile view
 0189. 📚 docs: clarify environment setup
+0877. 🚀 perf: optimize database query for quiz results
