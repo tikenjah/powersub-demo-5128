@@ -5111,3 +5111,4 @@
 0790. 📚 docs: write FAQ section
 0219. ✅ test: increase coverage on auth module
 0977. 🔧 refactor: organize models into subfolders
+0424. ✨ feat: add user authentication
