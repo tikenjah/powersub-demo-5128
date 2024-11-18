@@ -534,3 +534,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0156. 🎨 style: rename variables for clarity
 0393. 🚀 perf: lazy-load components
+0498. ✅ test: mock database connection in test suite
