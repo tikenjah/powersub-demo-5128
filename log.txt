@@ -549,3 +549,4 @@
 0847. ♻️ chore: clean up unused files
 0159. 🚀 perf: lazy-load components
 0179. 🔧 refactor: split large controller into smaller functions
+0514. 🐛 fix: fix broken CSS in mobile view
