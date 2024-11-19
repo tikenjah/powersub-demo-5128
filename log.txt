@@ -5113,3 +5113,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0424. ✨ feat: add user authentication
 0556. ✨ feat: support email verification
+0580. ♻️ chore: bump dependencies
