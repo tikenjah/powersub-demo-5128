@@ -554,3 +554,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0118. 🚀 perf: reduce image load time
 0955. 🔧 refactor: remove redundant code blocks
+0800. 🚀 perf: optimize database query for quiz results
