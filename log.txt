@@ -7112,3 +7112,4 @@
 0292. 📚 docs: clarify environment setup
 0284. ✨ feat: implement quiz timer feature
 0142. ✨ feat: implement quiz timer feature
+0096. 🐛 fix: prevent crash on empty input
