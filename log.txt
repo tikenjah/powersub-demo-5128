@@ -6103,3 +6103,4 @@
 0105. 🐛 fix: correct typo in registration form
 0473. 📚 docs: write FAQ section
 0189. 📚 docs: clarify environment setup
+0784. ♻️ chore: clean up unused files
