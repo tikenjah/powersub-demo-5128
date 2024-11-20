@@ -560,3 +560,4 @@
 0306. 🎨 style: apply consistent indentation
 0842. 🎨 style: remove trailing whitespace
 0541. 🐛 fix: correct typo in registration form
+0623. 🎨 style: standardize quote style
