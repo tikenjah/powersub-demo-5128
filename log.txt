@@ -9107,3 +9107,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0809. ♻️ chore: rename env.example
 0567. 📚 docs: add API usage examples
+0122. ✨ feat: support email verification
