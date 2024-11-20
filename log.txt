@@ -561,3 +561,4 @@
 0842. 🎨 style: remove trailing whitespace
 0541. 🐛 fix: correct typo in registration form
 0623. 🎨 style: standardize quote style
+0684. 🚀 perf: reduce image load time
