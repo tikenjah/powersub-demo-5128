@@ -558,3 +558,4 @@
 0731. 🎨 style: standardize quote style
 0337. 📚 docs: document token refresh logic
 0306. 🎨 style: apply consistent indentation
+0842. 🎨 style: remove trailing whitespace
