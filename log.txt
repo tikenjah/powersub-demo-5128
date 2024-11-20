@@ -5115,3 +5115,4 @@
 0556. ✨ feat: support email verification
 0580. ♻️ chore: bump dependencies
 0882. 🚀 perf: optimize database query for quiz results
+0090. ✅ test: increase coverage on auth module
