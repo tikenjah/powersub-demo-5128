@@ -575,3 +575,4 @@
 0123. ✨ feat: implement quiz timer feature
 0780. 📚 docs: add API usage examples
 0379. ✨ feat: support email verification
+0418. ✅ test: mock database connection in test suite
