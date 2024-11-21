@@ -9110,3 +9110,4 @@
 0122. ✨ feat: support email verification
 0136. 🚀 perf: lazy-load components
 0147. ♻️ chore: bump dependencies
+0603. 🐛 fix: fix broken CSS in mobile view
