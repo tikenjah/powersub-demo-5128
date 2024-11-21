@@ -5118,3 +5118,4 @@
 0090. ✅ test: increase coverage on auth module
 0791. 🔧 refactor: clean up auth middleware
 0832. 🔧 refactor: remove redundant code blocks
+0237. 🎨 style: standardize quote style
