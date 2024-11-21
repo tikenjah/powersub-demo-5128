@@ -574,3 +574,4 @@
 0260. ✨ feat: create admin dashboard
 0123. ✨ feat: implement quiz timer feature
 0780. 📚 docs: add API usage examples
+0379. ✨ feat: support email verification
