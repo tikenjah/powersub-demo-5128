@@ -583,3 +583,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0163. ✨ feat: implement quiz timer feature
 0875. ✅ test: increase coverage on auth module
+0775. 🐛 fix: fix null pointer exception on login
