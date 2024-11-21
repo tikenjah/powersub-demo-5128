@@ -9109,3 +9109,4 @@
 0567. 📚 docs: add API usage examples
 0122. ✨ feat: support email verification
 0136. 🚀 perf: lazy-load components
+0147. ♻️ chore: bump dependencies
