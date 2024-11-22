@@ -6113,3 +6113,4 @@
 0739. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
 0749. ✨ feat: support email verification
+0402. 🎨 style: reformat files with black
