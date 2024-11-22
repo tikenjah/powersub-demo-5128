@@ -597,3 +597,4 @@
 0170. ✅ test: increase coverage on auth module
 0635. 🎨 style: apply consistent indentation
 0077. ♻️ chore: rename env.example
+0962. ✨ feat: create admin dashboard
