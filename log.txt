@@ -8104,3 +8104,4 @@
 0254. 🚀 perf: reduce image load time
 0619. ✨ feat: create admin dashboard
 0368. 🚀 perf: lazy-load components
+0078. ♻️ chore: update .gitignore
