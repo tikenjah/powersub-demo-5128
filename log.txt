@@ -587,3 +587,4 @@
 0305. ✨ feat: enable dark mode toggle
 0619. ✨ feat: create admin dashboard
 0099. 🚀 perf: reduce image load time
+0857. 🎨 style: rename variables for clarity
