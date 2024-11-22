@@ -594,3 +594,4 @@
 0087. ✨ feat: add export to CSV option
 0590. 🐛 fix: fix null pointer exception on login
 0369. 🎨 style: standardize quote style
+0170. ✅ test: increase coverage on auth module
