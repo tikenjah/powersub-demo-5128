@@ -591,3 +591,4 @@
 0648. ♻️ chore: bump dependencies
 0461. ✨ feat: add user authentication
 0854. ♻️ chore: rename env.example
+0087. ✨ feat: add export to CSV option
