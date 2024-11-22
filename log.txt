@@ -8103,3 +8103,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0254. 🚀 perf: reduce image load time
 0619. ✨ feat: create admin dashboard
+0368. 🚀 perf: lazy-load components
