@@ -10110,3 +10110,4 @@
 0831. 📚 docs: clarify environment setup
 0905. ♻️ chore: bump dependencies
 0354. 📚 docs: add API usage examples
+0233. 🚀 perf: lazy-load components
