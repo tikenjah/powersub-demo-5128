@@ -8108,3 +8108,4 @@
 0098. 🎨 style: rename variables for clarity
 0545. 🎨 style: standardize quote style
 0021. ✨ feat: support email verification
+0792. 🎨 style: standardize quote style
