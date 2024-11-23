@@ -600,3 +600,4 @@
 0962. ✨ feat: create admin dashboard
 0961. 📚 docs: add API usage examples
 0831. 📚 docs: clarify environment setup
+0389. 📚 docs: improve code comments in utils
