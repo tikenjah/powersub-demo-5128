@@ -606,3 +606,4 @@
 0924. ✅ test: mock database connection in test suite
 0731. 🎨 style: standardize quote style
 0335. ♻️ chore: update .gitignore
+0097. 🐛 fix: handle 500 error in quiz API
