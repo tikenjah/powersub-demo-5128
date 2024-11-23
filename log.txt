@@ -605,3 +605,4 @@
 0454. ♻️ chore: bump dependencies
 0924. ✅ test: mock database connection in test suite
 0731. 🎨 style: standardize quote style
+0335. ♻️ chore: update .gitignore
