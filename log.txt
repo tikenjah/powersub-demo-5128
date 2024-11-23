@@ -8107,3 +8107,4 @@
 0078. ♻️ chore: update .gitignore
 0098. 🎨 style: rename variables for clarity
 0545. 🎨 style: standardize quote style
+0021. ✨ feat: support email verification
