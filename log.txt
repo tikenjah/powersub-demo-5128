@@ -6116,3 +6116,4 @@
 0402. 🎨 style: reformat files with black
 0041. 🐛 fix: fix broken CSS in mobile view
 0565. ♻️ chore: add GitHub actions badge
+0028. 🎨 style: standardize quote style
