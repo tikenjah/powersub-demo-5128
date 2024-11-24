@@ -618,3 +618,4 @@
 0384. 📚 docs: clarify environment setup
 0085. ✨ feat: support email verification
 0889. 🚀 perf: lazy-load components
+0459. 🔧 refactor: organize models into subfolders
