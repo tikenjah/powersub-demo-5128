@@ -621,3 +621,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0526. ✨ feat: add user authentication
 0256. ✅ test: mock database connection in test suite
+0433. 🐛 fix: prevent crash on empty input
