@@ -622,3 +622,4 @@
 0526. ✨ feat: add user authentication
 0256. ✅ test: mock database connection in test suite
 0433. 🐛 fix: prevent crash on empty input
+0877. 🚀 perf: optimize database query for quiz results
