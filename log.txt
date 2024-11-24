@@ -615,3 +615,4 @@
 0326. 🚀 perf: cache repeated calculations
 0194. 🎨 style: standardize quote style
 0755. 🚀 perf: cache repeated calculations
+0384. 📚 docs: clarify environment setup
