@@ -630,3 +630,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0547. 📚 docs: write FAQ section
 0165. 🎨 style: remove trailing whitespace
+0548. 📚 docs: write FAQ section
