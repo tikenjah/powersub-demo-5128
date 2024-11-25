@@ -636,3 +636,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0320. 📚 docs: update README with setup steps
 0184. 📚 docs: improve code comments in utils
+0538. 🐛 fix: fix broken CSS in mobile view
