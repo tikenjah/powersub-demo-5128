@@ -5130,3 +5130,4 @@
 0412. ✅ test: increase coverage on auth module
 0908. ♻️ chore: bump dependencies
 0926. 🔧 refactor: organize models into subfolders
+0852. ✨ feat: enable dark mode toggle
