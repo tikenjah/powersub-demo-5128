@@ -9121,3 +9121,4 @@
 0863. 🐛 fix: correct typo in registration form
 0553. 🐛 fix: correct typo in registration form
 0659. 📚 docs: add API usage examples
+0783. 🐛 fix: handle 500 error in quiz API
