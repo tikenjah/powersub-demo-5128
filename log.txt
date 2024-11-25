@@ -9123,3 +9123,4 @@
 0659. 📚 docs: add API usage examples
 0783. 🐛 fix: handle 500 error in quiz API
 0044. ✅ test: add unit test for quiz service
+0613. 🐛 fix: prevent crash on empty input
