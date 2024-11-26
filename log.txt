@@ -651,3 +651,4 @@
 0839. 🎨 style: apply consistent indentation
 0278. 🔧 refactor: clean up auth middleware
 0350. 🚀 perf: cache repeated calculations
+0997. ✅ test: increase coverage on auth module
