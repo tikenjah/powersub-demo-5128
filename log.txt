@@ -652,3 +652,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0350. 🚀 perf: cache repeated calculations
 0997. ✅ test: increase coverage on auth module
+0111. 📚 docs: update README with setup steps
