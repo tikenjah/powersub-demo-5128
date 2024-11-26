@@ -9126,3 +9126,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0950. 🎨 style: reformat files with black
 0383. 🐛 fix: fix broken CSS in mobile view
+0974. ✨ feat: add export to CSV option
