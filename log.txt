@@ -648,3 +648,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0756. ✨ feat: support email verification
 0238. 🎨 style: apply consistent indentation
+0839. 🎨 style: apply consistent indentation
