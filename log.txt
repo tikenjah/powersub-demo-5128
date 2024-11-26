@@ -639,3 +639,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0888. 🚀 perf: lazy-load components
 0230. ✨ feat: create admin dashboard
+0830. 🎨 style: apply consistent indentation
