@@ -8117,3 +8117,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0484. 🐛 fix: handle 500 error in quiz API
 0332. 🎨 style: standardize quote style
+0831. 📚 docs: clarify environment setup
