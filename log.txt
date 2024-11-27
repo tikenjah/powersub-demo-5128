@@ -655,3 +655,4 @@
 0111. 📚 docs: update README with setup steps
 0844. 📚 docs: update README with setup steps
 0997. ✅ test: increase coverage on auth module
+0624. ✅ test: add unit test for quiz service
