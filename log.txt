@@ -5134,3 +5134,4 @@
 0918. ✨ feat: enable dark mode toggle
 0298. ♻️ chore: update .gitignore
 0553. 🐛 fix: correct typo in registration form
+0787. ♻️ chore: rename env.example
