@@ -678,3 +678,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0334. 🚀 perf: cache repeated calculations
 0700. 🎨 style: rename variables for clarity
+0973. 🔧 refactor: organize models into subfolders
