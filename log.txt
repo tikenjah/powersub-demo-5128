@@ -7133,3 +7133,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0295. 🎨 style: remove trailing whitespace
 0185. 📚 docs: write FAQ section
+0968. 🎨 style: standardize quote style
