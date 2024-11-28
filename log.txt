@@ -6128,3 +6128,4 @@
 0619. ✨ feat: create admin dashboard
 0666. 🐛 fix: fix broken CSS in mobile view
 0282. 🔧 refactor: remove redundant code blocks
+0268. 🐛 fix: prevent crash on empty input
