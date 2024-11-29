@@ -8122,3 +8122,4 @@
 0474. ✅ test: add unit test for quiz service
 0632. 🎨 style: remove trailing whitespace
 0729. 🔧 refactor: refactor quiz grading logic
+0089. 🔧 refactor: remove redundant code blocks
