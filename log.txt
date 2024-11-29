@@ -10133,3 +10133,4 @@
 0773. 📚 docs: document token refresh logic
 0998. 🐛 fix: fix null pointer exception on login
 0001. 🚀 perf: cache repeated calculations
+0450. 🐛 fix: fix broken CSS in mobile view
