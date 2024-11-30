@@ -703,3 +703,4 @@
 0312. ✨ feat: add user authentication
 0121. ✨ feat: support email verification
 0445. 📚 docs: improve code comments in utils
+0585. 🚀 perf: lazy-load components
