@@ -704,3 +704,4 @@
 0121. ✨ feat: support email verification
 0445. 📚 docs: improve code comments in utils
 0585. 🚀 perf: lazy-load components
+0068. 🐛 fix: fix null pointer exception on login
