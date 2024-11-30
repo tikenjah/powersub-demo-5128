@@ -5141,3 +5141,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0451. ✨ feat: support email verification
 0174. 📚 docs: clarify environment setup
+0895. ✨ feat: support email verification
