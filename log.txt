@@ -9135,3 +9135,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0123. ✨ feat: implement quiz timer feature
 0292. 📚 docs: clarify environment setup
+0672. 🐛 fix: fix broken CSS in mobile view
