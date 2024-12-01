@@ -713,3 +713,4 @@
 0061. ✨ feat: create admin dashboard
 0024. 📚 docs: write FAQ section
 0300. ✨ feat: add export to CSV option
+0882. 🚀 perf: optimize database query for quiz results
