@@ -723,3 +723,4 @@
 0577. ✨ feat: implement quiz timer feature
 0592. 📚 docs: add API usage examples
 0561. 📚 docs: write FAQ section
+0395. 📚 docs: write FAQ section
