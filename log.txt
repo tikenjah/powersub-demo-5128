@@ -718,3 +718,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0056. ♻️ chore: rename env.example
 0328. 🐛 fix: resolve issue with date parsing
+0537. 🔧 refactor: remove redundant code blocks
