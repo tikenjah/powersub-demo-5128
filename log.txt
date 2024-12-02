@@ -6142,3 +6142,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0613. 🐛 fix: prevent crash on empty input
 0072. 🚀 perf: optimize database query for quiz results
+0796. 🔧 refactor: refactor quiz grading logic
