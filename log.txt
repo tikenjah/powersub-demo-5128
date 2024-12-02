@@ -725,3 +725,4 @@
 0561. 📚 docs: write FAQ section
 0395. 📚 docs: write FAQ section
 0364. 🐛 fix: resolve issue with date parsing
+0978. 🐛 fix: prevent crash on empty input
