@@ -739,3 +739,4 @@
 0402. 🎨 style: reformat files with black
 0165. 🎨 style: remove trailing whitespace
 0995. ✅ test: mock database connection in test suite
+0269. ✅ test: test user registration edge cases
