@@ -732,3 +732,4 @@
 0700. 🎨 style: rename variables for clarity
 0702. ✨ feat: add user authentication
 0802. 🔧 refactor: remove redundant code blocks
+0545. 🎨 style: standardize quote style
