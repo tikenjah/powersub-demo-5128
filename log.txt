@@ -738,3 +738,4 @@
 0558. ✨ feat: enable dark mode toggle
 0402. 🎨 style: reformat files with black
 0165. 🎨 style: remove trailing whitespace
+0995. ✅ test: mock database connection in test suite
