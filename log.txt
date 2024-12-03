@@ -10141,3 +10141,4 @@
 0911. ✅ test: increase coverage on auth module
 0590. 🐛 fix: fix null pointer exception on login
 0353. ♻️ chore: rename env.example
+0316. 🐛 fix: fix broken CSS in mobile view
