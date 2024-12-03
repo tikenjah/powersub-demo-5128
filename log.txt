@@ -7145,3 +7145,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0728. 🔧 refactor: split large controller into smaller functions
 0194. 🎨 style: standardize quote style
+0942. ✅ test: increase coverage on auth module
