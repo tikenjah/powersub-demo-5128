@@ -5148,3 +5148,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0456. 🚀 perf: optimize database query for quiz results
 0778. 📚 docs: write FAQ section
+0788. 📚 docs: add API usage examples
