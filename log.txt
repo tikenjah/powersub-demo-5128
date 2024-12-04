@@ -8134,3 +8134,4 @@
 0329. 📚 docs: update README with setup steps
 0452. ✨ feat: implement quiz timer feature
 0732. ♻️ chore: add GitHub actions badge
+0937. 🐛 fix: handle 500 error in quiz API
