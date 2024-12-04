@@ -5150,3 +5150,4 @@
 0778. 📚 docs: write FAQ section
 0788. 📚 docs: add API usage examples
 0403. ✅ test: mock database connection in test suite
+0780. 📚 docs: add API usage examples
