@@ -755,3 +755,4 @@
 0591. ♻️ chore: clean up unused files
 0767. 🔧 refactor: remove redundant code blocks
 0316. 🐛 fix: fix broken CSS in mobile view
+0095. ✅ test: mock database connection in test suite
