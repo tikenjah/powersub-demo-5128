@@ -9154,3 +9154,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0117. ✅ test: increase coverage on auth module
 0924. ✅ test: mock database connection in test suite
+0180. ✨ feat: add export to CSV option
