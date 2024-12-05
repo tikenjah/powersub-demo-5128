@@ -748,3 +748,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0282. 🔧 refactor: remove redundant code blocks
 0768. 🎨 style: remove trailing whitespace
+0970. ♻️ chore: update .gitignore
