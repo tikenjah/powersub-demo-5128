@@ -760,3 +760,4 @@
 0007. 🎨 style: rename variables for clarity
 0307. ✨ feat: support email verification
 0729. 🔧 refactor: refactor quiz grading logic
+0845. 🚀 perf: cache repeated calculations
