@@ -768,3 +768,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0086. 🐛 fix: correct typo in registration form
 0564. 📚 docs: clarify environment setup
+0708. ✅ test: add integration test for /submit endpoint
