@@ -775,3 +775,4 @@
 0141. 📚 docs: document token refresh logic
 0985. 📚 docs: document token refresh logic
 0898. 🐛 fix: fix broken CSS in mobile view
+0842. 🎨 style: remove trailing whitespace
