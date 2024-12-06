@@ -764,3 +764,4 @@
 0970. ♻️ chore: update .gitignore
 0458. ✨ feat: create admin dashboard
 0102. ✨ feat: support email verification
+0345. 📚 docs: document token refresh logic
