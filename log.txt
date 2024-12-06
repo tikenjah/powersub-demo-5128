@@ -766,3 +766,4 @@
 0102. ✨ feat: support email verification
 0345. 📚 docs: document token refresh logic
 0396. 🔧 refactor: split large controller into smaller functions
+0086. 🐛 fix: correct typo in registration form
