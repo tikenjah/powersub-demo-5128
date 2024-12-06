@@ -780,3 +780,4 @@
 0722. 📚 docs: add API usage examples
 0288. 🔧 refactor: refactor quiz grading logic
 0012. 🚀 perf: cache repeated calculations
+0616. 🚀 perf: lazy-load components
