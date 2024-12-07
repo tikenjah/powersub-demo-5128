@@ -9160,3 +9160,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0091. ✨ feat: add user authentication
 0681. ✨ feat: create admin dashboard
+0737. 🐛 fix: handle 500 error in quiz API
