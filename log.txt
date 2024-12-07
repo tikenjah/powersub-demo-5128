@@ -789,3 +789,4 @@
 0965. 🎨 style: reformat files with black
 0272. 🔧 refactor: remove redundant code blocks
 0032. 🎨 style: apply consistent indentation
+0394. 🚀 perf: lazy-load components
