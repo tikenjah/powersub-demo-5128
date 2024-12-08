@@ -9164,3 +9164,4 @@
 0048. 📚 docs: update README with setup steps
 0564. 📚 docs: clarify environment setup
 0331. 🐛 fix: fix broken CSS in mobile view
+0598. 🔧 refactor: remove redundant code blocks
