@@ -10155,3 +10155,4 @@
 0553. 🐛 fix: correct typo in registration form
 0815. 🔧 refactor: split large controller into smaller functions
 0718. 🐛 fix: resolve issue with date parsing
+0471. ✨ feat: support email verification
