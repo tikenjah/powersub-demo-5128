@@ -793,3 +793,4 @@
 0054. ♻️ chore: update .gitignore
 0645. 🐛 fix: resolve issue with date parsing
 0022. 📚 docs: document token refresh logic
+0468. 📚 docs: update README with setup steps
