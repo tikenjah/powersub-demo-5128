@@ -801,3 +801,4 @@
 0453. 🎨 style: standardize quote style
 0464. 🎨 style: remove trailing whitespace
 0147. ♻️ chore: bump dependencies
+0804. ♻️ chore: add GitHub actions badge
