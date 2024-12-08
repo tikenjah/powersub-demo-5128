@@ -6153,3 +6153,4 @@
 0435. ✅ test: add unit test for quiz service
 0123. ✨ feat: implement quiz timer feature
 0087. ✨ feat: add export to CSV option
+0068. 🐛 fix: fix null pointer exception on login
