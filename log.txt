@@ -802,3 +802,4 @@
 0464. 🎨 style: remove trailing whitespace
 0147. ♻️ chore: bump dependencies
 0804. ♻️ chore: add GitHub actions badge
+0677. 📚 docs: add API usage examples
