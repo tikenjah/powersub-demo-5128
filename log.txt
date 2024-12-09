@@ -815,3 +815,4 @@
 0504. 📚 docs: document token refresh logic
 0239. 🎨 style: standardize quote style
 0166. 🚀 perf: cache repeated calculations
+0562. 🔧 refactor: clean up auth middleware
