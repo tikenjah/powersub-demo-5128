@@ -10159,3 +10159,4 @@
 0242. ♻️ chore: clean up unused files
 0570. 🎨 style: apply consistent indentation
 0429. ✨ feat: add user authentication
+0804. ♻️ chore: add GitHub actions badge
