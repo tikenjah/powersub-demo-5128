@@ -6158,3 +6158,4 @@
 0512. 🚀 perf: reduce image load time
 0066. 🔧 refactor: clean up auth middleware
 0542. 🔧 refactor: organize models into subfolders
+0613. 🐛 fix: prevent crash on empty input
