@@ -7164,3 +7164,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0165. 🎨 style: remove trailing whitespace
 0501. ✨ feat: add export to CSV option
+0574. ✨ feat: enable dark mode toggle
