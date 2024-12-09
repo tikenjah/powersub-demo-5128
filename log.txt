@@ -7165,3 +7165,4 @@
 0165. 🎨 style: remove trailing whitespace
 0501. ✨ feat: add export to CSV option
 0574. ✨ feat: enable dark mode toggle
+0847. ♻️ chore: clean up unused files
