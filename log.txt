@@ -9169,3 +9169,4 @@
 0195. 📚 docs: clarify environment setup
 0450. 🐛 fix: fix broken CSS in mobile view
 0033. 🎨 style: apply consistent indentation
+0780. 📚 docs: add API usage examples
