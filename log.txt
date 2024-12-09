@@ -5165,3 +5165,4 @@
 0139. 📚 docs: document token refresh logic
 0417. 🎨 style: rename variables for clarity
 0674. 🔧 refactor: split large controller into smaller functions
+0934. ✨ feat: support email verification
