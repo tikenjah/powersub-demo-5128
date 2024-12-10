@@ -833,3 +833,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0592. 📚 docs: add API usage examples
 0899. 🚀 perf: cache repeated calculations
+0162. ♻️ chore: add GitHub actions badge
