@@ -10162,3 +10162,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0976. ✨ feat: implement quiz timer feature
 0473. 📚 docs: write FAQ section
+0205. 📚 docs: update README with setup steps
