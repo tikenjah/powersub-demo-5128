@@ -8146,3 +8146,4 @@
 0616. 🚀 perf: lazy-load components
 0980. 🎨 style: reformat files with black
 0428. 🐛 fix: fix null pointer exception on login
+0526. ✨ feat: add user authentication
