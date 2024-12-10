@@ -9172,3 +9172,4 @@
 0780. 📚 docs: add API usage examples
 0033. 🎨 style: apply consistent indentation
 0618. ✨ feat: support email verification
+0880. 🐛 fix: fix broken CSS in mobile view
