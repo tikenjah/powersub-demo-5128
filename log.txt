@@ -839,3 +839,4 @@
 0143. ✨ feat: implement quiz timer feature
 0216. 🎨 style: rename variables for clarity
 0245. 🐛 fix: resolve issue with date parsing
+0581. ✅ test: add integration test for /submit endpoint
