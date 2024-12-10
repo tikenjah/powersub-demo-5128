@@ -822,3 +822,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0359. 🔧 refactor: clean up auth middleware
 0528. ♻️ chore: clean up unused files
+0229. 🚀 perf: optimize database query for quiz results
