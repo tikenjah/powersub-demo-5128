@@ -819,3 +819,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0118. 🚀 perf: reduce image load time
 0423. ✅ test: mock database connection in test suite
+0800. 🚀 perf: optimize database query for quiz results
