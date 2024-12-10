@@ -835,3 +835,4 @@
 0899. 🚀 perf: cache repeated calculations
 0162. ♻️ chore: add GitHub actions badge
 0013. ✅ test: increase coverage on auth module
+0113. ✨ feat: add user authentication
