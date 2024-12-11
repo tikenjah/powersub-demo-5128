@@ -850,3 +850,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0655. 🚀 perf: cache repeated calculations
 0544. 🔧 refactor: organize models into subfolders
+0084. 🐛 fix: handle 500 error in quiz API
