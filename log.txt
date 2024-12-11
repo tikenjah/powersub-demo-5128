@@ -843,3 +843,4 @@
 0750. 🎨 style: apply consistent indentation
 0068. 🐛 fix: fix null pointer exception on login
 0564. 📚 docs: clarify environment setup
+0686. 🎨 style: standardize quote style
