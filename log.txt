@@ -841,3 +841,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0581. ✅ test: add integration test for /submit endpoint
 0750. 🎨 style: apply consistent indentation
+0068. 🐛 fix: fix null pointer exception on login
