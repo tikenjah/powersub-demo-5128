@@ -9176,3 +9176,4 @@
 0786. ✨ feat: enable dark mode toggle
 0867. 🔧 refactor: refactor quiz grading logic
 0199. ✨ feat: create admin dashboard
+0623. 🎨 style: standardize quote style
