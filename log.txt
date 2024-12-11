@@ -9177,3 +9177,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0199. ✨ feat: create admin dashboard
 0623. 🎨 style: standardize quote style
+0218. 🔧 refactor: clean up auth middleware
