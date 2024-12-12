@@ -5173,3 +5173,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0274. 🔧 refactor: refactor quiz grading logic
 0009. ✨ feat: enable dark mode toggle
+0500. ✅ test: add integration test for /submit endpoint
