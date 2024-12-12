@@ -867,3 +867,4 @@
 0963. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
 0227. ✅ test: test user registration edge cases
+0768. 🎨 style: remove trailing whitespace
