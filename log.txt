@@ -866,3 +866,4 @@
 0349. ✅ test: increase coverage on auth module
 0963. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
+0227. ✅ test: test user registration edge cases
