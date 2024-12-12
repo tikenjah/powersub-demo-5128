@@ -6167,3 +6167,4 @@
 0715. ✨ feat: create admin dashboard
 0004. 🚀 perf: optimize database query for quiz results
 0694. 🎨 style: rename variables for clarity
+0358. 🚀 perf: reduce image load time
