@@ -879,3 +879,4 @@
 0784. ♻️ chore: clean up unused files
 0613. 🐛 fix: prevent crash on empty input
 0630. 🚀 perf: lazy-load components
+0942. ✅ test: increase coverage on auth module
