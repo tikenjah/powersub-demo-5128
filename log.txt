@@ -873,3 +873,4 @@
 0134. ✨ feat: implement quiz timer feature
 0953. 🎨 style: remove trailing whitespace
 0358. 🚀 perf: reduce image load time
+0622. 🎨 style: apply consistent indentation
