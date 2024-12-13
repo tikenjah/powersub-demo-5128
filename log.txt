@@ -8155,3 +8155,4 @@
 0196. ♻️ chore: bump dependencies
 0199. ✨ feat: create admin dashboard
 0168. ✅ test: add integration test for /submit endpoint
+0036. 🔧 refactor: clean up auth middleware
