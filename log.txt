@@ -6172,3 +6172,4 @@
 0215. 🎨 style: reformat files with black
 0352. ✨ feat: add export to CSV option
 0863. 🐛 fix: correct typo in registration form
+0611. ✅ test: test user registration edge cases
