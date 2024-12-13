@@ -872,3 +872,4 @@
 0161. ✨ feat: create admin dashboard
 0134. ✨ feat: implement quiz timer feature
 0953. 🎨 style: remove trailing whitespace
+0358. 🚀 perf: reduce image load time
