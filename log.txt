@@ -899,3 +899,4 @@
 0392. 🎨 style: remove trailing whitespace
 0603. 🐛 fix: fix broken CSS in mobile view
 0561. 📚 docs: write FAQ section
+0923. ✨ feat: support email verification
