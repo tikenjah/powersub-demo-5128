@@ -9189,3 +9189,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0570. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
+0420. 🚀 perf: reduce image load time
