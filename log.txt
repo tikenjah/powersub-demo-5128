@@ -7177,3 +7177,4 @@
 0921. 🐛 fix: correct typo in registration form
 0556. ✨ feat: support email verification
 0222. 🐛 fix: handle 500 error in quiz API
+0340. 🚀 perf: optimize database query for quiz results
