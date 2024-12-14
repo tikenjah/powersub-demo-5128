@@ -7175,3 +7175,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0101. 📚 docs: clarify environment setup
 0921. 🐛 fix: correct typo in registration form
+0556. ✨ feat: support email verification
