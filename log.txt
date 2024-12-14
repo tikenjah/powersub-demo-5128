@@ -6174,3 +6174,4 @@
 0863. 🐛 fix: correct typo in registration form
 0611. ✅ test: test user registration edge cases
 0168. ✅ test: add integration test for /submit endpoint
+0817. 🔧 refactor: remove redundant code blocks
