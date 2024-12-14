@@ -897,3 +897,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0169. 📚 docs: add API usage examples
 0392. 🎨 style: remove trailing whitespace
+0603. 🐛 fix: fix broken CSS in mobile view
