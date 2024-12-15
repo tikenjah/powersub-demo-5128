@@ -912,3 +912,4 @@
 0837. 🚀 perf: cache repeated calculations
 0563. 📚 docs: clarify environment setup
 0528. ♻️ chore: clean up unused files
+0599. ✅ test: test user registration edge cases
