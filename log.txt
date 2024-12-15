@@ -909,3 +909,4 @@
 0858. ♻️ chore: clean up unused files
 0508. ✅ test: add unit test for quiz service
 0006. 🐛 fix: prevent crash on empty input
+0837. 🚀 perf: cache repeated calculations
