@@ -8163,3 +8163,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0633. ✨ feat: add user authentication
 0499. 🎨 style: reformat files with black
+0613. 🐛 fix: prevent crash on empty input
