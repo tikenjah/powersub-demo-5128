@@ -914,3 +914,4 @@
 0528. ♻️ chore: clean up unused files
 0599. ✅ test: test user registration edge cases
 0263. 📚 docs: add API usage examples
+0710. 🐛 fix: fix broken CSS in mobile view
