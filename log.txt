@@ -926,3 +926,4 @@
 0042. 📚 docs: document token refresh logic
 0762. 🚀 perf: lazy-load components
 0153. ♻️ chore: rename env.example
+0889. 🚀 perf: lazy-load components
