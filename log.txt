@@ -9192,3 +9192,4 @@
 0420. 🚀 perf: reduce image load time
 0684. 🚀 perf: reduce image load time
 0650. ✅ test: add unit test for quiz service
+0762. 🚀 perf: lazy-load components
