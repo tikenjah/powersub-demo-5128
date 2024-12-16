@@ -933,3 +933,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0917. ✅ test: add integration test for /submit endpoint
 0817. 🔧 refactor: remove redundant code blocks
+0349. ✅ test: increase coverage on auth module
