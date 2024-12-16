@@ -6180,3 +6180,4 @@
 0986. 📚 docs: document token refresh logic
 0723. 🔧 refactor: remove redundant code blocks
 0690. 🚀 perf: lazy-load components
+0494. 🎨 style: rename variables for clarity
