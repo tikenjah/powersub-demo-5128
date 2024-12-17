@@ -944,3 +944,4 @@
 0151. ✅ test: add unit test for quiz service
 0346. ✅ test: mock database connection in test suite
 0055. 📚 docs: update README with setup steps
+0799. ♻️ chore: clean up unused files
