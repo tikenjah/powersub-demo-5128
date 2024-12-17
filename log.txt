@@ -8172,3 +8172,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0028. 🎨 style: standardize quote style
 0969. ✨ feat: create admin dashboard
+0899. 🚀 perf: cache repeated calculations
