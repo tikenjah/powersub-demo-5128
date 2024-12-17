@@ -947,3 +947,4 @@
 0799. ♻️ chore: clean up unused files
 0769. ✨ feat: create admin dashboard
 0726. ✨ feat: enable dark mode toggle
+0270. ♻️ chore: rename env.example
