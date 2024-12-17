@@ -942,3 +942,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0122. ✨ feat: support email verification
 0151. ✅ test: add unit test for quiz service
+0346. ✅ test: mock database connection in test suite
