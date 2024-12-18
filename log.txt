@@ -8180,3 +8180,4 @@
 0035. ✅ test: increase coverage on auth module
 0772. 🐛 fix: fix null pointer exception on login
 0438. ♻️ chore: bump dependencies
+1000. ✅ test: increase coverage on auth module
