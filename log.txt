@@ -952,3 +952,4 @@
 0873. 🚀 perf: cache repeated calculations
 0100. ♻️ chore: update .gitignore
 0476. 🚀 perf: reduce image load time
+0976. ✨ feat: implement quiz timer feature
