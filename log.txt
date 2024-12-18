@@ -954,3 +954,4 @@
 0476. 🚀 perf: reduce image load time
 0976. ✨ feat: implement quiz timer feature
 0915. 🚀 perf: cache repeated calculations
+0477. 🐛 fix: fix broken CSS in mobile view
