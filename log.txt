@@ -8178,3 +8178,4 @@
 0638. 📚 docs: improve code comments in utils
 0071. 🔧 refactor: refactor quiz grading logic
 0035. ✅ test: increase coverage on auth module
+0772. 🐛 fix: fix null pointer exception on login
