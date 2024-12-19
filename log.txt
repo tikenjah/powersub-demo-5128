@@ -7192,3 +7192,4 @@
 0023. 📚 docs: clarify environment setup
 0527. 🎨 style: remove trailing whitespace
 0645. 🐛 fix: resolve issue with date parsing
+0380. 🐛 fix: fix null pointer exception on login
