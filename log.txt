@@ -9197,3 +9197,4 @@
 0911. ✅ test: increase coverage on auth module
 0317. ✅ test: test user registration edge cases
 0254. 🚀 perf: reduce image load time
+0461. ✨ feat: add user authentication
