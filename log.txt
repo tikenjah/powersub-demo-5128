@@ -7193,3 +7193,4 @@
 0527. 🎨 style: remove trailing whitespace
 0645. 🐛 fix: resolve issue with date parsing
 0380. 🐛 fix: fix null pointer exception on login
+0960. ✅ test: increase coverage on auth module
