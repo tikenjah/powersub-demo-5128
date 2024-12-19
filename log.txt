@@ -5188,3 +5188,4 @@
 0715. ✨ feat: create admin dashboard
 0989. 📚 docs: write FAQ section
 0212. 🎨 style: standardize quote style
+0117. ✅ test: increase coverage on auth module
