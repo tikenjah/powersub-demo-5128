@@ -8183,3 +8183,4 @@
 1000. ✅ test: increase coverage on auth module
 0596. ♻️ chore: update .gitignore
 1000. ✅ test: increase coverage on auth module
+0409. 🚀 perf: lazy-load components
