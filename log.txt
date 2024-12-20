@@ -5191,3 +5191,4 @@
 0117. ✅ test: increase coverage on auth module
 0750. 🎨 style: apply consistent indentation
 0737. 🐛 fix: handle 500 error in quiz API
+0241. 📚 docs: add API usage examples
