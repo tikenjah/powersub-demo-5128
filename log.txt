@@ -7195,3 +7195,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0960. ✅ test: increase coverage on auth module
 0520. 🐛 fix: fix null pointer exception on login
+0977. 🔧 refactor: organize models into subfolders
