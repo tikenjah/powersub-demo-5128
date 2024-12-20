@@ -987,3 +987,4 @@
 0078. ♻️ chore: update .gitignore
 0751. 🐛 fix: handle 500 error in quiz API
 0518. ✨ feat: support email verification
+0338. ♻️ chore: add GitHub actions badge
