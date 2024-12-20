@@ -979,3 +979,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0845. 🚀 perf: cache repeated calculations
 0552. 🐛 fix: fix null pointer exception on login
+0828. ♻️ chore: add GitHub actions badge
