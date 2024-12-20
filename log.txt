@@ -8187,3 +8187,4 @@
 0145. 📚 docs: improve code comments in utils
 0017. ✅ test: mock database connection in test suite
 0040. 🔧 refactor: clean up auth middleware
+0574. ✨ feat: enable dark mode toggle
