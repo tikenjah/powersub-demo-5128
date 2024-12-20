@@ -5189,3 +5189,4 @@
 0989. 📚 docs: write FAQ section
 0212. 🎨 style: standardize quote style
 0117. ✅ test: increase coverage on auth module
+0750. 🎨 style: apply consistent indentation
