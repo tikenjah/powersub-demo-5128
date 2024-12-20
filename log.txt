@@ -983,3 +983,4 @@
 0234. ♻️ chore: rename env.example
 0621. 🔧 refactor: clean up auth middleware
 0178. ✨ feat: support email verification
+0262. 🎨 style: remove trailing whitespace
