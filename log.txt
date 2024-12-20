@@ -10188,3 +10188,4 @@
 0536. ✨ feat: add user authentication
 0414. 🔧 refactor: remove redundant code blocks
 0512. 🚀 perf: reduce image load time
+0323. 📚 docs: clarify environment setup
