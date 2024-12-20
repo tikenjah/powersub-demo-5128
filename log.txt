@@ -6188,3 +6188,4 @@
 0424. ✨ feat: add user authentication
 0106. 🎨 style: reformat files with black
 0944. ✨ feat: add user authentication
+0009. ✨ feat: enable dark mode toggle
