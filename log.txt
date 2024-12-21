@@ -9202,3 +9202,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0463. 🚀 perf: reduce image load time
 0474. ✅ test: add unit test for quiz service
+0374. 🎨 style: standardize quote style
