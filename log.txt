@@ -993,3 +993,4 @@
 0548. 📚 docs: write FAQ section
 0538. 🐛 fix: fix broken CSS in mobile view
 0771. 🚀 perf: cache repeated calculations
+0284. ✨ feat: implement quiz timer feature
