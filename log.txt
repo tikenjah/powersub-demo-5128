@@ -6192,3 +6192,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0408. ♻️ chore: add GitHub actions badge
 0856. 🐛 fix: fix null pointer exception on login
+0212. 🎨 style: standardize quote style
