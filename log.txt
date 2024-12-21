@@ -8189,3 +8189,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0574. ✨ feat: enable dark mode toggle
 0970. ♻️ chore: update .gitignore
+0592. 📚 docs: add API usage examples
