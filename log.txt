@@ -988,3 +988,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0518. ✨ feat: support email verification
 0338. ♻️ chore: add GitHub actions badge
+0143. ✨ feat: implement quiz timer feature
