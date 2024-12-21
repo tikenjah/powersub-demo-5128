@@ -989,3 +989,4 @@
 0518. ✨ feat: support email verification
 0338. ♻️ chore: add GitHub actions badge
 0143. ✨ feat: implement quiz timer feature
+0241. 📚 docs: add API usage examples
