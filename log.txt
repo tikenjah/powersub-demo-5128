@@ -9204,3 +9204,4 @@
 0474. ✅ test: add unit test for quiz service
 0374. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
+0711. 🐛 fix: fix broken CSS in mobile view
