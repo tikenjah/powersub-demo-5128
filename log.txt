@@ -999,3 +999,4 @@
 0971. 🎨 style: standardize quote style
 0433. 🐛 fix: prevent crash on empty input
 0348. ✅ test: test user registration edge cases
+0722. 📚 docs: add API usage examples
