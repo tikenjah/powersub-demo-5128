@@ -10192,3 +10192,4 @@
 0597. 🚀 perf: cache repeated calculations
 0220. 🐛 fix: fix null pointer exception on login
 0429. ✨ feat: add user authentication
+0330. ✅ test: test user registration edge cases
