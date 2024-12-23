@@ -6194,3 +6194,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0212. 🎨 style: standardize quote style
 0554. 📚 docs: improve code comments in utils
+0539. 🔧 refactor: organize models into subfolders
