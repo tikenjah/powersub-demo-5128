@@ -8195,3 +8195,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0912. 📚 docs: document token refresh logic
 0790. 📚 docs: write FAQ section
+0066. 🔧 refactor: clean up auth middleware
