@@ -1016,3 +1016,4 @@
 0083. 🎨 style: reformat files with black
 0664. ✅ test: add unit test for quiz service
 0376. 🎨 style: apply consistent indentation
+0607. 🐛 fix: prevent crash on empty input
