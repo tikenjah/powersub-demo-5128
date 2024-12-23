@@ -1021,3 +1021,4 @@
 0119. 📚 docs: improve code comments in utils
 0024. 📚 docs: write FAQ section
 0989. 📚 docs: write FAQ section
+0520. 🐛 fix: fix null pointer exception on login
