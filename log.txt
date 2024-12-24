@@ -1023,3 +1023,4 @@
 0989. 📚 docs: write FAQ section
 0520. 🐛 fix: fix null pointer exception on login
 0595. ✨ feat: enable dark mode toggle
+0554. 📚 docs: improve code comments in utils
