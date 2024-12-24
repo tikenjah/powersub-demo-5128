@@ -1029,3 +1029,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0504. 📚 docs: document token refresh logic
 0972. 🔧 refactor: refactor quiz grading logic
+0807. 🔧 refactor: remove redundant code blocks
