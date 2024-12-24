@@ -7205,3 +7205,4 @@
 0521. 🎨 style: standardize quote style
 0688. 🚀 perf: reduce image load time
 0639. 🐛 fix: correct typo in registration form
+0488. ♻️ chore: add GitHub actions badge
