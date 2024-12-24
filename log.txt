@@ -1022,3 +1022,4 @@
 0024. 📚 docs: write FAQ section
 0989. 📚 docs: write FAQ section
 0520. 🐛 fix: fix null pointer exception on login
+0595. ✨ feat: enable dark mode toggle
