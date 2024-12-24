@@ -8200,3 +8200,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0219. ✅ test: increase coverage on auth module
 0504. 📚 docs: document token refresh logic
+0026. 🔧 refactor: clean up auth middleware
