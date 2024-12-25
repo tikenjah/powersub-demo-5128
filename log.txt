@@ -1042,3 +1042,4 @@
 0949. 📚 docs: write FAQ section
 0516. ✅ test: add unit test for quiz service
 0232. 🎨 style: apply consistent indentation
+0730. ✅ test: test user registration edge cases
