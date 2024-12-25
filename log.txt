@@ -7208,3 +7208,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0296. 🔧 refactor: organize models into subfolders
 0106. 🎨 style: reformat files with black
+0027. 📚 docs: clarify environment setup
