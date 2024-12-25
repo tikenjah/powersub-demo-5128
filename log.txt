@@ -1034,3 +1034,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0819. 🚀 perf: reduce image load time
 0991. ♻️ chore: clean up unused files
+0839. 🎨 style: apply consistent indentation
