@@ -1036,3 +1036,4 @@
 0991. ♻️ chore: clean up unused files
 0839. 🎨 style: apply consistent indentation
 0423. ✅ test: mock database connection in test suite
+0890. 🔧 refactor: organize models into subfolders
