@@ -1031,3 +1031,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0807. 🔧 refactor: remove redundant code blocks
 0940. 📚 docs: document token refresh logic
+0154. 🐛 fix: prevent crash on empty input
