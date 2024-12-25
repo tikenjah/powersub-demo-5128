@@ -1048,3 +1048,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0576. ♻️ chore: update .gitignore
 0581. ✅ test: add integration test for /submit endpoint
+0922. 📚 docs: write FAQ section
