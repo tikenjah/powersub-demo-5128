@@ -5203,3 +5203,4 @@
 0435. ✅ test: add unit test for quiz service
 0263. 📚 docs: add API usage examples
 0643. 🎨 style: apply consistent indentation
+0110. 🐛 fix: prevent crash on empty input
