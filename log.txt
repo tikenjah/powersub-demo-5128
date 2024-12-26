@@ -1049,3 +1049,4 @@
 0576. ♻️ chore: update .gitignore
 0581. ✅ test: add integration test for /submit endpoint
 0922. 📚 docs: write FAQ section
+0946. ✅ test: add unit test for quiz service
