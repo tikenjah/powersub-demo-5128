@@ -7214,3 +7214,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0572. ✨ feat: add user authentication
 0848. 📚 docs: update README with setup steps
+0235. 🐛 fix: fix null pointer exception on login
