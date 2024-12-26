@@ -5207,3 +5207,4 @@
 0394. 🚀 perf: lazy-load components
 0558. ✨ feat: enable dark mode toggle
 0508. ✅ test: add unit test for quiz service
+0113. ✨ feat: add user authentication
