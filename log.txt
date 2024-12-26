@@ -8203,3 +8203,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0934. ✨ feat: support email verification
 0325. 🎨 style: rename variables for clarity
+0741. 🎨 style: apply consistent indentation
