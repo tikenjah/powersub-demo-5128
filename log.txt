@@ -1072,3 +1072,4 @@
 0146. 🎨 style: apply consistent indentation
 0527. 🎨 style: remove trailing whitespace
 0301. 🎨 style: apply consistent indentation
+0686. 🎨 style: standardize quote style
