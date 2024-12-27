@@ -1062,3 +1062,4 @@
 0617. ✨ feat: support email verification
 0422. 🔧 refactor: organize models into subfolders
 0970. ♻️ chore: update .gitignore
+0656. 🎨 style: apply consistent indentation
