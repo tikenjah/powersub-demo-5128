@@ -1085,3 +1085,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0865. ♻️ chore: add GitHub actions badge
 0059. ♻️ chore: bump dependencies
+0833. ✨ feat: add user authentication
