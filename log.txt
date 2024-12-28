@@ -1083,3 +1083,4 @@
 0370. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
 0828. ♻️ chore: add GitHub actions badge
+0865. ♻️ chore: add GitHub actions badge
