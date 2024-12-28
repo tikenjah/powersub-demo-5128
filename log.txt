@@ -8212,3 +8212,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0958. 🐛 fix: prevent crash on empty input
 0988. 🐛 fix: fix broken CSS in mobile view
+0769. ✨ feat: create admin dashboard
