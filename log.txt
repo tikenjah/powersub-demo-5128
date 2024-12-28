@@ -8210,3 +8210,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0955. 🔧 refactor: remove redundant code blocks
 0607. 🐛 fix: prevent crash on empty input
+0958. 🐛 fix: prevent crash on empty input
