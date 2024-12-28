@@ -10216,3 +10216,4 @@
 0323. 📚 docs: clarify environment setup
 0419. 🎨 style: remove trailing whitespace
 0424. ✨ feat: add user authentication
+0120. ✅ test: add integration test for /submit endpoint
