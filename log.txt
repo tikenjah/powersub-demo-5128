@@ -9224,3 +9224,4 @@
 0194. 🎨 style: standardize quote style
 0497. 🔧 refactor: refactor quiz grading logic
 0264. 🚀 perf: optimize database query for quiz results
+0893. 🐛 fix: handle 500 error in quiz API
