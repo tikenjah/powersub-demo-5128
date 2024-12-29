@@ -1109,3 +1109,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0687. 🎨 style: remove trailing whitespace
 0577. ✨ feat: implement quiz timer feature
+0325. 🎨 style: rename variables for clarity
