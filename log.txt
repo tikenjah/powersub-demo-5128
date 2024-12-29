@@ -1095,3 +1095,4 @@
 0824. 🚀 perf: lazy-load components
 0834. ✅ test: increase coverage on auth module
 0989. 📚 docs: write FAQ section
+0964. ♻️ chore: clean up unused files
