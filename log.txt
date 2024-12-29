@@ -8214,3 +8214,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0769. ✨ feat: create admin dashboard
 0117. ✅ test: increase coverage on auth module
+0692. ✅ test: add integration test for /submit endpoint
