@@ -1104,3 +1104,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0744. 🔧 refactor: remove redundant code blocks
 0148. 🔧 refactor: organize models into subfolders
+0341. 🚀 perf: lazy-load components
