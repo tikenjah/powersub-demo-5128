@@ -1102,3 +1102,4 @@
 0052. 🎨 style: standardize quote style
 0594. 🎨 style: reformat files with black
 0711. 🐛 fix: fix broken CSS in mobile view
+0744. 🔧 refactor: remove redundant code blocks
