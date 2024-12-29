@@ -6210,3 +6210,4 @@
 0357. ✅ test: add unit test for quiz service
 0100. ♻️ chore: update .gitignore
 0722. 📚 docs: add API usage examples
+0612. ✅ test: test user registration edge cases
