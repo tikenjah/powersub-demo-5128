@@ -10227,3 +10227,4 @@
 0561. 📚 docs: write FAQ section
 0473. 📚 docs: write FAQ section
 0458. ✨ feat: create admin dashboard
+0251. ♻️ chore: update .gitignore
