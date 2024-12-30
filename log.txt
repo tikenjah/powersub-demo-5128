@@ -1115,3 +1115,4 @@
 0651. ✨ feat: enable dark mode toggle
 0347. ♻️ chore: update .gitignore
 0941. 🚀 perf: cache repeated calculations
+0259. 🚀 perf: lazy-load components
