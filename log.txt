@@ -1113,3 +1113,4 @@
 0443. 🎨 style: standardize quote style
 0832. 🔧 refactor: remove redundant code blocks
 0651. ✨ feat: enable dark mode toggle
+0347. ♻️ chore: update .gitignore
