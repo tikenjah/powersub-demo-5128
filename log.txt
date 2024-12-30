@@ -5220,3 +5220,4 @@
 0686. 🎨 style: standardize quote style
 0001. 🚀 perf: cache repeated calculations
 0159. 🚀 perf: lazy-load components
+0582. ✨ feat: add export to CSV option
