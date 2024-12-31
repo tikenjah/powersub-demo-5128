@@ -1122,3 +1122,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0127. 🐛 fix: fix null pointer exception on login
 0505. ♻️ chore: add GitHub actions badge
+0266. 🔧 refactor: remove redundant code blocks
