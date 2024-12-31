@@ -7231,3 +7231,4 @@
 0789. ✨ feat: create admin dashboard
 0634. 🎨 style: reformat files with black
 0117. ✅ test: increase coverage on auth module
+0395. 📚 docs: write FAQ section
