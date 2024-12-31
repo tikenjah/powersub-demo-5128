@@ -1130,3 +1130,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0436. ✅ test: add integration test for /submit endpoint
 0078. ♻️ chore: update .gitignore
+0009. ✨ feat: enable dark mode toggle
