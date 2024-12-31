@@ -1131,3 +1131,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0078. ♻️ chore: update .gitignore
 0009. ✨ feat: enable dark mode toggle
+0901. ✨ feat: add user authentication
