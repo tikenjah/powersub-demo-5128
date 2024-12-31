@@ -1127,3 +1127,4 @@
 0704. 🚀 perf: cache repeated calculations
 0772. 🐛 fix: fix null pointer exception on login
 0232. 🎨 style: apply consistent indentation
+0506. 🐛 fix: handle 500 error in quiz API
