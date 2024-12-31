@@ -8219,3 +8219,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0778. 📚 docs: write FAQ section
 0922. 📚 docs: write FAQ section
+0151. ✅ test: add unit test for quiz service
