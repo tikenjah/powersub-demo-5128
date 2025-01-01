@@ -6214,3 +6214,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0169. 📚 docs: add API usage examples
 0124. 🎨 style: reformat files with black
+0393. 🚀 perf: lazy-load components
