@@ -7234,3 +7234,4 @@
 0395. 📚 docs: write FAQ section
 0929. ✨ feat: support email verification
 0641. 📚 docs: write FAQ section
+0031. 📚 docs: document token refresh logic
