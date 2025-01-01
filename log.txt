@@ -7233,3 +7233,4 @@
 0117. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
 0929. ✨ feat: support email verification
+0641. 📚 docs: write FAQ section
