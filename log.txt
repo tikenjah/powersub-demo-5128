@@ -7235,3 +7235,4 @@
 0929. ✨ feat: support email verification
 0641. 📚 docs: write FAQ section
 0031. 📚 docs: document token refresh logic
+0957. 🐛 fix: fix null pointer exception on login
