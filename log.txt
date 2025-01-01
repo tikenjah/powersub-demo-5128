@@ -8223,3 +8223,4 @@
 0617. ✨ feat: support email verification
 0025. 🚀 perf: optimize database query for quiz results
 0560. 🎨 style: rename variables for clarity
+0329. 📚 docs: update README with setup steps
