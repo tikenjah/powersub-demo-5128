@@ -1155,3 +1155,4 @@
 0902. ✨ feat: enable dark mode toggle
 0868. ✅ test: add unit test for quiz service
 0594. 🎨 style: reformat files with black
+0988. 🐛 fix: fix broken CSS in mobile view
