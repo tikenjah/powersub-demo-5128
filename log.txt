@@ -1158,3 +1158,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0550. 🔧 refactor: split large controller into smaller functions
 0076. 🎨 style: reformat files with black
+0549. ✨ feat: enable dark mode toggle
