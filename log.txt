@@ -1167,3 +1167,4 @@
 0178. ✨ feat: support email verification
 0895. ✨ feat: support email verification
 0781. 🚀 perf: reduce image load time
+0823. ✨ feat: add user authentication
