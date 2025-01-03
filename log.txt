@@ -5229,3 +5229,4 @@
 0575. ✅ test: add unit test for quiz service
 0180. ✨ feat: add export to CSV option
 0990. ♻️ chore: rename env.example
+0343. 🚀 perf: optimize database query for quiz results
