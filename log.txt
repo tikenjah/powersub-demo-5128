@@ -8231,3 +8231,4 @@
 0762. 🚀 perf: lazy-load components
 0976. ✨ feat: implement quiz timer feature
 0859. ✨ feat: create admin dashboard
+0995. ✅ test: mock database connection in test suite
