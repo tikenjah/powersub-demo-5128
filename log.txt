@@ -1191,3 +1191,4 @@
 0640. ♻️ chore: bump dependencies
 0827. 🚀 perf: optimize database query for quiz results
 0052. 🎨 style: standardize quote style
+0823. ✨ feat: add user authentication
