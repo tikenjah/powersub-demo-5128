@@ -8233,3 +8233,4 @@
 0859. ✨ feat: create admin dashboard
 0995. ✅ test: mock database connection in test suite
 0740. 🐛 fix: resolve issue with date parsing
+0549. ✨ feat: enable dark mode toggle
