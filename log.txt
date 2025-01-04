@@ -6220,3 +6220,4 @@
 0242. ♻️ chore: clean up unused files
 0661. ✅ test: add integration test for /submit endpoint
 0897. 🐛 fix: prevent crash on empty input
+0405. ✅ test: mock database connection in test suite
