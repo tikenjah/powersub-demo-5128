@@ -9243,3 +9243,4 @@
 0144. ✅ test: increase coverage on auth module
 0042. 📚 docs: document token refresh logic
 0147. ♻️ chore: bump dependencies
+0607. 🐛 fix: prevent crash on empty input
