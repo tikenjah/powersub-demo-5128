@@ -10239,3 +10239,4 @@
 0307. ✨ feat: support email verification
 0915. 🚀 perf: cache repeated calculations
 0568. 🐛 fix: handle 500 error in quiz API
+0575. ✅ test: add unit test for quiz service
