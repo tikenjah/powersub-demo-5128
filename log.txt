@@ -7252,3 +7252,4 @@
 0323. 📚 docs: clarify environment setup
 0725. 🚀 perf: lazy-load components
 0945. ♻️ chore: add GitHub actions badge
+0275. 🎨 style: standardize quote style
