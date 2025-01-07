@@ -8243,3 +8243,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0712. 🎨 style: apply consistent indentation
 0226. 🚀 perf: lazy-load components
+0244. ✨ feat: add export to CSV option
