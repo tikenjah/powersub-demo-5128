@@ -7254,3 +7254,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0275. 🎨 style: standardize quote style
 0921. 🐛 fix: correct typo in registration form
+0277. 🎨 style: standardize quote style
