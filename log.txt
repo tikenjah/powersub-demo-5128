@@ -8242,3 +8242,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
 0712. 🎨 style: apply consistent indentation
+0226. 🚀 perf: lazy-load components
