@@ -1219,3 +1219,4 @@
 0109. 🚀 perf: lazy-load components
 0993. ✨ feat: implement quiz timer feature
 0524. ♻️ chore: rename env.example
+0573. ✅ test: add integration test for /submit endpoint
