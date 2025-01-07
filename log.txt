@@ -7253,3 +7253,4 @@
 0725. 🚀 perf: lazy-load components
 0945. ♻️ chore: add GitHub actions badge
 0275. 🎨 style: standardize quote style
+0921. 🐛 fix: correct typo in registration form
