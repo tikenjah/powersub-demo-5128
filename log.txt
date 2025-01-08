@@ -1238,3 +1238,4 @@
 0372. ✨ feat: add user authentication
 0566. 📚 docs: write FAQ section
 0489. 🔧 refactor: organize models into subfolders
+0101. 📚 docs: clarify environment setup
