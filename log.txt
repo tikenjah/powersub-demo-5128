@@ -7259,3 +7259,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0706. ✨ feat: support email verification
 0534. 🔧 refactor: split large controller into smaller functions
+0023. 📚 docs: clarify environment setup
