@@ -1235,3 +1235,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0684. 🚀 perf: reduce image load time
 0846. ✨ feat: implement quiz timer feature
+0372. ✨ feat: add user authentication
