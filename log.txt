@@ -9253,3 +9253,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0441. 📚 docs: add API usage examples
 0613. 🐛 fix: prevent crash on empty input
+0429. ✨ feat: add user authentication
