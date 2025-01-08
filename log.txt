@@ -1241,3 +1241,4 @@
 0101. 📚 docs: clarify environment setup
 0127. 🐛 fix: fix null pointer exception on login
 0345. 📚 docs: document token refresh logic
+0787. ♻️ chore: rename env.example
