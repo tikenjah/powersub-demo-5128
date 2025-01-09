@@ -6234,3 +6234,4 @@
 0985. 📚 docs: document token refresh logic
 0116. ✨ feat: support email verification
 0875. ✅ test: increase coverage on auth module
+0953. 🎨 style: remove trailing whitespace
