@@ -1264,3 +1264,4 @@
 0152. ✨ feat: add user authentication
 0878. 🔧 refactor: split large controller into smaller functions
 0494. 🎨 style: rename variables for clarity
+0911. ✅ test: increase coverage on auth module
