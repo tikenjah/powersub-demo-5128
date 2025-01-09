@@ -6233,3 +6233,4 @@
 0169. 📚 docs: add API usage examples
 0985. 📚 docs: document token refresh logic
 0116. ✨ feat: support email verification
+0875. ✅ test: increase coverage on auth module
