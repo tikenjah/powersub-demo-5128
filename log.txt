@@ -1258,3 +1258,4 @@
 0861. ♻️ chore: clean up unused files
 0626. 🎨 style: standardize quote style
 0514. 🐛 fix: fix broken CSS in mobile view
+0527. 🎨 style: remove trailing whitespace
