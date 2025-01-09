@@ -1257,3 +1257,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0861. ♻️ chore: clean up unused files
 0626. 🎨 style: standardize quote style
+0514. 🐛 fix: fix broken CSS in mobile view
