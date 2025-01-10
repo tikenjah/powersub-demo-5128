@@ -1285,3 +1285,4 @@
 0256. ✅ test: mock database connection in test suite
 0536. ✨ feat: add user authentication
 0638. 📚 docs: improve code comments in utils
+0349. ✅ test: increase coverage on auth module
