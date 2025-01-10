@@ -7266,3 +7266,4 @@
 0594. 🎨 style: reformat files with black
 0591. ♻️ chore: clean up unused files
 0264. 🚀 perf: optimize database query for quiz results
+0819. 🚀 perf: reduce image load time
