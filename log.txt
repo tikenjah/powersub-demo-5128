@@ -1281,3 +1281,4 @@
 0199. ✨ feat: create admin dashboard
 0172. 📚 docs: add API usage examples
 0746. ♻️ chore: add GitHub actions badge
+0150. 🎨 style: remove trailing whitespace
