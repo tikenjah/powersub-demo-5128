@@ -1276,3 +1276,4 @@
 0197. 📚 docs: update README with setup steps
 0367. 🐛 fix: fix null pointer exception on login
 0883. 📚 docs: improve code comments in utils
+0366. 🔧 refactor: remove redundant code blocks
