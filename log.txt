@@ -6237,3 +6237,4 @@
 0953. 🎨 style: remove trailing whitespace
 0859. ✨ feat: create admin dashboard
 0915. 🚀 perf: cache repeated calculations
+0312. ✨ feat: add user authentication
