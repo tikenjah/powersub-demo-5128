@@ -1302,3 +1302,4 @@
 0564. 📚 docs: clarify environment setup
 0122. ✨ feat: support email verification
 0444. ✅ test: add unit test for quiz service
+0876. ♻️ chore: rename env.example
