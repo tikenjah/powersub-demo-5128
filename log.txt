@@ -9265,3 +9265,4 @@
 0777. 📚 docs: document token refresh logic
 0070. ✨ feat: implement quiz timer feature
 0014. 🔧 refactor: remove redundant code blocks
+0140. 🐛 fix: handle 500 error in quiz API
