@@ -7272,3 +7272,4 @@
 0719. 🎨 style: apply consistent indentation
 0543. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
+0355. 🚀 perf: optimize database query for quiz results
