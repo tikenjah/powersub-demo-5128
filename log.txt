@@ -1299,3 +1299,4 @@
 0984. ♻️ chore: clean up unused files
 0768. 🎨 style: remove trailing whitespace
 0031. 📚 docs: document token refresh logic
+0564. 📚 docs: clarify environment setup
