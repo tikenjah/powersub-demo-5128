@@ -1300,3 +1300,4 @@
 0768. 🎨 style: remove trailing whitespace
 0031. 📚 docs: document token refresh logic
 0564. 📚 docs: clarify environment setup
+0122. ✨ feat: support email verification
