@@ -1310,3 +1310,4 @@
 0617. ✨ feat: support email verification
 0930. 🎨 style: apply consistent indentation
 0499. 🎨 style: reformat files with black
+0734. ✨ feat: add export to CSV option
