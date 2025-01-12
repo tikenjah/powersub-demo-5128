@@ -1307,3 +1307,4 @@
 0198. 📚 docs: clarify environment setup
 0423. ✅ test: mock database connection in test suite
 0331. 🐛 fix: fix broken CSS in mobile view
+0617. ✨ feat: support email verification
