@@ -1309,3 +1309,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0617. ✨ feat: support email verification
 0930. 🎨 style: apply consistent indentation
+0499. 🎨 style: reformat files with black
