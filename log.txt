@@ -10252,3 +10252,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0809. ♻️ chore: rename env.example
 0995. ✅ test: mock database connection in test suite
+0872. 🎨 style: rename variables for clarity
