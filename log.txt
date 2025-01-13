@@ -7280,3 +7280,4 @@
 0576. ♻️ chore: update .gitignore
 0232. 🎨 style: apply consistent indentation
 0288. 🔧 refactor: refactor quiz grading logic
+0120. ✅ test: add integration test for /submit endpoint
