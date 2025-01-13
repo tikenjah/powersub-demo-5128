@@ -1318,3 +1318,4 @@
 0131. 📚 docs: write FAQ section
 0321. 🔧 refactor: organize models into subfolders
 0492. 🎨 style: remove trailing whitespace
+0226. 🚀 perf: lazy-load components
