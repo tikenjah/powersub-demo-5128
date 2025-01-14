@@ -8259,3 +8259,4 @@
 0714. 📚 docs: improve code comments in utils
 0513. ♻️ chore: bump dependencies
 0437. 📚 docs: clarify environment setup
+0254. 🚀 perf: reduce image load time
