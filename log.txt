@@ -1330,3 +1330,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0598. 🔧 refactor: remove redundant code blocks
 0409. 🚀 perf: lazy-load components
+0249. ✅ test: increase coverage on auth module
