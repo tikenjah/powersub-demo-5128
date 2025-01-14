@@ -1325,3 +1325,4 @@
 0521. 🎨 style: standardize quote style
 0133. 🐛 fix: fix null pointer exception on login
 0820. 📚 docs: add API usage examples
+0997. ✅ test: increase coverage on auth module
