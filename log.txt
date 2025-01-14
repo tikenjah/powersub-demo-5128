@@ -8260,3 +8260,4 @@
 0513. ♻️ chore: bump dependencies
 0437. 📚 docs: clarify environment setup
 0254. 🚀 perf: reduce image load time
+0823. ✨ feat: add user authentication
