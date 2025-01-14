@@ -1329,3 +1329,4 @@
 0650. ✅ test: add unit test for quiz service
 0832. 🔧 refactor: remove redundant code blocks
 0598. 🔧 refactor: remove redundant code blocks
+0409. 🚀 perf: lazy-load components
