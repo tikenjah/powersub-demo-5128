@@ -5251,3 +5251,4 @@
 0943. 🎨 style: rename variables for clarity
 0330. ✅ test: test user registration edge cases
 0057. 🚀 perf: optimize database query for quiz results
+0133. 🐛 fix: fix null pointer exception on login
