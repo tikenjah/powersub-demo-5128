@@ -8264,3 +8264,4 @@
 0724. ✅ test: mock database connection in test suite
 0301. 🎨 style: apply consistent indentation
 0737. 🐛 fix: handle 500 error in quiz API
+0341. 🚀 perf: lazy-load components
