@@ -8265,3 +8265,4 @@
 0301. 🎨 style: apply consistent indentation
 0737. 🐛 fix: handle 500 error in quiz API
 0341. 🚀 perf: lazy-load components
+0485. 📚 docs: update README with setup steps
