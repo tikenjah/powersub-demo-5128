@@ -7287,3 +7287,4 @@
 0155. ✨ feat: create admin dashboard
 0158. 📚 docs: clarify environment setup
 0044. ✅ test: add unit test for quiz service
+0586. 🎨 style: remove trailing whitespace
