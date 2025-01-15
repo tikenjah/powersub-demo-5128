@@ -1336,3 +1336,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0318. 🔧 refactor: refactor quiz grading logic
 0358. 🚀 perf: reduce image load time
+0877. 🚀 perf: optimize database query for quiz results
