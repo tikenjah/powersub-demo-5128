@@ -8267,3 +8267,4 @@
 0341. 🚀 perf: lazy-load components
 0485. 📚 docs: update README with setup steps
 0817. 🔧 refactor: remove redundant code blocks
+0828. ♻️ chore: add GitHub actions badge
