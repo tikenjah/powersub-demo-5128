@@ -1361,3 +1361,4 @@
 0949. 📚 docs: write FAQ section
 0613. 🐛 fix: prevent crash on empty input
 0119. 📚 docs: improve code comments in utils
+0754. 🐛 fix: handle 500 error in quiz API
