@@ -10262,3 +10262,4 @@
 0665. ♻️ chore: update .gitignore
 0960. ✅ test: increase coverage on auth module
 0185. 📚 docs: write FAQ section
+0893. 🐛 fix: handle 500 error in quiz API
