@@ -1349,3 +1349,4 @@
 0060. ♻️ chore: clean up unused files
 0028. 🎨 style: standardize quote style
 0699. 🎨 style: standardize quote style
+0788. 📚 docs: add API usage examples
