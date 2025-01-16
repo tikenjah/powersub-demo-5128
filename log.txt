@@ -8270,3 +8270,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0389. 📚 docs: improve code comments in utils
 0155. ✨ feat: create admin dashboard
+0666. 🐛 fix: fix broken CSS in mobile view
