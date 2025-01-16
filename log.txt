@@ -1356,3 +1356,4 @@
 0943. 🎨 style: rename variables for clarity
 0597. 🚀 perf: cache repeated calculations
 0835. 🐛 fix: prevent crash on empty input
+0839. 🎨 style: apply consistent indentation
