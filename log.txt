@@ -10260,3 +10260,4 @@
 0117. ✅ test: increase coverage on auth module
 0160. ♻️ chore: bump dependencies
 0665. ♻️ chore: update .gitignore
+0960. ✅ test: increase coverage on auth module
