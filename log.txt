@@ -1368,3 +1368,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0847. ♻️ chore: clean up unused files
 0015. ✨ feat: implement quiz timer feature
+0685. ✅ test: test user registration edge cases
