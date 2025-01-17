@@ -8272,3 +8272,4 @@
 0155. ✨ feat: create admin dashboard
 0666. 🐛 fix: fix broken CSS in mobile view
 0460. 📚 docs: write FAQ section
+0475. 🔧 refactor: clean up auth middleware
