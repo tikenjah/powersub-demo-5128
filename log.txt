@@ -8276,3 +8276,4 @@
 0419. 🎨 style: remove trailing whitespace
 0149. ✨ feat: add export to CSV option
 0059. ♻️ chore: bump dependencies
+0785. ✨ feat: enable dark mode toggle
