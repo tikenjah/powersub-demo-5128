@@ -1397,3 +1397,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0144. ✅ test: increase coverage on auth module
 0050. ✨ feat: enable dark mode toggle
+0986. 📚 docs: document token refresh logic
