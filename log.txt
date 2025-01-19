@@ -1406,3 +1406,4 @@
 0954. 🚀 perf: cache repeated calculations
 0637. 🎨 style: apply consistent indentation
 0490. ✨ feat: create admin dashboard
+0224. 🐛 fix: fix broken CSS in mobile view
