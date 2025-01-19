@@ -1401,3 +1401,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0595. ✨ feat: enable dark mode toggle
 0539. 🔧 refactor: organize models into subfolders
+0212. 🎨 style: standardize quote style
