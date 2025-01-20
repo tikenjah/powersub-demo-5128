@@ -1414,3 +1414,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0555. ✨ feat: create admin dashboard
 0329. 📚 docs: update README with setup steps
+0207. 🐛 fix: prevent crash on empty input
