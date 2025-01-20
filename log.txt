@@ -9285,3 +9285,4 @@
 0709. ♻️ chore: bump dependencies
 0206. 🐛 fix: handle 500 error in quiz API
 0204. 🎨 style: standardize quote style
+0195. 📚 docs: clarify environment setup
