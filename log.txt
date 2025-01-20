@@ -1413,3 +1413,4 @@
 0053. ✅ test: increase coverage on auth module
 0900. 🐛 fix: handle 500 error in quiz API
 0555. ✨ feat: create admin dashboard
+0329. 📚 docs: update README with setup steps
