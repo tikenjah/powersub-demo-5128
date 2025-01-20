@@ -1423,3 +1423,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0576. ♻️ chore: update .gitignore
 0262. 🎨 style: remove trailing whitespace
+0335. ♻️ chore: update .gitignore
