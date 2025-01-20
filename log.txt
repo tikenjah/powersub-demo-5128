@@ -1412,3 +1412,4 @@
 0122. ✨ feat: support email verification
 0053. ✅ test: increase coverage on auth module
 0900. 🐛 fix: handle 500 error in quiz API
+0555. ✨ feat: create admin dashboard
