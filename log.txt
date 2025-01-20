@@ -1409,3 +1409,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0585. 🚀 perf: lazy-load components
 0034. 📚 docs: improve code comments in utils
+0122. ✨ feat: support email verification
