@@ -10271,3 +10271,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0520. 🐛 fix: fix null pointer exception on login
 0035. ✅ test: increase coverage on auth module
+0710. 🐛 fix: fix broken CSS in mobile view
