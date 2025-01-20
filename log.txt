@@ -6269,3 +6269,4 @@
 0146. 🎨 style: apply consistent indentation
 0483. 📚 docs: update README with setup steps
 0625. 🐛 fix: handle 500 error in quiz API
+0877. 🚀 perf: optimize database query for quiz results
