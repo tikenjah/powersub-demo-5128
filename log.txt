@@ -1415,3 +1415,4 @@
 0555. ✨ feat: create admin dashboard
 0329. 📚 docs: update README with setup steps
 0207. 🐛 fix: prevent crash on empty input
+0300. ✨ feat: add export to CSV option
