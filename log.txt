@@ -1427,3 +1427,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0780. 📚 docs: add API usage examples
 0033. 🎨 style: apply consistent indentation
+0042. 📚 docs: document token refresh logic
