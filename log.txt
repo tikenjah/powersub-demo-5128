@@ -1425,3 +1425,4 @@
 0262. 🎨 style: remove trailing whitespace
 0335. ♻️ chore: update .gitignore
 0218. 🔧 refactor: clean up auth middleware
+0780. 📚 docs: add API usage examples
