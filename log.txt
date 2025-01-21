@@ -8287,3 +8287,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0464. 🎨 style: remove trailing whitespace
 0053. ✅ test: increase coverage on auth module
+0763. 🔧 refactor: organize models into subfolders
