@@ -1428,3 +1428,4 @@
 0780. 📚 docs: add API usage examples
 0033. 🎨 style: apply consistent indentation
 0042. 📚 docs: document token refresh logic
+0253. 📚 docs: update README with setup steps
