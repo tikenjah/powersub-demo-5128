@@ -10273,3 +10273,4 @@
 0035. ✅ test: increase coverage on auth module
 0710. 🐛 fix: fix broken CSS in mobile view
 0451. ✨ feat: support email verification
+0717. 🔧 refactor: refactor quiz grading logic
