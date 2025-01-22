@@ -1449,3 +1449,4 @@
 0811. 🎨 style: reformat files with black
 0492. 🎨 style: remove trailing whitespace
 0736. 🐛 fix: fix null pointer exception on login
+0279. ✨ feat: support email verification
