@@ -10278,3 +10278,4 @@
 0730. ✅ test: test user registration edge cases
 0674. 🔧 refactor: split large controller into smaller functions
 0593. 🐛 fix: correct typo in registration form
+0980. 🎨 style: reformat files with black
