@@ -1469,3 +1469,4 @@
 0631. ✨ feat: create admin dashboard
 0620. ✨ feat: implement quiz timer feature
 0657. 🎨 style: standardize quote style
+0509. ♻️ chore: bump dependencies
