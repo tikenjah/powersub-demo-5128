@@ -1473,3 +1473,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0101. 📚 docs: clarify environment setup
 0225. 🚀 perf: reduce image load time
+0233. 🚀 perf: lazy-load components
