@@ -9292,3 +9292,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0136. 🚀 perf: lazy-load components
 0506. 🐛 fix: handle 500 error in quiz API
+0593. 🐛 fix: correct typo in registration form
