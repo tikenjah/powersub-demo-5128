@@ -1471,3 +1471,4 @@
 0657. 🎨 style: standardize quote style
 0509. ♻️ chore: bump dependencies
 0573. ✅ test: add integration test for /submit endpoint
+0101. 📚 docs: clarify environment setup
