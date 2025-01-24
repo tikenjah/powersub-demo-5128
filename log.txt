@@ -1481,3 +1481,4 @@
 0579. 📚 docs: clarify environment setup
 0934. ✨ feat: support email verification
 0189. 📚 docs: clarify environment setup
+0146. 🎨 style: apply consistent indentation
