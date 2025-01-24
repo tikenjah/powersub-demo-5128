@@ -8289,3 +8289,4 @@
 0053. ✅ test: increase coverage on auth module
 0763. 🔧 refactor: organize models into subfolders
 0929. ✨ feat: support email verification
+0697. ♻️ chore: bump dependencies
