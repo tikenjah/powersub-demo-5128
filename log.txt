@@ -10281,3 +10281,4 @@
 0980. 🎨 style: reformat files with black
 0054. ♻️ chore: update .gitignore
 0853. 🔧 refactor: refactor quiz grading logic
+0979. 🎨 style: standardize quote style
