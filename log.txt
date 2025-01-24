@@ -7304,3 +7304,4 @@
 0311. 🎨 style: apply consistent indentation
 0301. 🎨 style: apply consistent indentation
 0390. 🎨 style: standardize quote style
+0607. 🐛 fix: prevent crash on empty input
