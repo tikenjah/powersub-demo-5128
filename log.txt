@@ -1483,3 +1483,4 @@
 0189. 📚 docs: clarify environment setup
 0146. 🎨 style: apply consistent indentation
 0821. ✅ test: add integration test for /submit endpoint
+0682. ♻️ chore: rename env.example
