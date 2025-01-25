@@ -8292,3 +8292,4 @@
 0697. ♻️ chore: bump dependencies
 0393. 🚀 perf: lazy-load components
 0194. 🎨 style: standardize quote style
+0628. ♻️ chore: add GitHub actions badge
