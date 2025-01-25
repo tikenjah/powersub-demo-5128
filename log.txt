@@ -1491,3 +1491,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0370. 🚀 perf: reduce image load time
 0703. 🔧 refactor: clean up auth middleware
+0588. 🔧 refactor: organize models into subfolders
