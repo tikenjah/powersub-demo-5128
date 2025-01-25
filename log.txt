@@ -8290,3 +8290,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0929. ✨ feat: support email verification
 0697. ♻️ chore: bump dependencies
+0393. 🚀 perf: lazy-load components
