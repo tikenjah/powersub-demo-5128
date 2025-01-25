@@ -9301,3 +9301,4 @@
 0962. ✨ feat: create admin dashboard
 0225. 🚀 perf: reduce image load time
 0891. ✨ feat: create admin dashboard
+0442. 🎨 style: standardize quote style
