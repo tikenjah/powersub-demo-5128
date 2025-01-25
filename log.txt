@@ -1489,3 +1489,4 @@
 0719. 🎨 style: apply consistent indentation
 0204. 🎨 style: standardize quote style
 0540. ♻️ chore: add GitHub actions badge
+0370. 🚀 perf: reduce image load time
