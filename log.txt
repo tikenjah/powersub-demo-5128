@@ -10292,3 +10292,4 @@
 0230. ✨ feat: create admin dashboard
 0820. 📚 docs: add API usage examples
 0839. 🎨 style: apply consistent indentation
+0547. 📚 docs: write FAQ section
