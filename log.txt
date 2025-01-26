@@ -10290,3 +10290,4 @@
 0490. ✨ feat: create admin dashboard
 0742. 📚 docs: clarify environment setup
 0230. ✨ feat: create admin dashboard
+0820. 📚 docs: add API usage examples
