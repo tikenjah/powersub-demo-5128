@@ -1502,3 +1502,4 @@
 0492. 🎨 style: remove trailing whitespace
 0281. ✨ feat: support email verification
 1000. ✅ test: increase coverage on auth module
+0278. 🔧 refactor: clean up auth middleware
