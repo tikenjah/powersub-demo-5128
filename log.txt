@@ -1500,3 +1500,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0601. ✨ feat: implement quiz timer feature
 0492. 🎨 style: remove trailing whitespace
+0281. ✨ feat: support email verification
