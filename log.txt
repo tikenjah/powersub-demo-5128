@@ -6284,3 +6284,4 @@
 0404. 📚 docs: improve code comments in utils
 0195. 📚 docs: clarify environment setup
 0980. 🎨 style: reformat files with black
+0596. ♻️ chore: update .gitignore
