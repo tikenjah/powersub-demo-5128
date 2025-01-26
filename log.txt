@@ -8298,3 +8298,4 @@
 0363. 📚 docs: clarify environment setup
 0045. 🎨 style: apply consistent indentation
 0220. 🐛 fix: fix null pointer exception on login
+0763. 🔧 refactor: organize models into subfolders
