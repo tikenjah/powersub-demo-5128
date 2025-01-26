@@ -1503,3 +1503,4 @@
 0281. ✨ feat: support email verification
 1000. ✅ test: increase coverage on auth module
 0278. 🔧 refactor: clean up auth middleware
+0743. 🎨 style: apply consistent indentation
