@@ -5278,3 +5278,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0308. 🚀 perf: reduce image load time
 0857. 🎨 style: rename variables for clarity
+0895. ✨ feat: support email verification
