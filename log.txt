@@ -1520,3 +1520,4 @@
 0879. 🎨 style: standardize quote style
 0116. ✨ feat: support email verification
 0307. ✨ feat: support email verification
+0561. 📚 docs: write FAQ section
