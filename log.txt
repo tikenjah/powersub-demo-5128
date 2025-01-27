@@ -6287,3 +6287,4 @@
 0596. ♻️ chore: update .gitignore
 0705. 🔧 refactor: refactor quiz grading logic
 0237. 🎨 style: standardize quote style
+0787. ♻️ chore: rename env.example
