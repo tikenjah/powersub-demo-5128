@@ -1530,3 +1530,4 @@
 0298. ♻️ chore: update .gitignore
 0196. ♻️ chore: bump dependencies
 0485. 📚 docs: update README with setup steps
+0087. ✨ feat: add export to CSV option
