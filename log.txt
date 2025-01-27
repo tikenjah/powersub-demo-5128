@@ -8300,3 +8300,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0763. 🔧 refactor: organize models into subfolders
 0764. ✨ feat: add user authentication
+0449. ✅ test: add unit test for quiz service
