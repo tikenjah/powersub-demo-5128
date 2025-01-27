@@ -1529,3 +1529,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0298. ♻️ chore: update .gitignore
 0196. ♻️ chore: bump dependencies
+0485. 📚 docs: update README with setup steps
