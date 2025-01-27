@@ -1533,3 +1533,4 @@
 0087. ✨ feat: add export to CSV option
 0235. 🐛 fix: fix null pointer exception on login
 0918. ✨ feat: enable dark mode toggle
+0056. ♻️ chore: rename env.example
