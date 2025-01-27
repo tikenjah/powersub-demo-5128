@@ -1521,3 +1521,4 @@
 0116. ✨ feat: support email verification
 0307. ✨ feat: support email verification
 0561. 📚 docs: write FAQ section
+0475. 🔧 refactor: clean up auth middleware
