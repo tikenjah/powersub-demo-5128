@@ -1516,3 +1516,4 @@
 0974. ✨ feat: add export to CSV option
 0170. ✅ test: increase coverage on auth module
 0862. ♻️ chore: bump dependencies
+0462. ♻️ chore: update .gitignore
