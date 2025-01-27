@@ -1518,3 +1518,4 @@
 0862. ♻️ chore: bump dependencies
 0462. ♻️ chore: update .gitignore
 0879. 🎨 style: standardize quote style
+0116. ✨ feat: support email verification
