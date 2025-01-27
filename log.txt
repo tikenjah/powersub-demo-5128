@@ -8301,3 +8301,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0764. ✨ feat: add user authentication
 0449. ✅ test: add unit test for quiz service
+0291. 📚 docs: write FAQ section
