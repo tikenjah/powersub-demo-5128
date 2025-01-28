@@ -8302,3 +8302,4 @@
 0764. ✨ feat: add user authentication
 0449. ✅ test: add unit test for quiz service
 0291. 📚 docs: write FAQ section
+0140. 🐛 fix: handle 500 error in quiz API
