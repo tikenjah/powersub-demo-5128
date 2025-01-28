@@ -1551,3 +1551,4 @@
 0501. ✨ feat: add export to CSV option
 0568. 🐛 fix: handle 500 error in quiz API
 0222. 🐛 fix: handle 500 error in quiz API
+0851. ✅ test: mock database connection in test suite
