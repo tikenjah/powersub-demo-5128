@@ -1542,3 +1542,4 @@
 0302. ✨ feat: implement quiz timer feature
 0074. ♻️ chore: add GitHub actions badge
 0884. 📚 docs: clarify environment setup
+0120. ✅ test: add integration test for /submit endpoint
