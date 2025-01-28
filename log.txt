@@ -1548,3 +1548,4 @@
 0925. ✨ feat: add export to CSV option
 0811. 🎨 style: reformat files with black
 0418. ✅ test: mock database connection in test suite
+0501. ✨ feat: add export to CSV option
