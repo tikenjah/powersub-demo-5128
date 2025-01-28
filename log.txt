@@ -8304,3 +8304,4 @@
 0291. 📚 docs: write FAQ section
 0140. 🐛 fix: handle 500 error in quiz API
 0450. 🐛 fix: fix broken CSS in mobile view
+0816. 🔧 refactor: organize models into subfolders
