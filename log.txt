@@ -1544,3 +1544,4 @@
 0884. 📚 docs: clarify environment setup
 0120. ✅ test: add integration test for /submit endpoint
 0693. 📚 docs: add API usage examples
+0403. ✅ test: mock database connection in test suite
