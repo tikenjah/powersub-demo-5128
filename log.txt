@@ -1546,3 +1546,4 @@
 0693. 📚 docs: add API usage examples
 0403. ✅ test: mock database connection in test suite
 0925. ✨ feat: add export to CSV option
+0811. 🎨 style: reformat files with black
