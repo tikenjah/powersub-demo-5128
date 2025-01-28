@@ -1538,3 +1538,4 @@
 0458. ✨ feat: create admin dashboard
 0374. 🎨 style: standardize quote style
 0281. ✨ feat: support email verification
+0359. 🔧 refactor: clean up auth middleware
