@@ -8306,3 +8306,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0816. 🔧 refactor: organize models into subfolders
 0906. 📚 docs: add API usage examples
+0629. 🔧 refactor: organize models into subfolders
