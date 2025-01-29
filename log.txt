@@ -1562,3 +1562,4 @@
 0295. 🎨 style: remove trailing whitespace
 0071. 🔧 refactor: refactor quiz grading logic
 0896. 🚀 perf: reduce image load time
+0713. 🐛 fix: handle 500 error in quiz API
