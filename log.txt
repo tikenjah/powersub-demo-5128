@@ -1561,3 +1561,4 @@
 0925. ✨ feat: add export to CSV option
 0295. 🎨 style: remove trailing whitespace
 0071. 🔧 refactor: refactor quiz grading logic
+0896. 🚀 perf: reduce image load time
