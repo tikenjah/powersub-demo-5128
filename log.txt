@@ -1553,3 +1553,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0851. ✅ test: mock database connection in test suite
 0191. 🔧 refactor: refactor quiz grading logic
+0397. 🐛 fix: handle 500 error in quiz API
