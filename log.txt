@@ -1565,3 +1565,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0144. ✅ test: increase coverage on auth module
 0965. 🎨 style: reformat files with black
+0795. 📚 docs: update README with setup steps
