@@ -8310,3 +8310,4 @@
 0648. ♻️ chore: bump dependencies
 0946. ✅ test: add unit test for quiz service
 0283. ♻️ chore: add GitHub actions badge
+0923. ✨ feat: support email verification
