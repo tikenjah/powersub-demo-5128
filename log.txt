@@ -6297,3 +6297,4 @@
 0637. 🎨 style: apply consistent indentation
 0476. 🚀 perf: reduce image load time
 0481. ✅ test: add unit test for quiz service
+0100. ♻️ chore: update .gitignore
