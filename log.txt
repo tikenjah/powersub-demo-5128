@@ -6302,3 +6302,4 @@
 0861. ♻️ chore: clean up unused files
 0065. ✅ test: add integration test for /submit endpoint
 0598. 🔧 refactor: remove redundant code blocks
+0563. 📚 docs: clarify environment setup
