@@ -1589,3 +1589,4 @@
 0648. ♻️ chore: bump dependencies
 0272. 🔧 refactor: remove redundant code blocks
 0159. 🚀 perf: lazy-load components
+0463. 🚀 perf: reduce image load time
