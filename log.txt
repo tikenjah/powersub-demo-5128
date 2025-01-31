@@ -8314,3 +8314,4 @@
 0935. 📚 docs: update README with setup steps
 0299. 🐛 fix: resolve issue with date parsing
 0678. ✨ feat: add user authentication
+0641. 📚 docs: write FAQ section
