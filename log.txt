@@ -1587,3 +1587,4 @@
 0679. ♻️ chore: bump dependencies
 0937. 🐛 fix: handle 500 error in quiz API
 0648. ♻️ chore: bump dependencies
+0272. 🔧 refactor: remove redundant code blocks
