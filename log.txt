@@ -1585,3 +1585,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0935. 📚 docs: update README with setup steps
 0679. ♻️ chore: bump dependencies
+0937. 🐛 fix: handle 500 error in quiz API
