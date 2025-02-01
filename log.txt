@@ -1600,3 +1600,4 @@
 0657. 🎨 style: standardize quote style
 0077. ♻️ chore: rename env.example
 0747. 🔧 refactor: clean up auth middleware
+0821. ✅ test: add integration test for /submit endpoint
