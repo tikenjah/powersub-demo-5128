@@ -6312,3 +6312,4 @@
 0687. 🎨 style: remove trailing whitespace
 0592. 📚 docs: add API usage examples
 0997. ✅ test: increase coverage on auth module
+0534. 🔧 refactor: split large controller into smaller functions
