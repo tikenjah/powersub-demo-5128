@@ -1623,3 +1623,4 @@
 0487. 🎨 style: reformat files with black
 0893. 🐛 fix: handle 500 error in quiz API
 0634. 🎨 style: reformat files with black
+0827. 🚀 perf: optimize database query for quiz results
