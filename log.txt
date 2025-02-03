@@ -7327,3 +7327,4 @@
 0901. ✨ feat: add user authentication
 0711. 🐛 fix: fix broken CSS in mobile view
 0805. ♻️ chore: add GitHub actions badge
+0777. 📚 docs: document token refresh logic
