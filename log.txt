@@ -6314,3 +6314,4 @@
 0997. ✅ test: increase coverage on auth module
 0534. 🔧 refactor: split large controller into smaller functions
 0727. ♻️ chore: add GitHub actions badge
+0372. ✨ feat: add user authentication
