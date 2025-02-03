@@ -10306,3 +10306,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0836. 🚀 perf: optimize database query for quiz results
 0449. ✅ test: add unit test for quiz service
+0218. 🔧 refactor: clean up auth middleware
