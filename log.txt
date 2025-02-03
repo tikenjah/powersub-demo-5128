@@ -7328,3 +7328,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0805. ♻️ chore: add GitHub actions badge
 0777. 📚 docs: document token refresh logic
+0535. 📚 docs: write FAQ section
