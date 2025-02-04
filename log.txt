@@ -1649,3 +1649,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0965. 🎨 style: reformat files with black
 0035. ✅ test: increase coverage on auth module
+0596. ♻️ chore: update .gitignore
