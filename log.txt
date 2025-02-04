@@ -9324,3 +9324,4 @@
 0985. 📚 docs: document token refresh logic
 0740. 🐛 fix: resolve issue with date parsing
 0695. ✨ feat: create admin dashboard
+0220. 🐛 fix: fix null pointer exception on login
