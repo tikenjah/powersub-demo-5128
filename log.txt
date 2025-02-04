@@ -1651,3 +1651,4 @@
 0035. ✅ test: increase coverage on auth module
 0596. ♻️ chore: update .gitignore
 0299. 🐛 fix: resolve issue with date parsing
+0801. ✨ feat: enable dark mode toggle
