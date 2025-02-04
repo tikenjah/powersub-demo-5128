@@ -8323,3 +8323,4 @@
 0663. 🚀 perf: reduce image load time
 0953. 🎨 style: remove trailing whitespace
 0063. 🐛 fix: handle 500 error in quiz API
+0460. 📚 docs: write FAQ section
