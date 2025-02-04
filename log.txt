@@ -9323,3 +9323,4 @@
 0678. ✨ feat: add user authentication
 0985. 📚 docs: document token refresh logic
 0740. 🐛 fix: resolve issue with date parsing
+0695. ✨ feat: create admin dashboard
