@@ -9326,3 +9326,4 @@
 0695. ✨ feat: create admin dashboard
 0220. 🐛 fix: fix null pointer exception on login
 0174. 📚 docs: clarify environment setup
+0759. 🔧 refactor: organize models into subfolders
