@@ -6322,3 +6322,4 @@
 0445. 📚 docs: improve code comments in utils
 0756. ✨ feat: support email verification
 0657. 🎨 style: standardize quote style
+0936. 🔧 refactor: organize models into subfolders
