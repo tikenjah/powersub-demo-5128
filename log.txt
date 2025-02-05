@@ -8328,3 +8328,4 @@
 0611. ✅ test: test user registration edge cases
 0350. 🚀 perf: cache repeated calculations
 0859. ✨ feat: create admin dashboard
+0977. 🔧 refactor: organize models into subfolders
