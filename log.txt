@@ -9328,3 +9328,4 @@
 0174. 📚 docs: clarify environment setup
 0759. 🔧 refactor: organize models into subfolders
 0906. 📚 docs: add API usage examples
+0756. ✨ feat: support email verification
