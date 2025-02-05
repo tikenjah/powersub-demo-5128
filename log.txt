@@ -6321,3 +6321,4 @@
 0635. 🎨 style: apply consistent indentation
 0445. 📚 docs: improve code comments in utils
 0756. ✨ feat: support email verification
+0657. 🎨 style: standardize quote style
