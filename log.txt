@@ -1662,3 +1662,4 @@
 0886. ♻️ chore: clean up unused files
 0967. ♻️ chore: add GitHub actions badge
 0661. ✅ test: add integration test for /submit endpoint
+0740. 🐛 fix: resolve issue with date parsing
