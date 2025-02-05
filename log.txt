@@ -9329,3 +9329,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0906. 📚 docs: add API usage examples
 0756. ✨ feat: support email verification
+0090. ✅ test: increase coverage on auth module
