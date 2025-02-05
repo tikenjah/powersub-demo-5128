@@ -1665,3 +1665,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0489. 🔧 refactor: organize models into subfolders
 0596. ♻️ chore: update .gitignore
+0006. 🐛 fix: prevent crash on empty input
