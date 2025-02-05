@@ -1654,3 +1654,4 @@
 0801. ✨ feat: enable dark mode toggle
 0153. ♻️ chore: rename env.example
 0870. ♻️ chore: clean up unused files
+0941. 🚀 perf: cache repeated calculations
