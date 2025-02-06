@@ -1672,3 +1672,4 @@
 0914. ✅ test: test user registration edge cases
 0191. 🔧 refactor: refactor quiz grading logic
 0389. 📚 docs: improve code comments in utils
+0598. 🔧 refactor: remove redundant code blocks
