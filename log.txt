@@ -1681,3 +1681,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0865. ♻️ chore: add GitHub actions badge
 0108. 🎨 style: remove trailing whitespace
+0587. 🔧 refactor: remove redundant code blocks
