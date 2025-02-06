@@ -5294,3 +5294,4 @@
 0960. ✅ test: increase coverage on auth module
 0603. 🐛 fix: fix broken CSS in mobile view
 0373. 📚 docs: document token refresh logic
+0370. 🚀 perf: reduce image load time
