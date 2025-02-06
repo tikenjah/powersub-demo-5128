@@ -1669,3 +1669,4 @@
 0543. ✨ feat: support email verification
 0586. 🎨 style: remove trailing whitespace
 0730. ✅ test: test user registration edge cases
+0914. ✅ test: test user registration edge cases
