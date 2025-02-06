@@ -1678,3 +1678,4 @@
 0001. 🚀 perf: cache repeated calculations
 0975. 🎨 style: apply consistent indentation
 0942. ✅ test: increase coverage on auth module
+0546. 🐛 fix: fix null pointer exception on login
