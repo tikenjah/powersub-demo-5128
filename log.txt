@@ -7332,3 +7332,4 @@
 0416. 🎨 style: rename variables for clarity
 0312. ✨ feat: add user authentication
 0275. 🎨 style: standardize quote style
+0751. 🐛 fix: handle 500 error in quiz API
