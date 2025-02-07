@@ -9336,3 +9336,4 @@
 0352. ✨ feat: add export to CSV option
 0458. ✨ feat: create admin dashboard
 0477. 🐛 fix: fix broken CSS in mobile view
+0078. ♻️ chore: update .gitignore
