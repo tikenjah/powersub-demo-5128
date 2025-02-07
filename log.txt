@@ -1690,3 +1690,4 @@
 0284. ✨ feat: implement quiz timer feature
 0952. 🔧 refactor: split large controller into smaller functions
 0319. 🐛 fix: handle 500 error in quiz API
+0368. 🚀 perf: lazy-load components
