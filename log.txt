@@ -6328,3 +6328,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0371. ✅ test: add integration test for /submit endpoint
 0479. 🐛 fix: fix null pointer exception on login
+0571. 🔧 refactor: clean up auth middleware
