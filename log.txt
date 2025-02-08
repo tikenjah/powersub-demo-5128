@@ -1698,3 +1698,4 @@
 0260. ✨ feat: create admin dashboard
 0824. 🚀 perf: lazy-load components
 0503. ♻️ chore: rename env.example
+0383. 🐛 fix: fix broken CSS in mobile view
