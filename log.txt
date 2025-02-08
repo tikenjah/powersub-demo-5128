@@ -1706,3 +1706,4 @@
 0756. ✨ feat: support email verification
 0221. ✨ feat: add user authentication
 0368. 🚀 perf: lazy-load components
+0208. 🔧 refactor: clean up auth middleware
