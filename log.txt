@@ -1703,3 +1703,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0669. ✨ feat: enable dark mode toggle
 0902. ✨ feat: enable dark mode toggle
+0756. ✨ feat: support email verification
