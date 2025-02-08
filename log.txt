@@ -1704,3 +1704,4 @@
 0669. ✨ feat: enable dark mode toggle
 0902. ✨ feat: enable dark mode toggle
 0756. ✨ feat: support email verification
+0221. ✨ feat: add user authentication
