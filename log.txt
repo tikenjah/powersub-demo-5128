@@ -9337,3 +9337,4 @@
 0458. ✨ feat: create admin dashboard
 0477. 🐛 fix: fix broken CSS in mobile view
 0078. ♻️ chore: update .gitignore
+0557. 🔧 refactor: clean up auth middleware
