@@ -6331,3 +6331,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0995. ✅ test: mock database connection in test suite
 0262. 🎨 style: remove trailing whitespace
+0680. ♻️ chore: add GitHub actions badge
