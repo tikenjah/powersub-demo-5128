@@ -9345,3 +9345,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0144. ✅ test: increase coverage on auth module
 0219. ✅ test: increase coverage on auth module
+0843. 📚 docs: document token refresh logic
