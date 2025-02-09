@@ -10321,3 +10321,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0750. 🎨 style: apply consistent indentation
 0893. 🐛 fix: handle 500 error in quiz API
+0671. 🐛 fix: fix null pointer exception on login
