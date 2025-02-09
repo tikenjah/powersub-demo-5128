@@ -1708,3 +1708,4 @@
 0368. 🚀 perf: lazy-load components
 0208. 🔧 refactor: clean up auth middleware
 0380. 🐛 fix: fix null pointer exception on login
+0109. 🚀 perf: lazy-load components
