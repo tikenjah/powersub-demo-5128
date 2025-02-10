@@ -1724,3 +1724,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0893. 🐛 fix: handle 500 error in quiz API
 0379. ✨ feat: support email verification
+0731. 🎨 style: standardize quote style
