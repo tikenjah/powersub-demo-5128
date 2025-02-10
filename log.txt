@@ -6332,3 +6332,4 @@
 0995. ✅ test: mock database connection in test suite
 0262. 🎨 style: remove trailing whitespace
 0680. ♻️ chore: add GitHub actions badge
+0351. ✨ feat: add export to CSV option
