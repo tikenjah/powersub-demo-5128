@@ -8339,3 +8339,4 @@
 0116. ✨ feat: support email verification
 0826. 📚 docs: clarify environment setup
 0008. 🚀 perf: reduce image load time
+0608. 🔧 refactor: remove redundant code blocks
