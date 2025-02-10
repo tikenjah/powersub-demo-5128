@@ -6333,3 +6333,4 @@
 0262. 🎨 style: remove trailing whitespace
 0680. ♻️ chore: add GitHub actions badge
 0351. ✨ feat: add export to CSV option
+0621. 🔧 refactor: clean up auth middleware
