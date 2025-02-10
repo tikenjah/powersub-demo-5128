@@ -8340,3 +8340,4 @@
 0826. 📚 docs: clarify environment setup
 0008. 🚀 perf: reduce image load time
 0608. 🔧 refactor: remove redundant code blocks
+0876. ♻️ chore: rename env.example
