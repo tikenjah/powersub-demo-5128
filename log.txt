@@ -1728,3 +1728,4 @@
 0053. ✅ test: increase coverage on auth module
 0944. ✨ feat: add user authentication
 0252. 🎨 style: remove trailing whitespace
+0786. ✨ feat: enable dark mode toggle
