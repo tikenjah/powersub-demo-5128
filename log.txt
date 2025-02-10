@@ -8338,3 +8338,4 @@
 0348. ✅ test: test user registration edge cases
 0116. ✨ feat: support email verification
 0826. 📚 docs: clarify environment setup
+0008. 🚀 perf: reduce image load time
