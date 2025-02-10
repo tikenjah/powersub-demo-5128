@@ -7339,3 +7339,4 @@
 0387. ✨ feat: enable dark mode toggle
 0153. ♻️ chore: rename env.example
 0505. ♻️ chore: add GitHub actions badge
+0211. 🔧 refactor: remove redundant code blocks
