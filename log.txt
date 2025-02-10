@@ -10323,3 +10323,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0671. 🐛 fix: fix null pointer exception on login
 0661. ✅ test: add integration test for /submit endpoint
+0378. 🐛 fix: prevent crash on empty input
