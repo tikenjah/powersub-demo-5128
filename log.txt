@@ -1742,3 +1742,4 @@
 0431. 🎨 style: reformat files with black
 0339. 📚 docs: update README with setup steps
 0273. 🚀 perf: reduce image load time
+0824. 🚀 perf: lazy-load components
