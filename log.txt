@@ -5314,3 +5314,4 @@
 0615. 🐛 fix: correct typo in registration form
 0190. 🎨 style: rename variables for clarity
 0081. 🐛 fix: fix null pointer exception on login
+0372. ✨ feat: add user authentication
