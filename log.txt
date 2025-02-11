@@ -10327,3 +10327,4 @@
 0528. ♻️ chore: clean up unused files
 0775. 🐛 fix: fix null pointer exception on login
 0061. ✨ feat: create admin dashboard
+0607. 🐛 fix: prevent crash on empty input
