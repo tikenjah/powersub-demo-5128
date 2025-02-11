@@ -1744,3 +1744,4 @@
 0273. 🚀 perf: reduce image load time
 0824. 🚀 perf: lazy-load components
 0471. ✨ feat: support email verification
+0685. ✅ test: test user registration edge cases
