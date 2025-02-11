@@ -5311,3 +5311,4 @@
 0230. ✨ feat: create admin dashboard
 0564. 📚 docs: clarify environment setup
 0505. ♻️ chore: add GitHub actions badge
+0615. 🐛 fix: correct typo in registration form
