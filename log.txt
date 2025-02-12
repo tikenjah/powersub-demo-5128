@@ -10328,3 +10328,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0061. ✨ feat: create admin dashboard
 0607. 🐛 fix: prevent crash on empty input
+0466. 🚀 perf: optimize database query for quiz results
