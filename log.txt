@@ -1758,3 +1758,4 @@
 0157. ✅ test: mock database connection in test suite
 0389. 📚 docs: improve code comments in utils
 0411. ✅ test: add unit test for quiz service
+0479. 🐛 fix: fix null pointer exception on login
