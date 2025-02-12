@@ -7350,3 +7350,4 @@
 0596. ♻️ chore: update .gitignore
 0128. ♻️ chore: rename env.example
 0511. 🐛 fix: fix broken CSS in mobile view
+0665. ♻️ chore: update .gitignore
