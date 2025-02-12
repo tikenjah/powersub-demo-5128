@@ -1754,3 +1754,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0299. 🐛 fix: resolve issue with date parsing
 0678. ✨ feat: add user authentication
+0634. 🎨 style: reformat files with black
