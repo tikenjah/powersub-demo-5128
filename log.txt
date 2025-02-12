@@ -1751,3 +1751,4 @@
 0686. 🎨 style: standardize quote style
 0132. ✅ test: add unit test for quiz service
 0019. ✨ feat: enable dark mode toggle
+0477. 🐛 fix: fix broken CSS in mobile view
