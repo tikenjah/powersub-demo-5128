@@ -7352,3 +7352,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0665. ♻️ chore: update .gitignore
 0112. ✨ feat: enable dark mode toggle
+0367. 🐛 fix: fix null pointer exception on login
