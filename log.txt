@@ -8343,3 +8343,4 @@
 0876. ♻️ chore: rename env.example
 0431. 🎨 style: reformat files with black
 0070. ✨ feat: implement quiz timer feature
+0210. 🎨 style: apply consistent indentation
