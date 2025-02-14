@@ -6347,3 +6347,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0312. ✨ feat: add user authentication
 0983. 🔧 refactor: split large controller into smaller functions
+0319. 🐛 fix: handle 500 error in quiz API
