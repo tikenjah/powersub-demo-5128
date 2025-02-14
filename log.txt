@@ -5321,3 +5321,4 @@
 0175. 📚 docs: add API usage examples
 0797. 📚 docs: add API usage examples
 0670. ✨ feat: add export to CSV option
+0585. 🚀 perf: lazy-load components
