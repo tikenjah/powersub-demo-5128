@@ -1774,3 +1774,4 @@
 0663. 🚀 perf: reduce image load time
 0684. 🚀 perf: reduce image load time
 0997. ✅ test: increase coverage on auth module
+0023. 📚 docs: clarify environment setup
