@@ -1770,3 +1770,4 @@
 0887. 📚 docs: add API usage examples
 0334. 🚀 perf: cache repeated calculations
 0440. 📚 docs: update README with setup steps
+0861. ♻️ chore: clean up unused files
