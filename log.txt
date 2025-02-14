@@ -1776,3 +1776,4 @@
 0997. ✅ test: increase coverage on auth module
 0023. 📚 docs: clarify environment setup
 0174. 📚 docs: clarify environment setup
+0556. ✨ feat: support email verification
