@@ -1773,3 +1773,4 @@
 0861. ♻️ chore: clean up unused files
 0663. 🚀 perf: reduce image load time
 0684. 🚀 perf: reduce image load time
+0997. ✅ test: increase coverage on auth module
