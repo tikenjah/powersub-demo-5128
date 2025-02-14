@@ -5323,3 +5323,4 @@
 0670. ✨ feat: add export to CSV option
 0585. 🚀 perf: lazy-load components
 0050. ✨ feat: enable dark mode toggle
+0305. ✨ feat: enable dark mode toggle
