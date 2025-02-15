@@ -7357,3 +7357,4 @@
 0281. ✨ feat: support email verification
 0567. 📚 docs: add API usage examples
 0923. ✨ feat: support email verification
+0933. 📚 docs: clarify environment setup
