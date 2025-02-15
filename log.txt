@@ -5325,3 +5325,4 @@
 0050. ✨ feat: enable dark mode toggle
 0305. ✨ feat: enable dark mode toggle
 0125. ✅ test: add integration test for /submit endpoint
+0218. 🔧 refactor: clean up auth middleware
