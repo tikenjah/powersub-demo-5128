@@ -10341,3 +10341,4 @@
 0784. ♻️ chore: clean up unused files
 0683. ✅ test: mock database connection in test suite
 0922. 📚 docs: write FAQ section
+0120. ✅ test: add integration test for /submit endpoint
