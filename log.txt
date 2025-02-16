@@ -1792,3 +1792,4 @@
 0377. ✨ feat: add user authentication
 1000. ✅ test: increase coverage on auth module
 0123. ✨ feat: implement quiz timer feature
+0003. ✅ test: increase coverage on auth module
