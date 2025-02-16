@@ -1798,3 +1798,4 @@
 0031. 📚 docs: document token refresh logic
 0602. 🔧 refactor: remove redundant code blocks
 0091. ✨ feat: add user authentication
+0986. 📚 docs: document token refresh logic
