@@ -7359,3 +7359,4 @@
 0923. ✨ feat: support email verification
 0933. 📚 docs: clarify environment setup
 0059. ♻️ chore: bump dependencies
+0985. 📚 docs: document token refresh logic
