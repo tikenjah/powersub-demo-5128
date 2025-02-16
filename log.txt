@@ -1795,3 +1795,4 @@
 0003. ✅ test: increase coverage on auth module
 0664. ✅ test: add unit test for quiz service
 0483. 📚 docs: update README with setup steps
+0031. 📚 docs: document token refresh logic
