@@ -10343,3 +10343,4 @@
 0922. 📚 docs: write FAQ section
 0120. ✅ test: add integration test for /submit endpoint
 0620. ✨ feat: implement quiz timer feature
+0043. ✅ test: add integration test for /submit endpoint
