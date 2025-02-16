@@ -1793,3 +1793,4 @@
 1000. ✅ test: increase coverage on auth module
 0123. ✨ feat: implement quiz timer feature
 0003. ✅ test: increase coverage on auth module
+0664. ✅ test: add unit test for quiz service
