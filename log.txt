@@ -6355,3 +6355,4 @@
 0407. 🚀 perf: cache repeated calculations
 0967. ♻️ chore: add GitHub actions badge
 0905. ♻️ chore: bump dependencies
+0401. 🚀 perf: reduce image load time
