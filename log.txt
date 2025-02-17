@@ -1812,3 +1812,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0550. 🔧 refactor: split large controller into smaller functions
 0787. ♻️ chore: rename env.example
+0398. 🚀 perf: cache repeated calculations
