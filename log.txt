@@ -7364,3 +7364,4 @@
 0649. 📚 docs: update README with setup steps
 0440. 📚 docs: update README with setup steps
 0432. 🎨 style: apply consistent indentation
+0121. ✨ feat: support email verification
