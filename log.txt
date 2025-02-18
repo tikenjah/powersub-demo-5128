@@ -6358,3 +6358,4 @@
 0401. 🚀 perf: reduce image load time
 0489. 🔧 refactor: organize models into subfolders
 0471. ✨ feat: support email verification
+0456. 🚀 perf: optimize database query for quiz results
