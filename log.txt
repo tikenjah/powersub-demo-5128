@@ -1820,3 +1820,4 @@
 0368. 🚀 perf: lazy-load components
 0265. 🎨 style: reformat files with black
 0449. ✅ test: add unit test for quiz service
+0157. ✅ test: mock database connection in test suite
