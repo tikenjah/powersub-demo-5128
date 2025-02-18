@@ -1817,3 +1817,4 @@
 0323. 📚 docs: clarify environment setup
 0362. 📚 docs: add API usage examples
 0027. 📚 docs: clarify environment setup
+0368. 🚀 perf: lazy-load components
