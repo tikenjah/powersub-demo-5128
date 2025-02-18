@@ -1828,3 +1828,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0580. ♻️ chore: bump dependencies
 0762. 🚀 perf: lazy-load components
+0913. 🚀 perf: optimize database query for quiz results
