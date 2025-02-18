@@ -1832,3 +1832,4 @@
 0019. ✨ feat: enable dark mode toggle
 0826. 📚 docs: clarify environment setup
 0279. ✨ feat: support email verification
+0360. ✨ feat: add export to CSV option
