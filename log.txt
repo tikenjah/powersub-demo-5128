@@ -1833,3 +1833,4 @@
 0826. 📚 docs: clarify environment setup
 0279. ✨ feat: support email verification
 0360. ✨ feat: add export to CSV option
+0903. ✅ test: mock database connection in test suite
