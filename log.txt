@@ -8354,3 +8354,4 @@
 0944. ✨ feat: add user authentication
 0327. 🔧 refactor: split large controller into smaller functions
 0093. ✅ test: add unit test for quiz service
+0491. 🚀 perf: lazy-load components
