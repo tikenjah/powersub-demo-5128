@@ -5332,3 +5332,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0631. ✨ feat: create admin dashboard
 0398. 🚀 perf: cache repeated calculations
+0338. ♻️ chore: add GitHub actions badge
