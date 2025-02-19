@@ -1835,3 +1835,4 @@
 0360. ✨ feat: add export to CSV option
 0903. ✅ test: mock database connection in test suite
 0282. 🔧 refactor: remove redundant code blocks
+0848. 📚 docs: update README with setup steps
