@@ -1845,3 +1845,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0027. 📚 docs: clarify environment setup
 0564. 📚 docs: clarify environment setup
+0989. 📚 docs: write FAQ section
