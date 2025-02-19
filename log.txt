@@ -6363,3 +6363,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0090. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
+0659. 📚 docs: add API usage examples
