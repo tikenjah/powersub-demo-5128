@@ -1851,3 +1851,4 @@
 0142. ✨ feat: implement quiz timer feature
 0200. 🐛 fix: handle 500 error in quiz API
 0301. 🎨 style: apply consistent indentation
+0664. ✅ test: add unit test for quiz service
