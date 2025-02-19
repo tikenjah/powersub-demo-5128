@@ -10352,3 +10352,4 @@
 0132. ✅ test: add unit test for quiz service
 0574. ✨ feat: enable dark mode toggle
 0189. 📚 docs: clarify environment setup
+0932. ✅ test: add integration test for /submit endpoint
