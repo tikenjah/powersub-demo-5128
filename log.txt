@@ -10353,3 +10353,4 @@
 0574. ✨ feat: enable dark mode toggle
 0189. 📚 docs: clarify environment setup
 0932. ✅ test: add integration test for /submit endpoint
+0783. 🐛 fix: handle 500 error in quiz API
