@@ -10360,3 +10360,4 @@
 0670. ✨ feat: add export to CSV option
 0978. 🐛 fix: prevent crash on empty input
 0150. 🎨 style: remove trailing whitespace
+0695. ✨ feat: create admin dashboard
