@@ -6364,3 +6364,4 @@
 0090. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
 0659. 📚 docs: add API usage examples
+0044. ✅ test: add unit test for quiz service
