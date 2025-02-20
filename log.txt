@@ -5333,3 +5333,4 @@
 0631. ✨ feat: create admin dashboard
 0398. 🚀 perf: cache repeated calculations
 0338. ♻️ chore: add GitHub actions badge
+0262. 🎨 style: remove trailing whitespace
