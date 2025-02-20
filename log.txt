@@ -5334,3 +5334,4 @@
 0398. 🚀 perf: cache repeated calculations
 0338. ♻️ chore: add GitHub actions badge
 0262. 🎨 style: remove trailing whitespace
+0026. 🔧 refactor: clean up auth middleware
