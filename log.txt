@@ -1877,3 +1877,4 @@
 0823. ✨ feat: add user authentication
 0110. 🐛 fix: prevent crash on empty input
 0638. 📚 docs: improve code comments in utils
+0338. ♻️ chore: add GitHub actions badge
