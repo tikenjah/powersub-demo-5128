@@ -1873,3 +1873,4 @@
 0345. 📚 docs: document token refresh logic
 0343. 🚀 perf: optimize database query for quiz results
 0363. 📚 docs: clarify environment setup
+0507. 🔧 refactor: clean up auth middleware
