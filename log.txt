@@ -1870,3 +1870,4 @@
 0091. ✨ feat: add user authentication
 0050. ✨ feat: enable dark mode toggle
 0784. ♻️ chore: clean up unused files
+0345. 📚 docs: document token refresh logic
