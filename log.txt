@@ -9372,3 +9372,4 @@
 0782. 📚 docs: improve code comments in utils
 0879. 🎨 style: standardize quote style
 0876. ♻️ chore: rename env.example
+0772. 🐛 fix: fix null pointer exception on login
