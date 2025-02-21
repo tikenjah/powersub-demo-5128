@@ -9373,3 +9373,4 @@
 0879. 🎨 style: standardize quote style
 0876. ♻️ chore: rename env.example
 0772. 🐛 fix: fix null pointer exception on login
+0832. 🔧 refactor: remove redundant code blocks
