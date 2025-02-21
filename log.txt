@@ -1878,3 +1878,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0638. 📚 docs: improve code comments in utils
 0338. ♻️ chore: add GitHub actions badge
+0089. 🔧 refactor: remove redundant code blocks
