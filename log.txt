@@ -9375,3 +9375,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0832. 🔧 refactor: remove redundant code blocks
 0869. ♻️ chore: bump dependencies
+0400. 🐛 fix: fix null pointer exception on login
