@@ -1875,3 +1875,4 @@
 0363. 📚 docs: clarify environment setup
 0507. 🔧 refactor: clean up auth middleware
 0823. ✨ feat: add user authentication
+0110. 🐛 fix: prevent crash on empty input
