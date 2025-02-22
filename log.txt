@@ -1880,3 +1880,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0089. 🔧 refactor: remove redundant code blocks
 0004. 🚀 perf: optimize database query for quiz results
+0467. ✅ test: add integration test for /submit endpoint
