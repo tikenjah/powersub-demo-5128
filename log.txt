@@ -9378,3 +9378,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0002. 🚀 perf: cache repeated calculations
 0122. ✨ feat: support email verification
+0423. ✅ test: mock database connection in test suite
