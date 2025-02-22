@@ -8362,3 +8362,4 @@
 0281. ✨ feat: support email verification
 0214. 📚 docs: improve code comments in utils
 0702. ✨ feat: add user authentication
+0433. 🐛 fix: prevent crash on empty input
