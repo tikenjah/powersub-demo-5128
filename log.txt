@@ -5343,3 +5343,4 @@
 0210. 🎨 style: apply consistent indentation
 0998. 🐛 fix: fix null pointer exception on login
 0713. 🐛 fix: handle 500 error in quiz API
+0796. 🔧 refactor: refactor quiz grading logic
