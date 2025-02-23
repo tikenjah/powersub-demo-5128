@@ -9382,3 +9382,4 @@
 0059. ♻️ chore: bump dependencies
 0108. 🎨 style: remove trailing whitespace
 0640. ♻️ chore: bump dependencies
+0545. 🎨 style: standardize quote style
