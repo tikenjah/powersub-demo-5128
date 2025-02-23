@@ -6373,3 +6373,4 @@
 0852. ✨ feat: enable dark mode toggle
 0366. 🔧 refactor: remove redundant code blocks
 0611. ✅ test: test user registration edge cases
+0097. 🐛 fix: handle 500 error in quiz API
