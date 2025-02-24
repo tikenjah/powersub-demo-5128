@@ -1909,3 +1909,4 @@
 0409. 🚀 perf: lazy-load components
 0388. 🎨 style: reformat files with black
 0250. 📚 docs: update README with setup steps
+0675. 🔧 refactor: organize models into subfolders
