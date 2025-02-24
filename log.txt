@@ -10365,3 +10365,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0816. 🔧 refactor: organize models into subfolders
 0645. 🐛 fix: resolve issue with date parsing
+0788. 📚 docs: add API usage examples
