@@ -1913,3 +1913,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0410. 🎨 style: reformat files with black
 0619. ✨ feat: create admin dashboard
+0252. 🎨 style: remove trailing whitespace
