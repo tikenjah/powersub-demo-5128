@@ -5350,3 +5350,4 @@
 0188. 🎨 style: apply consistent indentation
 0577. ✨ feat: implement quiz timer feature
 0022. 📚 docs: document token refresh logic
+0963. 🚀 perf: reduce image load time
