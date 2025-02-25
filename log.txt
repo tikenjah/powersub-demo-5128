@@ -7387,3 +7387,4 @@
 0410. 🎨 style: reformat files with black
 0488. ♻️ chore: add GitHub actions badge
 0164. 📚 docs: document token refresh logic
+0989. 📚 docs: write FAQ section
