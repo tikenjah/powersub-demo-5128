@@ -6377,3 +6377,4 @@
 0566. 📚 docs: write FAQ section
 0781. 🚀 perf: reduce image load time
 0006. 🐛 fix: prevent crash on empty input
+0021. ✨ feat: support email verification
