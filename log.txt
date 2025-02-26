@@ -1931,3 +1931,4 @@
 0195. 📚 docs: clarify environment setup
 0860. 🔧 refactor: organize models into subfolders
 0564. 📚 docs: clarify environment setup
+0880. 🐛 fix: fix broken CSS in mobile view
