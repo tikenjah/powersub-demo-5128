@@ -7388,3 +7388,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0164. 📚 docs: document token refresh logic
 0989. 📚 docs: write FAQ section
+0595. ✨ feat: enable dark mode toggle
