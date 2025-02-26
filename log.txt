@@ -7390,3 +7390,4 @@
 0989. 📚 docs: write FAQ section
 0595. ✨ feat: enable dark mode toggle
 0235. 🐛 fix: fix null pointer exception on login
+0680. ♻️ chore: add GitHub actions badge
