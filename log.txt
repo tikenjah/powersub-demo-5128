@@ -1936,3 +1936,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0157. ✅ test: mock database connection in test suite
 0014. 🔧 refactor: remove redundant code blocks
+0790. 📚 docs: write FAQ section
