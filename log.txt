@@ -1940,3 +1940,4 @@
 0254. 🚀 perf: reduce image load time
 0153. ♻️ chore: rename env.example
 0582. ✨ feat: add export to CSV option
+0607. 🐛 fix: prevent crash on empty input
