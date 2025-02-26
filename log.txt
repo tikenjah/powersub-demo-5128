@@ -5360,3 +5360,4 @@
 0700. 🎨 style: rename variables for clarity
 0872. 🎨 style: rename variables for clarity
 0216. 🎨 style: rename variables for clarity
+0506. 🐛 fix: handle 500 error in quiz API
