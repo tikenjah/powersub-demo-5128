@@ -1929,3 +1929,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0591. ♻️ chore: clean up unused files
 0195. 📚 docs: clarify environment setup
+0860. 🔧 refactor: organize models into subfolders
