@@ -1942,3 +1942,4 @@
 0582. ✨ feat: add export to CSV option
 0607. 🐛 fix: prevent crash on empty input
 0992. ♻️ chore: clean up unused files
+0630. 🚀 perf: lazy-load components
