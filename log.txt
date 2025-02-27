@@ -5363,3 +5363,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0473. 📚 docs: write FAQ section
 0187. ✨ feat: support email verification
+0168. ✅ test: add integration test for /submit endpoint
