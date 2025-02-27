@@ -5364,3 +5364,4 @@
 0473. 📚 docs: write FAQ section
 0187. ✨ feat: support email verification
 0168. ✅ test: add integration test for /submit endpoint
+0078. ♻️ chore: update .gitignore
