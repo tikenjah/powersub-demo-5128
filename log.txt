@@ -1945,3 +1945,4 @@
 0630. 🚀 perf: lazy-load components
 0096. 🐛 fix: prevent crash on empty input
 0008. 🚀 perf: reduce image load time
+0862. ♻️ chore: bump dependencies
