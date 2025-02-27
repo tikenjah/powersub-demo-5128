@@ -1944,3 +1944,4 @@
 0992. ♻️ chore: clean up unused files
 0630. 🚀 perf: lazy-load components
 0096. 🐛 fix: prevent crash on empty input
+0008. 🚀 perf: reduce image load time
