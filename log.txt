@@ -1951,3 +1951,4 @@
 0961. 📚 docs: add API usage examples
 0171. 🐛 fix: fix broken CSS in mobile view
 0548. 📚 docs: write FAQ section
+0399. ✅ test: mock database connection in test suite
