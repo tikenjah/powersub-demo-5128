@@ -7394,3 +7394,4 @@
 0704. 🚀 perf: cache repeated calculations
 0678. ✨ feat: add user authentication
 0777. 📚 docs: document token refresh logic
+0892. ✅ test: add unit test for quiz service
