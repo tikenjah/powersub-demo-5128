@@ -10373,3 +10373,4 @@
 0271. ✅ test: add unit test for quiz service
 0448. 🐛 fix: correct typo in registration form
 0833. ✨ feat: add user authentication
+0532. 🔧 refactor: split large controller into smaller functions
