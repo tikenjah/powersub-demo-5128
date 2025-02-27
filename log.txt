@@ -10372,3 +10372,4 @@
 0585. 🚀 perf: lazy-load components
 0271. ✅ test: add unit test for quiz service
 0448. 🐛 fix: correct typo in registration form
+0833. ✨ feat: add user authentication
