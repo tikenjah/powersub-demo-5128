@@ -1975,3 +1975,4 @@
 0765. ♻️ chore: clean up unused files
 0737. 🐛 fix: handle 500 error in quiz API
 0878. 🔧 refactor: split large controller into smaller functions
+0380. 🐛 fix: fix null pointer exception on login
