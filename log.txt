@@ -7400,3 +7400,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0509. ♻️ chore: bump dependencies
 0221. ✨ feat: add user authentication
+0316. 🐛 fix: fix broken CSS in mobile view
