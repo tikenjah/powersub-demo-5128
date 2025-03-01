@@ -6386,3 +6386,4 @@
 0099. 🚀 perf: reduce image load time
 0471. ✨ feat: support email verification
 0838. 🎨 style: standardize quote style
+0025. 🚀 perf: optimize database query for quiz results
