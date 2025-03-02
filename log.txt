@@ -9405,3 +9405,4 @@
 0524. ♻️ chore: rename env.example
 0056. ♻️ chore: rename env.example
 0653. 🐛 fix: prevent crash on empty input
+0773. 📚 docs: document token refresh logic
