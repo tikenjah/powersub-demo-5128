@@ -1996,3 +1996,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0480. ♻️ chore: add GitHub actions badge
 0178. ✨ feat: support email verification
+0671. 🐛 fix: fix null pointer exception on login
