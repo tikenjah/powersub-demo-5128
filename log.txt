@@ -1989,3 +1989,4 @@
 0460. 📚 docs: write FAQ section
 0291. 📚 docs: write FAQ section
 0748. 🚀 perf: optimize database query for quiz results
+0398. 🚀 perf: cache repeated calculations
