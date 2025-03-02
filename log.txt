@@ -1986,3 +1986,4 @@
 0545. 🎨 style: standardize quote style
 0646. ✅ test: test user registration edge cases
 0760. 🐛 fix: resolve issue with date parsing
+0460. 📚 docs: write FAQ section
