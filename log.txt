@@ -5377,3 +5377,4 @@
 0119. 📚 docs: improve code comments in utils
 0845. 🚀 perf: cache repeated calculations
 0271. ✅ test: add unit test for quiz service
+0203. 🚀 perf: lazy-load components
