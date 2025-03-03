@@ -9408,3 +9408,4 @@
 0773. 📚 docs: document token refresh logic
 0273. 🚀 perf: reduce image load time
 0504. 📚 docs: document token refresh logic
+0343. 🚀 perf: optimize database query for quiz results
