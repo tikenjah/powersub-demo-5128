@@ -6391,3 +6391,4 @@
 0643. 🎨 style: apply consistent indentation
 0677. 📚 docs: add API usage examples
 0239. 🎨 style: standardize quote style
+0921. 🐛 fix: correct typo in registration form
