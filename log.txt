@@ -9407,3 +9407,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0773. 📚 docs: document token refresh logic
 0273. 🚀 perf: reduce image load time
+0504. 📚 docs: document token refresh logic
