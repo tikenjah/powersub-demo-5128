@@ -2015,3 +2015,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0281. ✨ feat: support email verification
 0253. 📚 docs: update README with setup steps
+0270. ♻️ chore: rename env.example
