@@ -2019,3 +2019,4 @@
 0620. ✨ feat: implement quiz timer feature
 0100. ♻️ chore: update .gitignore
 0290. ✅ test: test user registration edge cases
+0077. ♻️ chore: rename env.example
