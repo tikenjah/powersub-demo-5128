@@ -5379,3 +5379,4 @@
 0271. ✅ test: add unit test for quiz service
 0203. 🚀 perf: lazy-load components
 0944. ✨ feat: add user authentication
+0090. ✅ test: increase coverage on auth module
