@@ -8391,3 +8391,4 @@
 0951. 🎨 style: rename variables for clarity
 0828. ♻️ chore: add GitHub actions badge
 0038. 🎨 style: rename variables for clarity
+0394. 🚀 perf: lazy-load components
