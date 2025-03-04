@@ -2017,3 +2017,4 @@
 0253. 📚 docs: update README with setup steps
 0270. ♻️ chore: rename env.example
 0620. ✨ feat: implement quiz timer feature
+0100. ♻️ chore: update .gitignore
