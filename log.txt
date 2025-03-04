@@ -8389,3 +8389,4 @@
 0554. 📚 docs: improve code comments in utils
 0094. 📚 docs: document token refresh logic
 0951. 🎨 style: rename variables for clarity
+0828. ♻️ chore: add GitHub actions badge
