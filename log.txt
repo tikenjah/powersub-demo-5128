@@ -2022,3 +2022,4 @@
 0077. ♻️ chore: rename env.example
 0012. 🚀 perf: cache repeated calculations
 0204. 🎨 style: standardize quote style
+0529. 📚 docs: write FAQ section
