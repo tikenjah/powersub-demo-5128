@@ -2027,3 +2027,4 @@
 0173. 🚀 perf: cache repeated calculations
 0999. 🔧 refactor: split large controller into smaller functions
 0796. 🔧 refactor: refactor quiz grading logic
+0947. 📚 docs: write FAQ section
