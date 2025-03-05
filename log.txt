@@ -10389,3 +10389,4 @@
 0442. 🎨 style: standardize quote style
 0946. ✅ test: add unit test for quiz service
 0130. 🔧 refactor: split large controller into smaller functions
+0749. ✨ feat: support email verification
