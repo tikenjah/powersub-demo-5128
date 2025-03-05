@@ -6396,3 +6396,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0316. 🐛 fix: fix broken CSS in mobile view
 0986. 📚 docs: document token refresh logic
+0773. 📚 docs: document token refresh logic
