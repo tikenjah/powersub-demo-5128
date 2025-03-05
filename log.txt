@@ -2029,3 +2029,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0947. 📚 docs: write FAQ section
 0863. 🐛 fix: correct typo in registration form
+0892. ✅ test: add unit test for quiz service
