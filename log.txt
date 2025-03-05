@@ -6397,3 +6397,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0986. 📚 docs: document token refresh logic
 0773. 📚 docs: document token refresh logic
+0558. ✨ feat: enable dark mode toggle
