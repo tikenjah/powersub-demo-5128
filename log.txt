@@ -5382,3 +5382,4 @@
 0090. ✅ test: increase coverage on auth module
 0180. ✨ feat: add export to CSV option
 0152. ✨ feat: add user authentication
+0931. 🚀 perf: reduce image load time
