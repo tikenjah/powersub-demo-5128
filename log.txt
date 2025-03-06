@@ -2045,3 +2045,4 @@
 0646. ✅ test: test user registration edge cases
 0298. ♻️ chore: update .gitignore
 0701. 🔧 refactor: clean up auth middleware
+0867. 🔧 refactor: refactor quiz grading logic
