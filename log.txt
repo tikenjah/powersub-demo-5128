@@ -7410,3 +7410,4 @@
 0212. 🎨 style: standardize quote style
 0659. 📚 docs: add API usage examples
 0499. 🎨 style: reformat files with black
+0114. ♻️ chore: update .gitignore
