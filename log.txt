@@ -2046,3 +2046,4 @@
 0298. ♻️ chore: update .gitignore
 0701. 🔧 refactor: clean up auth middleware
 0867. 🔧 refactor: refactor quiz grading logic
+0742. 📚 docs: clarify environment setup
