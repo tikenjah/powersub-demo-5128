@@ -2055,3 +2055,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0030. 🐛 fix: fix null pointer exception on login
 0191. 🔧 refactor: refactor quiz grading logic
+0629. 🔧 refactor: organize models into subfolders
