@@ -2064,3 +2064,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0821. ✅ test: add integration test for /submit endpoint
 0884. 📚 docs: clarify environment setup
+0946. ✅ test: add unit test for quiz service
