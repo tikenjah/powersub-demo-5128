@@ -5388,3 +5388,4 @@
 0658. 🎨 style: rename variables for clarity
 0946. ✅ test: add unit test for quiz service
 0083. 🎨 style: reformat files with black
+0906. 📚 docs: add API usage examples
