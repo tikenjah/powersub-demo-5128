@@ -2071,3 +2071,4 @@
 0842. 🎨 style: remove trailing whitespace
 0866. 📚 docs: add API usage examples
 0116. ✨ feat: support email verification
+0910. 🎨 style: remove trailing whitespace
