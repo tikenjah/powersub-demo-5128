@@ -2067,3 +2067,4 @@
 0946. ✅ test: add unit test for quiz service
 0225. 🚀 perf: reduce image load time
 0173. 🚀 perf: cache repeated calculations
+0950. 🎨 style: reformat files with black
