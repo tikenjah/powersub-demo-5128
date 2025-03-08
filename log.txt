@@ -9419,3 +9419,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0105. 🐛 fix: correct typo in registration form
 0045. 🎨 style: apply consistent indentation
+0167. 🚀 perf: reduce image load time
