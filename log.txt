@@ -5389,3 +5389,4 @@
 0946. ✅ test: add unit test for quiz service
 0083. 🎨 style: reformat files with black
 0906. 📚 docs: add API usage examples
+0297. 🎨 style: remove trailing whitespace
