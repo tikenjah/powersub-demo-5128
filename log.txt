@@ -2070,3 +2070,4 @@
 0950. 🎨 style: reformat files with black
 0842. 🎨 style: remove trailing whitespace
 0866. 📚 docs: add API usage examples
+0116. ✨ feat: support email verification
