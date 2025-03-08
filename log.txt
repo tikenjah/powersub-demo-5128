@@ -2077,3 +2077,4 @@
 0095. ✅ test: mock database connection in test suite
 0719. 🎨 style: apply consistent indentation
 0075. ✅ test: mock database connection in test suite
+0514. 🐛 fix: fix broken CSS in mobile view
