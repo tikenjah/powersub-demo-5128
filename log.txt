@@ -9424,3 +9424,4 @@
 0334. 🚀 perf: cache repeated calculations
 0863. 🐛 fix: correct typo in registration form
 0996. ✅ test: test user registration edge cases
+0754. 🐛 fix: handle 500 error in quiz API
