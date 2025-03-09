@@ -2090,3 +2090,4 @@
 0404. 📚 docs: improve code comments in utils
 0815. 🔧 refactor: split large controller into smaller functions
 0644. 🎨 style: apply consistent indentation
+0451. ✨ feat: support email verification
