@@ -7416,3 +7416,4 @@
 0902. ✨ feat: enable dark mode toggle
 0785. ✨ feat: enable dark mode toggle
 0670. ✨ feat: add export to CSV option
+0279. ✨ feat: support email verification
