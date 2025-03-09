@@ -5394,3 +5394,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0183. 🔧 refactor: split large controller into smaller functions
 0411. ✅ test: add unit test for quiz service
+0290. ✅ test: test user registration edge cases
