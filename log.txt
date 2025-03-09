@@ -10401,3 +10401,4 @@
 0895. ✨ feat: support email verification
 0964. ♻️ chore: clean up unused files
 0875. ✅ test: increase coverage on auth module
+0839. 🎨 style: apply consistent indentation
