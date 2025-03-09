@@ -10400,3 +10400,4 @@
 0324. 📚 docs: document token refresh logic
 0895. ✨ feat: support email verification
 0964. ♻️ chore: clean up unused files
+0875. ✅ test: increase coverage on auth module
