@@ -6415,3 +6415,4 @@
 0044. ✅ test: add unit test for quiz service
 0911. ✅ test: increase coverage on auth module
 0047. 🎨 style: rename variables for clarity
+0589. 🐛 fix: fix broken CSS in mobile view
