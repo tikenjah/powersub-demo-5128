@@ -9426,3 +9426,4 @@
 0996. ✅ test: test user registration edge cases
 0754. 🐛 fix: handle 500 error in quiz API
 0993. ✨ feat: implement quiz timer feature
+0100. ♻️ chore: update .gitignore
