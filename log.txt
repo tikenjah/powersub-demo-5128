@@ -7418,3 +7418,4 @@
 0670. ✨ feat: add export to CSV option
 0279. ✨ feat: support email verification
 0167. 🚀 perf: reduce image load time
+0605. ✨ feat: support email verification
