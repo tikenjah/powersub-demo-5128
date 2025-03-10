@@ -5400,3 +5400,4 @@
 0706. ✨ feat: support email verification
 0196. ♻️ chore: bump dependencies
 0014. 🔧 refactor: remove redundant code blocks
+0101. 📚 docs: clarify environment setup
