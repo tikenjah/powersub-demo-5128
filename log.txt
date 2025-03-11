@@ -10408,3 +10408,4 @@
 0875. ✅ test: increase coverage on auth module
 0479. 🐛 fix: fix null pointer exception on login
 0524. ♻️ chore: rename env.example
+0476. 🚀 perf: reduce image load time
