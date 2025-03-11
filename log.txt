@@ -2111,3 +2111,4 @@
 0916. ♻️ chore: bump dependencies
 0742. 📚 docs: clarify environment setup
 0790. 📚 docs: write FAQ section
+0085. ✨ feat: support email verification
