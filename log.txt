@@ -2109,3 +2109,4 @@
 0311. 🎨 style: apply consistent indentation
 0898. 🐛 fix: fix broken CSS in mobile view
 0916. ♻️ chore: bump dependencies
+0742. 📚 docs: clarify environment setup
