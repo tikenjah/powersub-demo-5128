@@ -2107,3 +2107,4 @@
 0473. 📚 docs: write FAQ section
 0840. 🔧 refactor: refactor quiz grading logic
 0311. 🎨 style: apply consistent indentation
+0898. 🐛 fix: fix broken CSS in mobile view
