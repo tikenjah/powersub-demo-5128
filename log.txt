@@ -7422,3 +7422,4 @@
 0766. 🎨 style: reformat files with black
 0027. 📚 docs: clarify environment setup
 0571. 🔧 refactor: clean up auth middleware
+0805. ♻️ chore: add GitHub actions badge
