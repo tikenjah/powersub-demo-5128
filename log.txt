@@ -5405,3 +5405,4 @@
 0443. 🎨 style: standardize quote style
 0010. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
+0412. ✅ test: increase coverage on auth module
