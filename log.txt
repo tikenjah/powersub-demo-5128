@@ -2114,3 +2114,4 @@
 0085. ✨ feat: support email verification
 0497. 🔧 refactor: refactor quiz grading logic
 0317. ✅ test: test user registration edge cases
+0575. ✅ test: add unit test for quiz service
