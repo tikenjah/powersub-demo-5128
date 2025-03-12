@@ -2118,3 +2118,4 @@
 0662. ♻️ chore: clean up unused files
 1000. ✅ test: increase coverage on auth module
 0846. ✨ feat: implement quiz timer feature
+0003. ✅ test: increase coverage on auth module
