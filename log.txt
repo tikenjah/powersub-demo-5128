@@ -5406,3 +5406,4 @@
 0010. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
 0412. ✅ test: increase coverage on auth module
+0599. ✅ test: test user registration edge cases
