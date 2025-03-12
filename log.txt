@@ -2122,3 +2122,4 @@
 0543. ✨ feat: support email verification
 0929. ✨ feat: support email verification
 0444. ✅ test: add unit test for quiz service
+0536. ✨ feat: add user authentication
