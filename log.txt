@@ -10409,3 +10409,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0524. ♻️ chore: rename env.example
 0476. 🚀 perf: reduce image load time
+0258. 🐛 fix: prevent crash on empty input
