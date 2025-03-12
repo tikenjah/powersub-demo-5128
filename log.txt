@@ -2116,3 +2116,4 @@
 0317. ✅ test: test user registration edge cases
 0575. ✅ test: add unit test for quiz service
 0662. ♻️ chore: clean up unused files
+1000. ✅ test: increase coverage on auth module
