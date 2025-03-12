@@ -2113,3 +2113,4 @@
 0790. 📚 docs: write FAQ section
 0085. ✨ feat: support email verification
 0497. 🔧 refactor: refactor quiz grading logic
+0317. ✅ test: test user registration edge cases
