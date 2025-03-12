@@ -2119,3 +2119,4 @@
 1000. ✅ test: increase coverage on auth module
 0846. ✨ feat: implement quiz timer feature
 0003. ✅ test: increase coverage on auth module
+0543. ✨ feat: support email verification
