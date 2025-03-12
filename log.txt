@@ -6422,3 +6422,4 @@
 0820. 📚 docs: add API usage examples
 0049. 🐛 fix: handle 500 error in quiz API
 0672. 🐛 fix: fix broken CSS in mobile view
+0403. ✅ test: mock database connection in test suite
