@@ -6423,3 +6423,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0672. 🐛 fix: fix broken CSS in mobile view
 0403. ✅ test: mock database connection in test suite
+0715. ✨ feat: create admin dashboard
