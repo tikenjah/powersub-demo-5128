@@ -5408,3 +5408,4 @@
 0412. ✅ test: increase coverage on auth module
 0599. ✅ test: test user registration edge cases
 0964. ♻️ chore: clean up unused files
+0616. 🚀 perf: lazy-load components
