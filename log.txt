@@ -2138,3 +2138,4 @@
 0899. 🚀 perf: cache repeated calculations
 0011. ✅ test: add unit test for quiz service
 0469. 🚀 perf: lazy-load components
+0906. 📚 docs: add API usage examples
