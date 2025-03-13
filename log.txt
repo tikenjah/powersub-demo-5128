@@ -6425,3 +6425,4 @@
 0403. ✅ test: mock database connection in test suite
 0715. ✨ feat: create admin dashboard
 0819. 🚀 perf: reduce image load time
+0981. 🚀 perf: lazy-load components
