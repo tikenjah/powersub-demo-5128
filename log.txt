@@ -2130,3 +2130,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0477. 🐛 fix: fix broken CSS in mobile view
 0206. 🐛 fix: handle 500 error in quiz API
+0885. ♻️ chore: update .gitignore
