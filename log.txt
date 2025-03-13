@@ -9439,3 +9439,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0655. 🚀 perf: cache repeated calculations
 0848. 📚 docs: update README with setup steps
+0678. ✨ feat: add user authentication
