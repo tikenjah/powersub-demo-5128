@@ -2158,3 +2158,4 @@
 0597. 🚀 perf: cache repeated calculations
 0753. 🔧 refactor: remove redundant code blocks
 0277. 🎨 style: standardize quote style
+0106. 🎨 style: reformat files with black
