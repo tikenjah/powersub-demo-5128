@@ -2150,3 +2150,4 @@
 0447. ♻️ chore: bump dependencies
 0869. ♻️ chore: bump dependencies
 0207. 🐛 fix: prevent crash on empty input
+0708. ✅ test: add integration test for /submit endpoint
