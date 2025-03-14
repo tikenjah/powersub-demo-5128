@@ -10417,3 +10417,4 @@
 0709. ♻️ chore: bump dependencies
 0822. 🔧 refactor: remove redundant code blocks
 0227. ✅ test: test user registration edge cases
+0507. 🔧 refactor: clean up auth middleware
