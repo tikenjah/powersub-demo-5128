@@ -2149,3 +2149,4 @@
 0136. 🚀 perf: lazy-load components
 0447. ♻️ chore: bump dependencies
 0869. ♻️ chore: bump dependencies
+0207. 🐛 fix: prevent crash on empty input
