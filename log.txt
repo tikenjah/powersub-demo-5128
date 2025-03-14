@@ -5412,3 +5412,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0673. 🐛 fix: correct typo in registration form
 0387. ✨ feat: enable dark mode toggle
+0171. 🐛 fix: fix broken CSS in mobile view
