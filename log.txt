@@ -2143,3 +2143,4 @@
 0022. 📚 docs: document token refresh logic
 0859. ✨ feat: create admin dashboard
 0534. 🔧 refactor: split large controller into smaller functions
+0875. ✅ test: increase coverage on auth module
