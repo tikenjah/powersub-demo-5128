@@ -9441,3 +9441,4 @@
 0848. 📚 docs: update README with setup steps
 0678. ✨ feat: add user authentication
 0632. 🎨 style: remove trailing whitespace
+0809. ♻️ chore: rename env.example
