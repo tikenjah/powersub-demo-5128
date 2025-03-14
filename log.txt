@@ -6430,3 +6430,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0469. 🚀 perf: lazy-load components
 0945. ♻️ chore: add GitHub actions badge
+0151. ✅ test: add unit test for quiz service
