@@ -2163,3 +2163,4 @@
 0473. 📚 docs: write FAQ section
 0512. 🚀 perf: reduce image load time
 0007. 🎨 style: rename variables for clarity
+0144. ✅ test: increase coverage on auth module
