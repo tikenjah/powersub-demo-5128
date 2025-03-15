@@ -9446,3 +9446,4 @@
 0253. 📚 docs: update README with setup steps
 0055. 📚 docs: update README with setup steps
 0667. ✨ feat: add export to CSV option
+0049. 🐛 fix: handle 500 error in quiz API
