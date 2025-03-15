@@ -2160,3 +2160,4 @@
 0277. 🎨 style: standardize quote style
 0106. 🎨 style: reformat files with black
 0559. 🔧 refactor: split large controller into smaller functions
+0473. 📚 docs: write FAQ section
