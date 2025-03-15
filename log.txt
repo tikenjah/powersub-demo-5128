@@ -7436,3 +7436,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0377. ✨ feat: add user authentication
 0509. ♻️ chore: bump dependencies
+0219. ✅ test: increase coverage on auth module
