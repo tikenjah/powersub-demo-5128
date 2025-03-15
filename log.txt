@@ -6433,3 +6433,4 @@
 0151. ✅ test: add unit test for quiz service
 0324. 📚 docs: document token refresh logic
 0570. 🎨 style: apply consistent indentation
+0365. 🚀 perf: reduce image load time
