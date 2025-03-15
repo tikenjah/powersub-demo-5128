@@ -2161,3 +2161,4 @@
 0106. 🎨 style: reformat files with black
 0559. 🔧 refactor: split large controller into smaller functions
 0473. 📚 docs: write FAQ section
+0512. 🚀 perf: reduce image load time
