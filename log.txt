@@ -8420,3 +8420,4 @@
 0536. ✨ feat: add user authentication
 0956. 📚 docs: clarify environment setup
 0799. ♻️ chore: clean up unused files
+0356. 📚 docs: write FAQ section
