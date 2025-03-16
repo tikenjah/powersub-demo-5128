@@ -7439,3 +7439,4 @@
 0219. ✅ test: increase coverage on auth module
 0958. 🐛 fix: prevent crash on empty input
 0764. ✨ feat: add user authentication
+0283. ♻️ chore: add GitHub actions badge
