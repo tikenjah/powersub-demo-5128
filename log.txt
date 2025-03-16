@@ -8422,3 +8422,4 @@
 0799. ♻️ chore: clean up unused files
 0356. 📚 docs: write FAQ section
 0103. 🔧 refactor: remove redundant code blocks
+0201. 🔧 refactor: clean up auth middleware
