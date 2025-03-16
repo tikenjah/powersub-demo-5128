@@ -2176,3 +2176,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0078. ♻️ chore: update .gitignore
 0693. 📚 docs: add API usage examples
+0154. 🐛 fix: prevent crash on empty input
