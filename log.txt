@@ -7443,3 +7443,4 @@
 0761. ✅ test: add unit test for quiz service
 0363. 📚 docs: clarify environment setup
 0456. 🚀 perf: optimize database query for quiz results
+0721. 🚀 perf: optimize database query for quiz results
