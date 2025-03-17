@@ -2184,3 +2184,4 @@
 0209. ✨ feat: implement quiz timer feature
 0214. 📚 docs: improve code comments in utils
 0314. ✨ feat: implement quiz timer feature
+0605. ✨ feat: support email verification
