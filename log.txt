@@ -6438,3 +6438,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0517. ✅ test: mock database connection in test suite
 0195. 📚 docs: clarify environment setup
+0765. ♻️ chore: clean up unused files
