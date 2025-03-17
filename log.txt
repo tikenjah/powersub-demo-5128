@@ -2180,3 +2180,4 @@
 0215. 🎨 style: reformat files with black
 0447. ♻️ chore: bump dependencies
 0035. ✅ test: increase coverage on auth module
+0394. 🚀 perf: lazy-load components
