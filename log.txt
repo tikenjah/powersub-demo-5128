@@ -2191,3 +2191,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0139. 📚 docs: document token refresh logic
 0959. 🐛 fix: fix null pointer exception on login
+0125. ✅ test: add integration test for /submit endpoint
