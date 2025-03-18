@@ -2211,3 +2211,4 @@
 0209. ✨ feat: implement quiz timer feature
 0092. 🚀 perf: reduce image load time
 0400. 🐛 fix: fix null pointer exception on login
+0605. ✨ feat: support email verification
