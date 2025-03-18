@@ -2200,3 +2200,4 @@
 0792. 🎨 style: standardize quote style
 0648. ♻️ chore: bump dependencies
 0230. ✨ feat: create admin dashboard
+0078. ♻️ chore: update .gitignore
