@@ -6443,3 +6443,4 @@
 0911. ✅ test: increase coverage on auth module
 0771. 🚀 perf: cache repeated calculations
 0928. 🎨 style: apply consistent indentation
+0653. 🐛 fix: prevent crash on empty input
