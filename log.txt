@@ -6446,3 +6446,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0808. 🚀 perf: optimize database query for quiz results
 0483. 📚 docs: update README with setup steps
+0947. 📚 docs: write FAQ section
