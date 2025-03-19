@@ -2219,3 +2219,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0635. 🎨 style: apply consistent indentation
 0507. 🔧 refactor: clean up auth middleware
+0373. 📚 docs: document token refresh logic
