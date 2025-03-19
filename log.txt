@@ -2228,3 +2228,4 @@
 0854. ♻️ chore: rename env.example
 0410. 🎨 style: reformat files with black
 0767. 🔧 refactor: remove redundant code blocks
+0066. 🔧 refactor: clean up auth middleware
