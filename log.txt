@@ -2238,3 +2238,4 @@
 0982. 🚀 perf: lazy-load components
 0770. ♻️ chore: rename env.example
 0239. 🎨 style: standardize quote style
+0776. ✅ test: add integration test for /submit endpoint
