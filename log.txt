@@ -2240,3 +2240,4 @@
 0239. 🎨 style: standardize quote style
 0776. ✅ test: add integration test for /submit endpoint
 0174. 📚 docs: clarify environment setup
+0868. ✅ test: add unit test for quiz service
