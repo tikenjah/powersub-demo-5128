@@ -6449,3 +6449,4 @@
 0947. 📚 docs: write FAQ section
 0248. 🐛 fix: handle 500 error in quiz API
 0940. 📚 docs: document token refresh logic
+0666. 🐛 fix: fix broken CSS in mobile view
