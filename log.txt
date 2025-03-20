@@ -9453,3 +9453,4 @@
 0605. ✨ feat: support email verification
 0035. ✅ test: increase coverage on auth module
 0775. 🐛 fix: fix null pointer exception on login
+0338. ♻️ chore: add GitHub actions badge
