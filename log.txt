@@ -2254,3 +2254,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0277. 🎨 style: standardize quote style
 0780. 📚 docs: add API usage examples
+0299. 🐛 fix: resolve issue with date parsing
