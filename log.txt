@@ -2244,3 +2244,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0159. 🚀 perf: lazy-load components
 0511. 🐛 fix: fix broken CSS in mobile view
+0918. ✨ feat: enable dark mode toggle
