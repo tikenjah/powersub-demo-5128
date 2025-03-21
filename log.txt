@@ -6451,3 +6451,4 @@
 0940. 📚 docs: document token refresh logic
 0666. 🐛 fix: fix broken CSS in mobile view
 0256. ✅ test: mock database connection in test suite
+0599. ✅ test: test user registration edge cases
