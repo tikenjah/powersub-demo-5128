@@ -2264,3 +2264,4 @@
 0508. ✅ test: add unit test for quiz service
 0959. 🐛 fix: fix null pointer exception on login
 0710. 🐛 fix: fix broken CSS in mobile view
+0996. ✅ test: test user registration edge cases
