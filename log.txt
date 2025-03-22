@@ -8438,3 +8438,4 @@
 0017. ✅ test: mock database connection in test suite
 0558. ✨ feat: enable dark mode toggle
 0853. 🔧 refactor: refactor quiz grading logic
+0024. 📚 docs: write FAQ section
