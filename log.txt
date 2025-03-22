@@ -10442,3 +10442,4 @@
 0611. ✅ test: test user registration edge cases
 0780. 📚 docs: add API usage examples
 0504. 📚 docs: document token refresh logic
+0502. 📚 docs: update README with setup steps
