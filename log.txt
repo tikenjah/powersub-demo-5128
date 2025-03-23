@@ -10444,3 +10444,4 @@
 0504. 📚 docs: document token refresh logic
 0502. 📚 docs: update README with setup steps
 0015. ✨ feat: implement quiz timer feature
+0208. 🔧 refactor: clean up auth middleware
