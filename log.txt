@@ -9462,3 +9462,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0120. ✅ test: add integration test for /submit endpoint
 0023. 📚 docs: clarify environment setup
+0569. 📚 docs: document token refresh logic
