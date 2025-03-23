@@ -2271,3 +2271,4 @@
 0115. 🚀 perf: reduce image load time
 0372. ✨ feat: add user authentication
 0723. 🔧 refactor: remove redundant code blocks
+0354. 📚 docs: add API usage examples
