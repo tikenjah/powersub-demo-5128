@@ -6460,3 +6460,4 @@
 0160. ♻️ chore: bump dependencies
 0145. 📚 docs: improve code comments in utils
 0437. 📚 docs: clarify environment setup
+0730. ✅ test: test user registration edge cases
