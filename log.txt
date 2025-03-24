@@ -7460,3 +7460,4 @@
 0924. ✅ test: mock database connection in test suite
 0053. ✅ test: increase coverage on auth module
 0149. ✨ feat: add export to CSV option
+0283. ♻️ chore: add GitHub actions badge
