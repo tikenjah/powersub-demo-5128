@@ -2293,3 +2293,4 @@
 0099. 🚀 perf: reduce image load time
 0704. 🚀 perf: cache repeated calculations
 0446. 🎨 style: apply consistent indentation
+0958. 🐛 fix: prevent crash on empty input
