@@ -2295,3 +2295,4 @@
 0446. 🎨 style: apply consistent indentation
 0958. 🐛 fix: prevent crash on empty input
 0891. ✨ feat: create admin dashboard
+0036. 🔧 refactor: clean up auth middleware
