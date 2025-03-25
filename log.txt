@@ -2290,3 +2290,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0331. 🐛 fix: fix broken CSS in mobile view
 0927. ♻️ chore: bump dependencies
+0099. 🚀 perf: reduce image load time
