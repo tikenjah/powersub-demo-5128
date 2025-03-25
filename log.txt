@@ -2302,3 +2302,4 @@
 0905. ♻️ chore: bump dependencies
 0757. 🔧 refactor: remove redundant code blocks
 0385. ♻️ chore: clean up unused files
+0546. 🐛 fix: fix null pointer exception on login
