@@ -6462,3 +6462,4 @@
 0437. 📚 docs: clarify environment setup
 0730. ✅ test: test user registration edge cases
 0896. 🚀 perf: reduce image load time
+0268. 🐛 fix: prevent crash on empty input
