@@ -5443,3 +5443,4 @@
 0326. 🚀 perf: cache repeated calculations
 0892. ✅ test: add unit test for quiz service
 0735. ♻️ chore: add GitHub actions badge
+0235. 🐛 fix: fix null pointer exception on login
