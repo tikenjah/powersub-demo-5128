@@ -9468,3 +9468,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0259. 🚀 perf: lazy-load components
 0609. 🐛 fix: handle 500 error in quiz API
+0674. 🔧 refactor: split large controller into smaller functions
