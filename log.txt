@@ -10455,3 +10455,4 @@
 0687. 🎨 style: remove trailing whitespace
 0314. ✨ feat: implement quiz timer feature
 0185. 📚 docs: write FAQ section
+0020. ✅ test: add integration test for /submit endpoint
