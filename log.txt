@@ -2308,3 +2308,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0453. 🎨 style: standardize quote style
 0271. ✅ test: add unit test for quiz service
+0600. 🐛 fix: prevent crash on empty input
