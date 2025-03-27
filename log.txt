@@ -5451,3 +5451,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0509. ♻️ chore: bump dependencies
 0586. 🎨 style: remove trailing whitespace
+0451. ✨ feat: support email verification
