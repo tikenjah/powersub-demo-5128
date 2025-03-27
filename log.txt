@@ -2317,3 +2317,4 @@
 0486. ✨ feat: add export to CSV option
 0487. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
+0100. ♻️ chore: update .gitignore
