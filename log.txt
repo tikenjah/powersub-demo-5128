@@ -9473,3 +9473,4 @@
 0163. ✨ feat: implement quiz timer feature
 0090. ✅ test: increase coverage on auth module
 0047. 🎨 style: rename variables for clarity
+0241. 📚 docs: add API usage examples
