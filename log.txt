@@ -6463,3 +6463,4 @@
 0730. ✅ test: test user registration edge cases
 0896. 🚀 perf: reduce image load time
 0268. 🐛 fix: prevent crash on empty input
+0636. ✅ test: increase coverage on auth module
