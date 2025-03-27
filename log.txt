@@ -2328,3 +2328,4 @@
 0851. ✅ test: mock database connection in test suite
 0998. 🐛 fix: fix null pointer exception on login
 0750. 🎨 style: apply consistent indentation
+0795. 📚 docs: update README with setup steps
