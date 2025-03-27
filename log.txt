@@ -9471,3 +9471,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0285. 🐛 fix: resolve issue with date parsing
 0163. ✨ feat: implement quiz timer feature
+0090. ✅ test: increase coverage on auth module
