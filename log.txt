@@ -2335,3 +2335,4 @@
 0064. 📚 docs: clarify environment setup
 0313. 🎨 style: apply consistent indentation
 0146. 🎨 style: apply consistent indentation
+0080. ✨ feat: support email verification
