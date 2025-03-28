@@ -8454,3 +8454,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0251. ♻️ chore: update .gitignore
 0147. ♻️ chore: bump dependencies
+0935. 📚 docs: update README with setup steps
