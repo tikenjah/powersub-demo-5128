@@ -2346,3 +2346,4 @@
 0170. ✅ test: increase coverage on auth module
 0929. ✨ feat: support email verification
 0991. ♻️ chore: clean up unused files
+0682. ♻️ chore: rename env.example
