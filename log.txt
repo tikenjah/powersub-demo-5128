@@ -8457,3 +8457,4 @@
 0935. 📚 docs: update README with setup steps
 0805. ♻️ chore: add GitHub actions badge
 0419. 🎨 style: remove trailing whitespace
+0204. 🎨 style: standardize quote style
