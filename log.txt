@@ -8455,3 +8455,4 @@
 0251. ♻️ chore: update .gitignore
 0147. ♻️ chore: bump dependencies
 0935. 📚 docs: update README with setup steps
+0805. ♻️ chore: add GitHub actions badge
