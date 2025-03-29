@@ -2343,3 +2343,4 @@
 0019. ✨ feat: enable dark mode toggle
 0251. ♻️ chore: update .gitignore
 0768. 🎨 style: remove trailing whitespace
+0170. ✅ test: increase coverage on auth module
