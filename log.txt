@@ -6472,3 +6472,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0053. ✅ test: increase coverage on auth module
 0107. 🐛 fix: prevent crash on empty input
+0437. 📚 docs: clarify environment setup
