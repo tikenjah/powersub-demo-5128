@@ -8461,3 +8461,4 @@
 0141. 📚 docs: document token refresh logic
 0646. ✅ test: test user registration edge cases
 0835. 🐛 fix: prevent crash on empty input
+0129. 🔧 refactor: organize models into subfolders
