@@ -2352,3 +2352,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0578. ✅ test: add integration test for /submit endpoint
 0772. 🐛 fix: fix null pointer exception on login
+0048. 📚 docs: update README with setup steps
