@@ -8459,3 +8459,4 @@
 0419. 🎨 style: remove trailing whitespace
 0204. 🎨 style: standardize quote style
 0141. 📚 docs: document token refresh logic
+0646. ✅ test: test user registration edge cases
