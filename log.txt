@@ -6480,3 +6480,4 @@
 0591. ♻️ chore: clean up unused files
 0225. 🚀 perf: reduce image load time
 0489. 🔧 refactor: organize models into subfolders
+0725. 🚀 perf: lazy-load components
