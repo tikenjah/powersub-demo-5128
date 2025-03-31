@@ -10468,3 +10468,4 @@
 0656. 🎨 style: apply consistent indentation
 0839. 🎨 style: apply consistent indentation
 0022. 📚 docs: document token refresh logic
+0529. 📚 docs: write FAQ section
