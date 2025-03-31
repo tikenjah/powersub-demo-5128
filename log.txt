@@ -2362,3 +2362,4 @@
 0954. 🚀 perf: cache repeated calculations
 0379. ✨ feat: support email verification
 0041. 🐛 fix: fix broken CSS in mobile view
+0535. 📚 docs: write FAQ section
