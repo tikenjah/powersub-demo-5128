@@ -6479,3 +6479,4 @@
 0876. ♻️ chore: rename env.example
 0591. ♻️ chore: clean up unused files
 0225. 🚀 perf: reduce image load time
+0489. 🔧 refactor: organize models into subfolders
