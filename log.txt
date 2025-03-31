@@ -8463,3 +8463,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0129. 🔧 refactor: organize models into subfolders
 0587. 🔧 refactor: remove redundant code blocks
+0600. 🐛 fix: prevent crash on empty input
