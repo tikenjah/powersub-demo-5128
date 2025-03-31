@@ -2364,3 +2364,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0535. 📚 docs: write FAQ section
 0506. 🐛 fix: handle 500 error in quiz API
+0003. ✅ test: increase coverage on auth module
