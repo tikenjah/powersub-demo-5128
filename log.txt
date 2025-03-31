@@ -7475,3 +7475,4 @@
 0239. 🎨 style: standardize quote style
 0713. 🐛 fix: handle 500 error in quiz API
 0366. 🔧 refactor: remove redundant code blocks
+0144. ✅ test: increase coverage on auth module
