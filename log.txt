@@ -2375,3 +2375,4 @@
 0574. ✨ feat: enable dark mode toggle
 0772. 🐛 fix: fix null pointer exception on login
 0095. ✅ test: mock database connection in test suite
+0880. 🐛 fix: fix broken CSS in mobile view
