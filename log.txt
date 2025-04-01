@@ -10472,3 +10472,4 @@
 0135. ✅ test: test user registration edge cases
 0370. 🚀 perf: reduce image load time
 0780. 📚 docs: add API usage examples
+0519. 📚 docs: document token refresh logic
