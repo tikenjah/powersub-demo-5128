@@ -2386,3 +2386,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0637. 🎨 style: apply consistent indentation
 0002. 🚀 perf: cache repeated calculations
+0693. 📚 docs: add API usage examples
