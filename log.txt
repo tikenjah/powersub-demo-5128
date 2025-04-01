@@ -2387,3 +2387,4 @@
 0637. 🎨 style: apply consistent indentation
 0002. 🚀 perf: cache repeated calculations
 0693. 📚 docs: add API usage examples
+0706. ✨ feat: support email verification
