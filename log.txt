@@ -8471,3 +8471,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0342. 🚀 perf: cache repeated calculations
 0003. ✅ test: increase coverage on auth module
+0112. ✨ feat: enable dark mode toggle
