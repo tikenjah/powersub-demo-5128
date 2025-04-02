@@ -8474,3 +8474,4 @@
 0112. ✨ feat: enable dark mode toggle
 0773. 📚 docs: document token refresh logic
 0662. ♻️ chore: clean up unused files
+0932. ✅ test: add integration test for /submit endpoint
