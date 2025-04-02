@@ -2402,3 +2402,4 @@
 0773. 📚 docs: document token refresh logic
 0667. ✨ feat: add export to CSV option
 0598. 🔧 refactor: remove redundant code blocks
+0341. 🚀 perf: lazy-load components
