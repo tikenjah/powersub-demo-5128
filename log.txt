@@ -8473,3 +8473,4 @@
 0003. ✅ test: increase coverage on auth module
 0112. ✨ feat: enable dark mode toggle
 0773. 📚 docs: document token refresh logic
+0662. ♻️ chore: clean up unused files
