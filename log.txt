@@ -2401,3 +2401,4 @@
 0803. ✅ test: mock database connection in test suite
 0773. 📚 docs: document token refresh logic
 0667. ✨ feat: add export to CSV option
+0598. 🔧 refactor: remove redundant code blocks
