@@ -6486,3 +6486,4 @@
 0143. ✨ feat: implement quiz timer feature
 0623. 🎨 style: standardize quote style
 0125. ✅ test: add integration test for /submit endpoint
+0109. 🚀 perf: lazy-load components
