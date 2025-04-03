@@ -10475,3 +10475,4 @@
 0519. 📚 docs: document token refresh logic
 0112. ✨ feat: enable dark mode toggle
 0227. ✅ test: test user registration edge cases
+0439. 🐛 fix: correct typo in registration form
