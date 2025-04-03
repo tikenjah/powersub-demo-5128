@@ -6488,3 +6488,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0109. 🚀 perf: lazy-load components
 0974. ✨ feat: add export to CSV option
+0036. 🔧 refactor: clean up auth middleware
