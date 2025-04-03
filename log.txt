@@ -2424,3 +2424,4 @@
 0387. ✨ feat: enable dark mode toggle
 0618. ✨ feat: support email verification
 0990. ♻️ chore: rename env.example
+0322. 🔧 refactor: split large controller into smaller functions
