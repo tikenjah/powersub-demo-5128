@@ -6489,3 +6489,4 @@
 0109. 🚀 perf: lazy-load components
 0974. ✨ feat: add export to CSV option
 0036. 🔧 refactor: clean up auth middleware
+0510. 🎨 style: rename variables for clarity
