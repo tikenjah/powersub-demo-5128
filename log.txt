@@ -9492,3 +9492,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0044. ✅ test: add unit test for quiz service
 0327. 🔧 refactor: split large controller into smaller functions
+0647. 🐛 fix: prevent crash on empty input
