@@ -2423,3 +2423,4 @@
 0563. 📚 docs: clarify environment setup
 0387. ✨ feat: enable dark mode toggle
 0618. ✨ feat: support email verification
+0990. ♻️ chore: rename env.example
