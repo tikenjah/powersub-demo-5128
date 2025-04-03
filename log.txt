@@ -2416,3 +2416,4 @@
 0486. ✨ feat: add export to CSV option
 0611. ✅ test: test user registration edge cases
 0881. 🔧 refactor: split large controller into smaller functions
+0855. 🎨 style: reformat files with black
