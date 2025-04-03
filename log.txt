@@ -2414,3 +2414,4 @@
 0908. ♻️ chore: bump dependencies
 0537. 🔧 refactor: remove redundant code blocks
 0486. ✨ feat: add export to CSV option
+0611. ✅ test: test user registration edge cases
