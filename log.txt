@@ -2422,3 +2422,4 @@
 0286. ✅ test: mock database connection in test suite
 0563. 📚 docs: clarify environment setup
 0387. ✨ feat: enable dark mode toggle
+0618. ✨ feat: support email verification
