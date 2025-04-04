@@ -5471,3 +5471,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0332. 🎨 style: standardize quote style
 0878. 🔧 refactor: split large controller into smaller functions
+0856. 🐛 fix: fix null pointer exception on login
