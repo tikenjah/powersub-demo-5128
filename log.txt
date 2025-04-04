@@ -7487,3 +7487,4 @@
 0885. ♻️ chore: update .gitignore
 0974. ✨ feat: add export to CSV option
 0268. 🐛 fix: prevent crash on empty input
+0582. ✨ feat: add export to CSV option
