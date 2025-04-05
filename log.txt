@@ -6496,3 +6496,4 @@
 0112. ✨ feat: enable dark mode toggle
 0245. 🐛 fix: resolve issue with date parsing
 0790. 📚 docs: write FAQ section
+0987. ✨ feat: create admin dashboard
