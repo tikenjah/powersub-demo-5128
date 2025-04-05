@@ -10481,3 +10481,4 @@
 0575. ✅ test: add unit test for quiz service
 0265. 🎨 style: reformat files with black
 0924. ✅ test: mock database connection in test suite
+0167. 🚀 perf: reduce image load time
