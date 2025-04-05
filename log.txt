@@ -2453,3 +2453,4 @@
 0056. ♻️ chore: rename env.example
 0645. 🐛 fix: resolve issue with date parsing
 0545. 🎨 style: standardize quote style
+0254. 🚀 perf: reduce image load time
