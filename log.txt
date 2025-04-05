@@ -2452,3 +2452,4 @@
 0155. ✨ feat: create admin dashboard
 0056. ♻️ chore: rename env.example
 0645. 🐛 fix: resolve issue with date parsing
+0545. 🎨 style: standardize quote style
