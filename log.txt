@@ -7492,3 +7492,4 @@
 0790. 📚 docs: write FAQ section
 0551. 📚 docs: write FAQ section
 0146. 🎨 style: apply consistent indentation
+0129. 🔧 refactor: organize models into subfolders
