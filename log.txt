@@ -2448,3 +2448,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0633. ✨ feat: add user authentication
 0659. 📚 docs: add API usage examples
+0140. 🐛 fix: handle 500 error in quiz API
