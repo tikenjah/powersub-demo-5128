@@ -10483,3 +10483,4 @@
 0924. ✅ test: mock database connection in test suite
 0167. 🚀 perf: reduce image load time
 0265. 🎨 style: reformat files with black
+0984. ♻️ chore: clean up unused files
