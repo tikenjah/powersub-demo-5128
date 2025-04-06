@@ -8478,3 +8478,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0507. 🔧 refactor: clean up auth middleware
 0759. 🔧 refactor: organize models into subfolders
+0483. 📚 docs: update README with setup steps
