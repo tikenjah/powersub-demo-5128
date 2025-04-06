@@ -7495,3 +7495,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0757. 🔧 refactor: remove redundant code blocks
 0906. 📚 docs: add API usage examples
+0231. 🔧 refactor: clean up auth middleware
