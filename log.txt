@@ -2468,3 +2468,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0030. 🐛 fix: fix null pointer exception on login
 0415. 🐛 fix: handle 500 error in quiz API
+0833. ✨ feat: add user authentication
