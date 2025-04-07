@@ -2479,3 +2479,4 @@
 0325. 🎨 style: rename variables for clarity
 0499. 🎨 style: reformat files with black
 0618. ✨ feat: support email verification
+0997. ✅ test: increase coverage on auth module
