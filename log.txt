@@ -8484,3 +8484,4 @@
 0558. ✨ feat: enable dark mode toggle
 0769. ✨ feat: create admin dashboard
 0270. ♻️ chore: rename env.example
+0562. 🔧 refactor: clean up auth middleware
