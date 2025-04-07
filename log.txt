@@ -5474,3 +5474,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0987. ✨ feat: create admin dashboard
 0721. 🚀 perf: optimize database query for quiz results
+0075. ✅ test: mock database connection in test suite
