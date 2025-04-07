@@ -2480,3 +2480,4 @@
 0499. 🎨 style: reformat files with black
 0618. ✨ feat: support email verification
 0997. ✅ test: increase coverage on auth module
+0698. 🐛 fix: handle 500 error in quiz API
