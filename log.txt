@@ -2475,3 +2475,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0920. 🔧 refactor: organize models into subfolders
 0764. ✨ feat: add user authentication
+0959. 🐛 fix: fix null pointer exception on login
