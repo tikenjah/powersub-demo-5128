@@ -2483,3 +2483,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0472. 🐛 fix: fix null pointer exception on login
 0711. 🐛 fix: fix broken CSS in mobile view
+0317. ✅ test: test user registration edge cases
