@@ -2484,3 +2484,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0711. 🐛 fix: fix broken CSS in mobile view
 0317. ✅ test: test user registration edge cases
+0949. 📚 docs: write FAQ section
