@@ -6499,3 +6499,4 @@
 0987. ✨ feat: create admin dashboard
 0083. 🎨 style: reformat files with black
 0627. 📚 docs: document token refresh logic
+0068. 🐛 fix: fix null pointer exception on login
