@@ -5477,3 +5477,4 @@
 0075. ✅ test: mock database connection in test suite
 0775. 🐛 fix: fix null pointer exception on login
 0030. 🐛 fix: fix null pointer exception on login
+0431. 🎨 style: reformat files with black
