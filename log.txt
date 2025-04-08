@@ -7502,3 +7502,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0555. ✨ feat: create admin dashboard
 0525. ✅ test: mock database connection in test suite
+0056. ♻️ chore: rename env.example
