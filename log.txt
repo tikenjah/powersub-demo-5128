@@ -9501,3 +9501,4 @@
 0085. ✨ feat: support email verification
 0367. 🐛 fix: fix null pointer exception on login
 0205. 📚 docs: update README with setup steps
+0218. 🔧 refactor: clean up auth middleware
