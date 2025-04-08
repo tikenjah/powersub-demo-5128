@@ -6504,3 +6504,4 @@
 0439. 🐛 fix: correct typo in registration form
 0201. 🔧 refactor: clean up auth middleware
 0318. 🔧 refactor: refactor quiz grading logic
+0900. 🐛 fix: handle 500 error in quiz API
