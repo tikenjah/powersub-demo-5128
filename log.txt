@@ -8488,3 +8488,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0793. 📚 docs: clarify environment setup
 0269. ✅ test: test user registration edge cases
+0623. 🎨 style: standardize quote style
