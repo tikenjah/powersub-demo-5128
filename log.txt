@@ -2487,3 +2487,4 @@
 0949. 📚 docs: write FAQ section
 0984. ♻️ chore: clean up unused files
 0314. ✨ feat: implement quiz timer feature
+0053. ✅ test: increase coverage on auth module
