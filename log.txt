@@ -8490,3 +8490,4 @@
 0269. ✅ test: test user registration edge cases
 0623. 🎨 style: standardize quote style
 0078. ♻️ chore: update .gitignore
+0741. 🎨 style: apply consistent indentation
