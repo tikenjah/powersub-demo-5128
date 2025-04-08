@@ -2494,3 +2494,4 @@
 0393. 🚀 perf: lazy-load components
 0927. ♻️ chore: bump dependencies
 0831. 📚 docs: clarify environment setup
+0977. 🔧 refactor: organize models into subfolders
