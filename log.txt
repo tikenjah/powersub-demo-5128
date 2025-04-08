@@ -2493,3 +2493,4 @@
 0606. 📚 docs: improve code comments in utils
 0393. 🚀 perf: lazy-load components
 0927. ♻️ chore: bump dependencies
+0831. 📚 docs: clarify environment setup
