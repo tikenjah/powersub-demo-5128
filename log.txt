@@ -2504,3 +2504,4 @@
 0462. ♻️ chore: update .gitignore
 0328. 🐛 fix: resolve issue with date parsing
 0660. 🐛 fix: correct typo in registration form
+0761. ✅ test: add unit test for quiz service
