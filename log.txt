@@ -2507,3 +2507,4 @@
 0761. ✅ test: add unit test for quiz service
 0979. 🎨 style: standardize quote style
 0045. 🎨 style: apply consistent indentation
+0407. 🚀 perf: cache repeated calculations
