@@ -6508,3 +6508,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0881. 🔧 refactor: split large controller into smaller functions
 0512. 🚀 perf: reduce image load time
+0901. ✨ feat: add user authentication
