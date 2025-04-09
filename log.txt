@@ -2495,3 +2495,4 @@
 0927. ♻️ chore: bump dependencies
 0831. 📚 docs: clarify environment setup
 0977. 🔧 refactor: organize models into subfolders
+0107. 🐛 fix: prevent crash on empty input
