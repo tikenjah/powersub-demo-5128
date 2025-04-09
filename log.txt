@@ -2501,3 +2501,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0220. 🐛 fix: fix null pointer exception on login
 0724. ✅ test: mock database connection in test suite
+0462. ♻️ chore: update .gitignore
