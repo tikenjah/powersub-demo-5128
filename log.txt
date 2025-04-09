@@ -10494,3 +10494,4 @@
 0094. 📚 docs: document token refresh logic
 0113. ✨ feat: add user authentication
 0961. 📚 docs: add API usage examples
+0649. 📚 docs: update README with setup steps
