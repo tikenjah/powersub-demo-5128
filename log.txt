@@ -6510,3 +6510,4 @@
 0512. 🚀 perf: reduce image load time
 0901. ✨ feat: add user authentication
 0051. ✨ feat: enable dark mode toggle
+0506. 🐛 fix: handle 500 error in quiz API
