@@ -2509,3 +2509,4 @@
 0045. 🎨 style: apply consistent indentation
 0407. 🚀 perf: cache repeated calculations
 0235. 🐛 fix: fix null pointer exception on login
+0507. 🔧 refactor: clean up auth middleware
