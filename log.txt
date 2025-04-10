@@ -9508,3 +9508,4 @@
 0862. ♻️ chore: bump dependencies
 0250. 📚 docs: update README with setup steps
 0735. ♻️ chore: add GitHub actions badge
+0681. ✨ feat: create admin dashboard
