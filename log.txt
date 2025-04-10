@@ -8493,3 +8493,4 @@
 0741. 🎨 style: apply consistent indentation
 0338. ♻️ chore: add GitHub actions badge
 0524. ♻️ chore: rename env.example
+0104. 🎨 style: apply consistent indentation
