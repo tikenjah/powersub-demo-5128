@@ -2516,3 +2516,4 @@
 0024. 📚 docs: write FAQ section
 0130. 🔧 refactor: split large controller into smaller functions
 0360. ✨ feat: add export to CSV option
+0583. ✅ test: increase coverage on auth module
