@@ -2518,3 +2518,4 @@
 0360. ✨ feat: add export to CSV option
 0583. ✅ test: increase coverage on auth module
 0036. 🔧 refactor: clean up auth middleware
+0915. 🚀 perf: cache repeated calculations
