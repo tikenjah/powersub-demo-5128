@@ -2527,3 +2527,4 @@
 0667. ✨ feat: add export to CSV option
 0994. 🚀 perf: reduce image load time
 0208. 🔧 refactor: clean up auth middleware
+0555. ✨ feat: create admin dashboard
