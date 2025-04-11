@@ -10498,3 +10498,4 @@
 0005. ✅ test: add unit test for quiz service
 0640. ♻️ chore: bump dependencies
 0838. 🎨 style: standardize quote style
+0188. 🎨 style: apply consistent indentation
