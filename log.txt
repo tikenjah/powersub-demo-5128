@@ -7512,3 +7512,4 @@
 0013. ✅ test: increase coverage on auth module
 0403. ✅ test: mock database connection in test suite
 0089. 🔧 refactor: remove redundant code blocks
+0514. 🐛 fix: fix broken CSS in mobile view
