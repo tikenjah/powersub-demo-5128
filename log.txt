@@ -2526,3 +2526,4 @@
 0444. ✅ test: add unit test for quiz service
 0667. ✨ feat: add export to CSV option
 0994. 🚀 perf: reduce image load time
+0208. 🔧 refactor: clean up auth middleware
