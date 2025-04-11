@@ -2530,3 +2530,4 @@
 0555. ✨ feat: create admin dashboard
 0447. ♻️ chore: bump dependencies
 0890. 🔧 refactor: organize models into subfolders
+0766. 🎨 style: reformat files with black
