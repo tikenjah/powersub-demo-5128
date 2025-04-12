@@ -9511,3 +9511,4 @@
 0681. ✨ feat: create admin dashboard
 0573. ✅ test: add integration test for /submit endpoint
 0397. 🐛 fix: handle 500 error in quiz API
+0723. 🔧 refactor: remove redundant code blocks
