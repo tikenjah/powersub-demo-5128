@@ -2532,3 +2532,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0766. 🎨 style: reformat files with black
 0259. 🚀 perf: lazy-load components
+0937. 🐛 fix: handle 500 error in quiz API
