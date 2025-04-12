@@ -2536,3 +2536,4 @@
 0401. 🚀 perf: reduce image load time
 0800. 🚀 perf: optimize database query for quiz results
 0752. ✅ test: add integration test for /submit endpoint
+0518. ✨ feat: support email verification
