@@ -2540,3 +2540,4 @@
 0387. ✨ feat: enable dark mode toggle
 0968. 🎨 style: standardize quote style
 0511. 🐛 fix: fix broken CSS in mobile view
+0296. 🔧 refactor: organize models into subfolders
