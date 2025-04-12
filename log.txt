@@ -2541,3 +2541,4 @@
 0968. 🎨 style: standardize quote style
 0511. 🐛 fix: fix broken CSS in mobile view
 0296. 🔧 refactor: organize models into subfolders
+0080. ✨ feat: support email verification
