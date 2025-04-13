@@ -5495,3 +5495,4 @@
 0166. 🚀 perf: cache repeated calculations
 0423. ✅ test: mock database connection in test suite
 0789. ✨ feat: create admin dashboard
+0257. 📚 docs: clarify environment setup
