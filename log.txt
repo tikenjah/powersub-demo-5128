@@ -2544,3 +2544,4 @@
 0080. ✨ feat: support email verification
 0644. 🎨 style: apply consistent indentation
 0752. ✅ test: add integration test for /submit endpoint
+0971. 🎨 style: standardize quote style
