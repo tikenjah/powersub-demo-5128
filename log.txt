@@ -2551,3 +2551,4 @@
 0180. ✨ feat: add export to CSV option
 0811. 🎨 style: reformat files with black
 0716. ✨ feat: implement quiz timer feature
+0758. 🚀 perf: optimize database query for quiz results
