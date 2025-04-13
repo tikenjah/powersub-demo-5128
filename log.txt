@@ -2548,3 +2548,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0715. ✨ feat: create admin dashboard
 0228. 🔧 refactor: remove redundant code blocks
+0180. ✨ feat: add export to CSV option
