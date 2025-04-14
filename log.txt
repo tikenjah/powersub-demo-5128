@@ -2557,3 +2557,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0490. ✨ feat: create admin dashboard
 0594. 🎨 style: reformat files with black
+0663. 🚀 perf: reduce image load time
