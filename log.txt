@@ -6524,3 +6524,4 @@
 0292. 📚 docs: clarify environment setup
 0548. 📚 docs: write FAQ section
 0988. 🐛 fix: fix broken CSS in mobile view
+0252. 🎨 style: remove trailing whitespace
