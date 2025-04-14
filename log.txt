@@ -2567,3 +2567,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0561. 📚 docs: write FAQ section
 0717. 🔧 refactor: refactor quiz grading logic
+0751. 🐛 fix: handle 500 error in quiz API
