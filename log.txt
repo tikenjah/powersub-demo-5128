@@ -6522,3 +6522,4 @@
 0149. ✨ feat: add export to CSV option
 0429. ✨ feat: add user authentication
 0292. 📚 docs: clarify environment setup
+0548. 📚 docs: write FAQ section
