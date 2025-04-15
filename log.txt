@@ -5500,3 +5500,4 @@
 0169. 📚 docs: add API usage examples
 0442. 🎨 style: standardize quote style
 0447. ♻️ chore: bump dependencies
+0085. ✨ feat: support email verification
