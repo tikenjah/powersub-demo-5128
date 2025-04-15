@@ -6526,3 +6526,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0252. 🎨 style: remove trailing whitespace
 0301. 🎨 style: apply consistent indentation
+0750. 🎨 style: apply consistent indentation
