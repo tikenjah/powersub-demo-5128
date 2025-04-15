@@ -7524,3 +7524,4 @@
 0308. 🚀 perf: reduce image load time
 0576. ♻️ chore: update .gitignore
 0927. ♻️ chore: bump dependencies
+0338. ♻️ chore: add GitHub actions badge
