@@ -7525,3 +7525,4 @@
 0576. ♻️ chore: update .gitignore
 0927. ♻️ chore: bump dependencies
 0338. ♻️ chore: add GitHub actions badge
+0037. 🐛 fix: correct typo in registration form
