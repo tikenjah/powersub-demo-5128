@@ -2574,3 +2574,4 @@
 0446. 🎨 style: apply consistent indentation
 0896. 🚀 perf: reduce image load time
 0889. 🚀 perf: lazy-load components
+0489. 🔧 refactor: organize models into subfolders
