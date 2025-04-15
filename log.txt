@@ -9524,3 +9524,4 @@
 0021. ✨ feat: support email verification
 0137. 🎨 style: rename variables for clarity
 0399. ✅ test: mock database connection in test suite
+0933. 📚 docs: clarify environment setup
