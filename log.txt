@@ -2578,3 +2578,4 @@
 0773. 📚 docs: document token refresh logic
 0300. ✨ feat: add export to CSV option
 0845. 🚀 perf: cache repeated calculations
+0089. 🔧 refactor: remove redundant code blocks
