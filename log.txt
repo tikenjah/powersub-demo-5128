@@ -9526,3 +9526,4 @@
 0399. ✅ test: mock database connection in test suite
 0933. 📚 docs: clarify environment setup
 0854. ♻️ chore: rename env.example
+0632. 🎨 style: remove trailing whitespace
