@@ -2587,3 +2587,4 @@
 0104. 🎨 style: apply consistent indentation
 0461. ✨ feat: add user authentication
 0648. ♻️ chore: bump dependencies
+0636. ✅ test: increase coverage on auth module
