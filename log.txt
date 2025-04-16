@@ -2585,3 +2585,4 @@
 0956. 📚 docs: clarify environment setup
 0912. 📚 docs: document token refresh logic
 0104. 🎨 style: apply consistent indentation
+0461. ✨ feat: add user authentication
