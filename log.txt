@@ -8513,3 +8513,4 @@
 0221. ✨ feat: add user authentication
 0870. ♻️ chore: clean up unused files
 0453. 🎨 style: standardize quote style
+0698. 🐛 fix: handle 500 error in quiz API
