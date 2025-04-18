@@ -6536,3 +6536,4 @@
 0925. ✨ feat: add export to CSV option
 0135. ✅ test: test user registration edge cases
 0887. 📚 docs: add API usage examples
+0424. ✨ feat: add user authentication
