@@ -10518,3 +10518,4 @@
 0641. 📚 docs: write FAQ section
 0733. 🐛 fix: fix null pointer exception on login
 0105. 🐛 fix: correct typo in registration form
+0365. 🚀 perf: reduce image load time
