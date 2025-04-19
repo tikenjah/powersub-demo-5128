@@ -6537,3 +6537,4 @@
 0135. ✅ test: test user registration edge cases
 0887. 📚 docs: add API usage examples
 0424. ✨ feat: add user authentication
+0782. 📚 docs: improve code comments in utils
