@@ -2635,3 +2635,4 @@
 0419. 🎨 style: remove trailing whitespace
 0088. 📚 docs: add API usage examples
 0572. ✨ feat: add user authentication
+0838. 🎨 style: standardize quote style
