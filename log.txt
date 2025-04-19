@@ -5511,3 +5511,4 @@
 0468. 📚 docs: update README with setup steps
 0997. ✅ test: increase coverage on auth module
 0160. ♻️ chore: bump dependencies
+0981. 🚀 perf: lazy-load components
