@@ -2624,3 +2624,4 @@
 0854. ♻️ chore: rename env.example
 0404. 📚 docs: improve code comments in utils
 0592. 📚 docs: add API usage examples
+0747. 🔧 refactor: clean up auth middleware
