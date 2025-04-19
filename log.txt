@@ -2629,3 +2629,4 @@
 0679. ♻️ chore: bump dependencies
 0150. 🎨 style: remove trailing whitespace
 0438. ♻️ chore: bump dependencies
+0566. 📚 docs: write FAQ section
