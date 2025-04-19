@@ -2628,3 +2628,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0679. ♻️ chore: bump dependencies
 0150. 🎨 style: remove trailing whitespace
+0438. ♻️ chore: bump dependencies
