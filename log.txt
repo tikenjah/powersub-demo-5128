@@ -8518,3 +8518,4 @@
 0987. ✨ feat: create admin dashboard
 0338. ♻️ chore: add GitHub actions badge
 0809. ♻️ chore: rename env.example
+0608. 🔧 refactor: remove redundant code blocks
