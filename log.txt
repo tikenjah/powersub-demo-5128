@@ -10520,3 +10520,4 @@
 0105. 🐛 fix: correct typo in registration form
 0365. 🚀 perf: reduce image load time
 0138. 🎨 style: rename variables for clarity
+0530. 🔧 refactor: refactor quiz grading logic
