@@ -2660,3 +2660,4 @@
 0517. ✅ test: mock database connection in test suite
 0381. ♻️ chore: clean up unused files
 0539. 🔧 refactor: organize models into subfolders
+0291. 📚 docs: write FAQ section
