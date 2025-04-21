@@ -2652,3 +2652,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0407. 🚀 perf: cache repeated calculations
 0156. 🎨 style: rename variables for clarity
+0847. ♻️ chore: clean up unused files
