@@ -2679,3 +2679,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0743. 🎨 style: apply consistent indentation
 0986. 📚 docs: document token refresh logic
+0769. ✨ feat: create admin dashboard
