@@ -6547,3 +6547,4 @@
 0931. 🚀 perf: reduce image load time
 0834. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
+0276. ✅ test: add integration test for /submit endpoint
