@@ -7541,3 +7541,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0814. 🔧 refactor: remove redundant code blocks
 0920. 🔧 refactor: organize models into subfolders
+0642. 🚀 perf: optimize database query for quiz results
