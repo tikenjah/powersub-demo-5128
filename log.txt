@@ -2688,3 +2688,4 @@
 0719. 🎨 style: apply consistent indentation
 0412. ✅ test: increase coverage on auth module
 0665. ♻️ chore: update .gitignore
+0585. 🚀 perf: lazy-load components
