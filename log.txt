@@ -9545,3 +9545,4 @@
 0334. 🚀 perf: cache repeated calculations
 0091. ✨ feat: add user authentication
 0287. 📚 docs: write FAQ section
+0231. 🔧 refactor: clean up auth middleware
