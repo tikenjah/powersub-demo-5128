@@ -2680,3 +2680,4 @@
 0743. 🎨 style: apply consistent indentation
 0986. 📚 docs: document token refresh logic
 0769. ✨ feat: create admin dashboard
+0900. 🐛 fix: handle 500 error in quiz API
