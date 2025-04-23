@@ -2689,3 +2689,4 @@
 0412. ✅ test: increase coverage on auth module
 0665. ♻️ chore: update .gitignore
 0585. 🚀 perf: lazy-load components
+0390. 🎨 style: standardize quote style
