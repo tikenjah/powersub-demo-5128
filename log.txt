@@ -2704,3 +2704,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0737. 🐛 fix: handle 500 error in quiz API
 0479. 🐛 fix: fix null pointer exception on login
+0058. ♻️ chore: add GitHub actions badge
