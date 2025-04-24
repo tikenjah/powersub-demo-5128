@@ -9550,3 +9550,4 @@
 0555. ✨ feat: create admin dashboard
 0012. 🚀 perf: cache repeated calculations
 0779. 🔧 refactor: organize models into subfolders
+0401. 🚀 perf: reduce image load time
