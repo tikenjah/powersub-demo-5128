@@ -2702,3 +2702,4 @@
 0991. ♻️ chore: clean up unused files
 0899. 🚀 perf: cache repeated calculations
 0408. ♻️ chore: add GitHub actions badge
+0737. 🐛 fix: handle 500 error in quiz API
