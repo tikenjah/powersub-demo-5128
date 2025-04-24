@@ -2693,3 +2693,4 @@
 0923. ✨ feat: support email verification
 0503. ♻️ chore: rename env.example
 0816. 🔧 refactor: organize models into subfolders
+0629. 🔧 refactor: organize models into subfolders
