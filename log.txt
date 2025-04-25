@@ -6556,3 +6556,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0854. ♻️ chore: rename env.example
 0963. 🚀 perf: reduce image load time
+0438. ♻️ chore: bump dependencies
