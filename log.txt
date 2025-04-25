@@ -8534,3 +8534,4 @@
 0891. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
 0492. 🎨 style: remove trailing whitespace
+0850. ♻️ chore: rename env.example
