@@ -7552,3 +7552,4 @@
 0177. 📚 docs: add API usage examples
 0862. ♻️ chore: bump dependencies
 0387. ✨ feat: enable dark mode toggle
+0430. 🐛 fix: fix null pointer exception on login
