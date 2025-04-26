@@ -7554,3 +7554,4 @@
 0387. ✨ feat: enable dark mode toggle
 0430. 🐛 fix: fix null pointer exception on login
 0448. 🐛 fix: correct typo in registration form
+0893. 🐛 fix: handle 500 error in quiz API
