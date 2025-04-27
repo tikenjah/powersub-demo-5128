@@ -2727,3 +2727,4 @@
 0930. 🎨 style: apply consistent indentation
 0928. 🎨 style: apply consistent indentation
 0122. ✨ feat: support email verification
+0680. ♻️ chore: add GitHub actions badge
