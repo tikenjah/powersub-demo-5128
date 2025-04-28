@@ -2737,3 +2737,4 @@
 0790. 📚 docs: write FAQ section
 0741. 🎨 style: apply consistent indentation
 0809. ♻️ chore: rename env.example
+0149. ✨ feat: add export to CSV option
