@@ -2742,3 +2742,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0009. ✨ feat: enable dark mode toggle
 0058. ♻️ chore: add GitHub actions badge
+0182. 🔧 refactor: remove redundant code blocks
