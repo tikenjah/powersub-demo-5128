@@ -2739,3 +2739,4 @@
 0809. ♻️ chore: rename env.example
 0149. ✨ feat: add export to CSV option
 0830. 🎨 style: apply consistent indentation
+0063. 🐛 fix: handle 500 error in quiz API
