@@ -7558,3 +7558,4 @@
 0833. ✨ feat: add user authentication
 0690. 🚀 perf: lazy-load components
 0242. ♻️ chore: clean up unused files
+0473. 📚 docs: write FAQ section
