@@ -9564,3 +9564,4 @@
 0528. ♻️ chore: clean up unused files
 0474. ✅ test: add unit test for quiz service
 0405. ✅ test: mock database connection in test suite
+0618. ✨ feat: support email verification
