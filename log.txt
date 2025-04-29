@@ -2751,3 +2751,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0990. ♻️ chore: rename env.example
 0765. ♻️ chore: clean up unused files
+0083. 🎨 style: reformat files with black
