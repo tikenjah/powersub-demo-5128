@@ -10533,3 +10533,4 @@
 0189. 📚 docs: clarify environment setup
 0641. 📚 docs: write FAQ section
 0332. 🎨 style: standardize quote style
+0869. ♻️ chore: bump dependencies
