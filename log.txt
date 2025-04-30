@@ -2752,3 +2752,4 @@
 0990. ♻️ chore: rename env.example
 0765. ♻️ chore: clean up unused files
 0083. 🎨 style: reformat files with black
+0895. ✨ feat: support email verification
