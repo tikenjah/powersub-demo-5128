@@ -2764,3 +2764,4 @@
 0922. 📚 docs: write FAQ section
 0987. ✨ feat: create admin dashboard
 0795. 📚 docs: update README with setup steps
+0118. 🚀 perf: reduce image load time
