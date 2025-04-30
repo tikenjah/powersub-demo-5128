@@ -10534,3 +10534,4 @@
 0641. 📚 docs: write FAQ section
 0332. 🎨 style: standardize quote style
 0869. ♻️ chore: bump dependencies
+0391. 🐛 fix: fix null pointer exception on login
