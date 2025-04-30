@@ -2760,3 +2760,4 @@
 0884. 📚 docs: clarify environment setup
 0310. 🔧 refactor: refactor quiz grading logic
 0975. 🎨 style: apply consistent indentation
+0469. 🚀 perf: lazy-load components
