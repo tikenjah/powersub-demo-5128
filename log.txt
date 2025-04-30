@@ -2754,3 +2754,4 @@
 0083. 🎨 style: reformat files with black
 0895. ✨ feat: support email verification
 0216. 🎨 style: rename variables for clarity
+0231. 🔧 refactor: clean up auth middleware
