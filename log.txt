@@ -10540,3 +10540,4 @@
 0165. 🎨 style: remove trailing whitespace
 0858. ♻️ chore: clean up unused files
 0430. 🐛 fix: fix null pointer exception on login
+0232. 🎨 style: apply consistent indentation
