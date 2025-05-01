@@ -2768,3 +2768,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0672. 🐛 fix: fix broken CSS in mobile view
 0033. 🎨 style: apply consistent indentation
+0006. 🐛 fix: prevent crash on empty input
