@@ -2769,3 +2769,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0033. 🎨 style: apply consistent indentation
 0006. 🐛 fix: prevent crash on empty input
+0548. 📚 docs: write FAQ section
