@@ -5546,3 +5546,4 @@
 0167. 🚀 perf: reduce image load time
 0943. 🎨 style: rename variables for clarity
 0016. 🎨 style: apply consistent indentation
+0708. ✅ test: add integration test for /submit endpoint
