@@ -2774,3 +2774,4 @@
 0834. ✅ test: increase coverage on auth module
 0191. 🔧 refactor: refactor quiz grading logic
 0557. 🔧 refactor: clean up auth middleware
+0013. ✅ test: increase coverage on auth module
