@@ -2782,3 +2782,4 @@
 0502. 📚 docs: update README with setup steps
 0543. ✨ feat: support email verification
 0651. ✨ feat: enable dark mode toggle
+0177. 📚 docs: add API usage examples
