@@ -2791,3 +2791,4 @@
 0541. 🐛 fix: correct typo in registration form
 0554. 📚 docs: improve code comments in utils
 0449. ✅ test: add unit test for quiz service
+0339. 📚 docs: update README with setup steps
