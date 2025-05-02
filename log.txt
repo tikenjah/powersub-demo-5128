@@ -8543,3 +8543,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0477. 🐛 fix: fix broken CSS in mobile view
 0588. 🔧 refactor: organize models into subfolders
+0701. 🔧 refactor: clean up auth middleware
