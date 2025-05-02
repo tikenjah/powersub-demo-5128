@@ -2784,3 +2784,4 @@
 0651. ✨ feat: enable dark mode toggle
 0177. 📚 docs: add API usage examples
 0104. 🎨 style: apply consistent indentation
+0838. 🎨 style: standardize quote style
