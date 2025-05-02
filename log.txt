@@ -7565,3 +7565,4 @@
 0870. ♻️ chore: clean up unused files
 0127. 🐛 fix: fix null pointer exception on login
 0060. ♻️ chore: clean up unused files
+0262. 🎨 style: remove trailing whitespace
