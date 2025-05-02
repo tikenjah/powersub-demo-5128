@@ -2777,3 +2777,4 @@
 0013. ✅ test: increase coverage on auth module
 0732. ♻️ chore: add GitHub actions badge
 0785. ✨ feat: enable dark mode toggle
+0859. ✨ feat: create admin dashboard
