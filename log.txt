@@ -2813,3 +2813,4 @@
 0439. 🐛 fix: correct typo in registration form
 0581. ✅ test: add integration test for /submit endpoint
 0297. 🎨 style: remove trailing whitespace
+0625. 🐛 fix: handle 500 error in quiz API
