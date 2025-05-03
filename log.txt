@@ -2809,3 +2809,4 @@
 0306. 🎨 style: apply consistent indentation
 0061. ✨ feat: create admin dashboard
 0185. 📚 docs: write FAQ section
+0896. 🚀 perf: reduce image load time
