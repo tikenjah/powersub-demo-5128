@@ -8546,3 +8546,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0019. ✨ feat: enable dark mode toggle
 0822. 🔧 refactor: remove redundant code blocks
+0567. 📚 docs: add API usage examples
