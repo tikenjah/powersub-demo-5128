@@ -10551,3 +10551,4 @@
 0090. ✅ test: increase coverage on auth module
 0310. 🔧 refactor: refactor quiz grading logic
 0092. 🚀 perf: reduce image load time
+0362. 📚 docs: add API usage examples
