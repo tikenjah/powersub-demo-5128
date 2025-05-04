@@ -10550,3 +10550,4 @@
 0861. ♻️ chore: clean up unused files
 0090. ✅ test: increase coverage on auth module
 0310. 🔧 refactor: refactor quiz grading logic
+0092. 🚀 perf: reduce image load time
