@@ -2821,3 +2821,4 @@
 0615. 🐛 fix: correct typo in registration form
 0957. 🐛 fix: fix null pointer exception on login
 0258. 🐛 fix: prevent crash on empty input
+0818. 🔧 refactor: remove redundant code blocks
