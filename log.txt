@@ -2818,3 +2818,4 @@
 0404. 📚 docs: improve code comments in utils
 0947. 📚 docs: write FAQ section
 0346. ✅ test: mock database connection in test suite
+0615. 🐛 fix: correct typo in registration form
