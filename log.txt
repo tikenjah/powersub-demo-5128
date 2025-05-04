@@ -2819,3 +2819,4 @@
 0947. 📚 docs: write FAQ section
 0346. ✅ test: mock database connection in test suite
 0615. 🐛 fix: correct typo in registration form
+0957. 🐛 fix: fix null pointer exception on login
