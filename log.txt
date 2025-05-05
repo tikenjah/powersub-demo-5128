@@ -8548,3 +8548,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0567. 📚 docs: add API usage examples
 0666. 🐛 fix: fix broken CSS in mobile view
+0363. 📚 docs: clarify environment setup
