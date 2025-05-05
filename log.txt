@@ -2836,3 +2836,4 @@
 0611. ✅ test: test user registration edge cases
 0134. ✨ feat: implement quiz timer feature
 0167. 🚀 perf: reduce image load time
+0569. 📚 docs: document token refresh logic
