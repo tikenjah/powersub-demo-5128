@@ -9578,3 +9578,4 @@
 0311. 🎨 style: apply consistent indentation
 0828. ♻️ chore: add GitHub actions badge
 0267. 📚 docs: improve code comments in utils
+0566. 📚 docs: write FAQ section
