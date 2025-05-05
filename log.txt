@@ -2838,3 +2838,4 @@
 0167. 🚀 perf: reduce image load time
 0569. 📚 docs: document token refresh logic
 0720. ✨ feat: add export to CSV option
+0428. 🐛 fix: fix null pointer exception on login
