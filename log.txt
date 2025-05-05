@@ -2833,3 +2833,4 @@
 0198. 📚 docs: clarify environment setup
 0405. ✅ test: mock database connection in test suite
 0517. ✅ test: mock database connection in test suite
+0611. ✅ test: test user registration edge cases
