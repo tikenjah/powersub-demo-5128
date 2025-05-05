@@ -8549,3 +8549,4 @@
 0567. 📚 docs: add API usage examples
 0666. 🐛 fix: fix broken CSS in mobile view
 0363. 📚 docs: clarify environment setup
+0583. ✅ test: increase coverage on auth module
