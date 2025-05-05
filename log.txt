@@ -6586,3 +6586,4 @@
 0765. ♻️ chore: clean up unused files
 0872. 🎨 style: rename variables for clarity
 0575. ✅ test: add unit test for quiz service
+0498. ✅ test: mock database connection in test suite
