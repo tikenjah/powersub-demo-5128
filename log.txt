@@ -9580,3 +9580,4 @@
 0267. 📚 docs: improve code comments in utils
 0566. 📚 docs: write FAQ section
 0469. 🚀 perf: lazy-load components
+0710. 🐛 fix: fix broken CSS in mobile view
