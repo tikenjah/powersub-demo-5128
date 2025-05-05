@@ -9581,3 +9581,4 @@
 0566. 📚 docs: write FAQ section
 0469. 🚀 perf: lazy-load components
 0710. 🐛 fix: fix broken CSS in mobile view
+0320. 📚 docs: update README with setup steps
