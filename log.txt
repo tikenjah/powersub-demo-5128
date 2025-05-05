@@ -2830,3 +2830,4 @@
 0597. 🚀 perf: cache repeated calculations
 0697. ♻️ chore: bump dependencies
 0588. 🔧 refactor: organize models into subfolders
+0198. 📚 docs: clarify environment setup
