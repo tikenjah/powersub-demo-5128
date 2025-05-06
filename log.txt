@@ -10558,3 +10558,4 @@
 0085. ✨ feat: support email verification
 0972. 🔧 refactor: refactor quiz grading logic
 0035. ✅ test: increase coverage on auth module
+0116. ✨ feat: support email verification
