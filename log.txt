@@ -7580,3 +7580,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0644. 🎨 style: apply consistent indentation
 0534. 🔧 refactor: split large controller into smaller functions
+0936. 🔧 refactor: organize models into subfolders
