@@ -8551,3 +8551,4 @@
 0363. 📚 docs: clarify environment setup
 0583. ✅ test: increase coverage on auth module
 0844. 📚 docs: update README with setup steps
+0555. ✨ feat: create admin dashboard
