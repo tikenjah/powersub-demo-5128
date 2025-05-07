@@ -2860,3 +2860,4 @@
 0594. 🎨 style: reformat files with black
 0647. 🐛 fix: prevent crash on empty input
 0384. 📚 docs: clarify environment setup
+0854. ♻️ chore: rename env.example
