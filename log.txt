@@ -2857,3 +2857,4 @@
 0381. ♻️ chore: clean up unused files
 0550. 🔧 refactor: split large controller into smaller functions
 0563. 📚 docs: clarify environment setup
+0594. 🎨 style: reformat files with black
