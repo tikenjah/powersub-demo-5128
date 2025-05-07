@@ -2858,3 +2858,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0563. 📚 docs: clarify environment setup
 0594. 🎨 style: reformat files with black
+0647. 🐛 fix: prevent crash on empty input
