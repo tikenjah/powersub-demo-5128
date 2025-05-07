@@ -5555,3 +5555,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0202. 🔧 refactor: refactor quiz grading logic
 0502. 📚 docs: update README with setup steps
+0280. ✅ test: add integration test for /submit endpoint
