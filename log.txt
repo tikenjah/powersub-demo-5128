@@ -2863,3 +2863,4 @@
 0854. ♻️ chore: rename env.example
 0960. ✅ test: increase coverage on auth module
 0555. ✨ feat: create admin dashboard
+0843. 📚 docs: document token refresh logic
