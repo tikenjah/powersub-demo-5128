@@ -2868,3 +2868,4 @@
 0521. 🎨 style: standardize quote style
 0136. 🚀 perf: lazy-load components
 0102. ✨ feat: support email verification
+0384. 📚 docs: clarify environment setup
