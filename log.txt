@@ -2867,3 +2867,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0521. 🎨 style: standardize quote style
 0136. 🚀 perf: lazy-load components
+0102. ✨ feat: support email verification
