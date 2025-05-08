@@ -2869,3 +2869,4 @@
 0136. 🚀 perf: lazy-load components
 0102. ✨ feat: support email verification
 0384. 📚 docs: clarify environment setup
+0377. ✨ feat: add user authentication
