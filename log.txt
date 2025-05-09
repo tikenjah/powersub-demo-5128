@@ -2885,3 +2885,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0670. ✨ feat: add export to CSV option
 0688. 🚀 perf: reduce image load time
+0401. 🚀 perf: reduce image load time
