@@ -2884,3 +2884,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0472. 🐛 fix: fix null pointer exception on login
 0670. ✨ feat: add export to CSV option
+0688. 🚀 perf: reduce image load time
