@@ -8561,3 +8561,4 @@
 0947. 📚 docs: write FAQ section
 0694. 🎨 style: rename variables for clarity
 0408. ♻️ chore: add GitHub actions badge
+0056. ♻️ chore: rename env.example
