@@ -10570,3 +10570,4 @@
 0706. ✨ feat: support email verification
 0116. ✨ feat: support email verification
 0696. 🔧 refactor: clean up auth middleware
+0754. 🐛 fix: handle 500 error in quiz API
