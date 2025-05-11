@@ -6601,3 +6601,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0629. 🔧 refactor: organize models into subfolders
 0134. ✨ feat: implement quiz timer feature
+0572. ✨ feat: add user authentication
