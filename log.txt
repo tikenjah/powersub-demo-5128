@@ -8565,3 +8565,4 @@
 0295. 🎨 style: remove trailing whitespace
 0706. ✨ feat: support email verification
 0945. ♻️ chore: add GitHub actions badge
+0702. ✨ feat: add user authentication
