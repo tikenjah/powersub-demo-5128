@@ -2923,3 +2923,4 @@
 0826. 📚 docs: clarify environment setup
 0804. ♻️ chore: add GitHub actions badge
 0187. ✨ feat: support email verification
+0378. 🐛 fix: prevent crash on empty input
