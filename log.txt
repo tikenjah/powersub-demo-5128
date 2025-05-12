@@ -2938,3 +2938,4 @@
 0583. ✅ test: increase coverage on auth module
 0899. 🚀 perf: cache repeated calculations
 0890. 🔧 refactor: organize models into subfolders
+0503. ♻️ chore: rename env.example
