@@ -2935,3 +2935,4 @@
 0070. ✨ feat: implement quiz timer feature
 0012. 🚀 perf: cache repeated calculations
 0770. ♻️ chore: rename env.example
+0583. ✅ test: increase coverage on auth module
