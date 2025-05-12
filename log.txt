@@ -2940,3 +2940,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0503. ♻️ chore: rename env.example
 0996. ✅ test: test user registration edge cases
+0447. ♻️ chore: bump dependencies
