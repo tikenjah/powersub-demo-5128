@@ -9593,3 +9593,4 @@
 0369. 🎨 style: standardize quote style
 0798. 🚀 perf: reduce image load time
 0974. ✨ feat: add export to CSV option
+0233. 🚀 perf: lazy-load components
