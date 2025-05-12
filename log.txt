@@ -2941,3 +2941,4 @@
 0503. ♻️ chore: rename env.example
 0996. ✅ test: test user registration edge cases
 0447. ♻️ chore: bump dependencies
+0892. ✅ test: add unit test for quiz service
