@@ -9595,3 +9595,4 @@
 0974. ✨ feat: add export to CSV option
 0233. 🚀 perf: lazy-load components
 0644. 🎨 style: apply consistent indentation
+0335. ♻️ chore: update .gitignore
