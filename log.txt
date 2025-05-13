@@ -9599,3 +9599,4 @@
 0726. ✨ feat: enable dark mode toggle
 0757. 🔧 refactor: remove redundant code blocks
 0819. 🚀 perf: reduce image load time
+0649. 📚 docs: update README with setup steps
