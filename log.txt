@@ -2954,3 +2954,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0572. ✨ feat: add user authentication
 0545. 🎨 style: standardize quote style
+0726. ✨ feat: enable dark mode toggle
