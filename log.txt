@@ -2956,3 +2956,4 @@
 0545. 🎨 style: standardize quote style
 0726. ✨ feat: enable dark mode toggle
 0195. 📚 docs: clarify environment setup
+0880. 🐛 fix: fix broken CSS in mobile view
