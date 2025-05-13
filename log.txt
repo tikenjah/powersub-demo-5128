@@ -2952,3 +2952,4 @@
 0604. 📚 docs: add API usage examples
 0195. 📚 docs: clarify environment setup
 0900. 🐛 fix: handle 500 error in quiz API
+0572. ✨ feat: add user authentication
