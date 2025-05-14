@@ -2957,3 +2957,4 @@
 0726. ✨ feat: enable dark mode toggle
 0195. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
+0500. ✅ test: add integration test for /submit endpoint
