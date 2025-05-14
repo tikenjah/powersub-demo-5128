@@ -2969,3 +2969,4 @@
 0157. ✅ test: mock database connection in test suite
 0147. ♻️ chore: bump dependencies
 0460. 📚 docs: write FAQ section
+0206. 🐛 fix: handle 500 error in quiz API
