@@ -2958,3 +2958,4 @@
 0195. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
 0500. ✅ test: add integration test for /submit endpoint
+0839. 🎨 style: apply consistent indentation
