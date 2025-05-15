@@ -10580,3 +10580,4 @@
 0454. ♻️ chore: bump dependencies
 0657. 🎨 style: standardize quote style
 0922. 📚 docs: write FAQ section
+0165. 🎨 style: remove trailing whitespace
