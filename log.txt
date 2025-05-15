@@ -5577,3 +5577,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0795. 📚 docs: update README with setup steps
 0992. ♻️ chore: clean up unused files
+0589. 🐛 fix: fix broken CSS in mobile view
