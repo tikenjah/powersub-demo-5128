@@ -7596,3 +7596,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0274. 🔧 refactor: refactor quiz grading logic
 0388. 🎨 style: reformat files with black
+0066. 🔧 refactor: clean up auth middleware
