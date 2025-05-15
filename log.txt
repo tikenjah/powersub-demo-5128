@@ -2978,3 +2978,4 @@
 0060. ♻️ chore: clean up unused files
 0110. 🐛 fix: prevent crash on empty input
 0953. 🎨 style: remove trailing whitespace
+0257. 📚 docs: clarify environment setup
