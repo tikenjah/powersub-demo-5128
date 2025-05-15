@@ -2979,3 +2979,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0953. 🎨 style: remove trailing whitespace
 0257. 📚 docs: clarify environment setup
+0219. ✅ test: increase coverage on auth module
