@@ -6610,3 +6610,4 @@
 0132. ✅ test: add unit test for quiz service
 0027. 📚 docs: clarify environment setup
 0491. 🚀 perf: lazy-load components
+0747. 🔧 refactor: clean up auth middleware
