@@ -8588,3 +8588,4 @@
 0349. ✅ test: increase coverage on auth module
 0712. 🎨 style: apply consistent indentation
 0105. 🐛 fix: correct typo in registration form
+0970. ♻️ chore: update .gitignore
