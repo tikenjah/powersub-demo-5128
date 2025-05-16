@@ -2986,3 +2986,4 @@
 0354. 📚 docs: add API usage examples
 0748. 🚀 perf: optimize database query for quiz results
 0654. ✨ feat: create admin dashboard
+0188. 🎨 style: apply consistent indentation
