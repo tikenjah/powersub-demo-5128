@@ -8585,3 +8585,4 @@
 0686. 🎨 style: standardize quote style
 0283. ♻️ chore: add GitHub actions badge
 0005. ✅ test: add unit test for quiz service
+0349. ✅ test: increase coverage on auth module
