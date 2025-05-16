@@ -5580,3 +5580,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0196. ♻️ chore: bump dependencies
 0989. 📚 docs: write FAQ section
+0189. 📚 docs: clarify environment setup
