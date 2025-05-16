@@ -8583,3 +8583,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0598. 🔧 refactor: remove redundant code blocks
 0686. 🎨 style: standardize quote style
+0283. ♻️ chore: add GitHub actions badge
