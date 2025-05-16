@@ -8586,3 +8586,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0005. ✅ test: add unit test for quiz service
 0349. ✅ test: increase coverage on auth module
+0712. 🎨 style: apply consistent indentation
