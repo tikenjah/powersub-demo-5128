@@ -9605,3 +9605,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0405. ✅ test: mock database connection in test suite
 0060. ♻️ chore: clean up unused files
+0844. 📚 docs: update README with setup steps
