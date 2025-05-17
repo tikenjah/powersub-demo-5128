@@ -10597,3 +10597,4 @@
 0482. ✨ feat: add export to CSV option
 0224. 🐛 fix: fix broken CSS in mobile view
 0757. 🔧 refactor: remove redundant code blocks
+0959. 🐛 fix: fix null pointer exception on login
