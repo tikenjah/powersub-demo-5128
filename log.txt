@@ -8592,3 +8592,4 @@
 0517. ✅ test: mock database connection in test suite
 0297. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
+0735. ♻️ chore: add GitHub actions badge
