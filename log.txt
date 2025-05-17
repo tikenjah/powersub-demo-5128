@@ -3003,3 +3003,4 @@
 0554. 📚 docs: improve code comments in utils
 0493. ✨ feat: add user authentication
 0400. 🐛 fix: fix null pointer exception on login
+0169. 📚 docs: add API usage examples
