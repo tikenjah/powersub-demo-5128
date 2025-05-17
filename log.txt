@@ -6615,3 +6615,4 @@
 0934. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
 0786. ✨ feat: enable dark mode toggle
+0462. ♻️ chore: update .gitignore
