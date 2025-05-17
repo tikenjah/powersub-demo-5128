@@ -8593,3 +8593,4 @@
 0297. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
 0735. ♻️ chore: add GitHub actions badge
+0062. ♻️ chore: update .gitignore
