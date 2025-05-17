@@ -10596,3 +10596,4 @@
 0558. ✨ feat: enable dark mode toggle
 0482. ✨ feat: add export to CSV option
 0224. 🐛 fix: fix broken CSS in mobile view
+0757. 🔧 refactor: remove redundant code blocks
