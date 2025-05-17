@@ -3004,3 +3004,4 @@
 0493. ✨ feat: add user authentication
 0400. 🐛 fix: fix null pointer exception on login
 0169. 📚 docs: add API usage examples
+0773. 📚 docs: document token refresh logic
