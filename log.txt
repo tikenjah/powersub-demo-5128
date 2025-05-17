@@ -3008,3 +3008,4 @@
 0924. ✅ test: mock database connection in test suite
 0480. ♻️ chore: add GitHub actions badge
 0097. 🐛 fix: handle 500 error in quiz API
+0666. 🐛 fix: fix broken CSS in mobile view
