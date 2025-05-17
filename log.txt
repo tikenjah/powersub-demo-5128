@@ -6614,3 +6614,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0934. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
+0786. ✨ feat: enable dark mode toggle
