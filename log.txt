@@ -3034,3 +3034,4 @@
 0870. ♻️ chore: clean up unused files
 0111. 📚 docs: update README with setup steps
 0145. 📚 docs: improve code comments in utils
+0781. 🚀 perf: reduce image load time
