@@ -5582,3 +5582,4 @@
 0989. 📚 docs: write FAQ section
 0189. 📚 docs: clarify environment setup
 0012. 🚀 perf: cache repeated calculations
+0880. 🐛 fix: fix broken CSS in mobile view
