@@ -3027,3 +3027,4 @@
 0992. ♻️ chore: clean up unused files
 0666. 🐛 fix: fix broken CSS in mobile view
 0610. 🚀 perf: lazy-load components
+0476. 🚀 perf: reduce image load time
