@@ -6616,3 +6616,4 @@
 0485. 📚 docs: update README with setup steps
 0786. ✨ feat: enable dark mode toggle
 0462. ♻️ chore: update .gitignore
+0246. ✅ test: add integration test for /submit endpoint
