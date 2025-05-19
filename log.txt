@@ -3044,3 +3044,4 @@
 0616. 🚀 perf: lazy-load components
 0320. 📚 docs: update README with setup steps
 0570. 🎨 style: apply consistent indentation
+0934. ✨ feat: support email verification
