@@ -3040,3 +3040,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0556. ✨ feat: support email verification
 0778. 📚 docs: write FAQ section
+0264. 🚀 perf: optimize database query for quiz results
