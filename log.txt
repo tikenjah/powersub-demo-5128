@@ -3047,3 +3047,4 @@
 0934. ✨ feat: support email verification
 0329. 📚 docs: update README with setup steps
 0949. 📚 docs: write FAQ section
+0758. 🚀 perf: optimize database query for quiz results
