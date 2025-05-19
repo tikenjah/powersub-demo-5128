@@ -3046,3 +3046,4 @@
 0570. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
 0329. 📚 docs: update README with setup steps
+0949. 📚 docs: write FAQ section
