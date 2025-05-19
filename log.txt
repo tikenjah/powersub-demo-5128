@@ -10606,3 +10606,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0594. 🎨 style: reformat files with black
 0260. ✨ feat: create admin dashboard
+0027. 📚 docs: clarify environment setup
