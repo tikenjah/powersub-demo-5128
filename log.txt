@@ -10608,3 +10608,4 @@
 0260. ✨ feat: create admin dashboard
 0027. 📚 docs: clarify environment setup
 0376. 🎨 style: apply consistent indentation
+0121. ✨ feat: support email verification
