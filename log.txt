@@ -10611,3 +10611,4 @@
 0121. ✨ feat: support email verification
 0643. 🎨 style: apply consistent indentation
 0832. 🔧 refactor: remove redundant code blocks
+0100. ♻️ chore: update .gitignore
