@@ -3059,3 +3059,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0456. 🚀 perf: optimize database query for quiz results
 0072. 🚀 perf: optimize database query for quiz results
+0661. ✅ test: add integration test for /submit endpoint
