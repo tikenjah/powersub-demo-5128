@@ -3051,3 +3051,4 @@
 0262. 🎨 style: remove trailing whitespace
 0185. 📚 docs: write FAQ section
 0502. 📚 docs: update README with setup steps
+0114. ♻️ chore: update .gitignore
