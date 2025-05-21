@@ -10614,3 +10614,4 @@
 0100. ♻️ chore: update .gitignore
 0450. 🐛 fix: fix broken CSS in mobile view
 0560. 🎨 style: rename variables for clarity
+0248. 🐛 fix: handle 500 error in quiz API
