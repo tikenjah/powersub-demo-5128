@@ -5589,3 +5589,4 @@
 0906. 📚 docs: add API usage examples
 0930. 🎨 style: apply consistent indentation
 0649. 📚 docs: update README with setup steps
+0269. ✅ test: test user registration edge cases
