@@ -5588,3 +5588,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0906. 📚 docs: add API usage examples
 0930. 🎨 style: apply consistent indentation
+0649. 📚 docs: update README with setup steps
