@@ -8603,3 +8603,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0659. 📚 docs: add API usage examples
 0175. 📚 docs: add API usage examples
+0186. ✅ test: test user registration edge cases
