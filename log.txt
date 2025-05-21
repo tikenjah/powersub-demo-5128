@@ -6620,3 +6620,4 @@
 0083. 🎨 style: reformat files with black
 0576. ♻️ chore: update .gitignore
 0189. 📚 docs: clarify environment setup
+0659. 📚 docs: add API usage examples
