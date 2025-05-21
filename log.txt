@@ -3062,3 +3062,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0513. ♻️ chore: bump dependencies
 0875. ✅ test: increase coverage on auth module
+0567. 📚 docs: add API usage examples
