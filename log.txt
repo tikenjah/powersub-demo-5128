@@ -3081,3 +3081,4 @@
 0234. ♻️ chore: rename env.example
 0802. 🔧 refactor: remove redundant code blocks
 0038. 🎨 style: rename variables for clarity
+0646. ✅ test: test user registration edge cases
