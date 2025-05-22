@@ -5593,3 +5593,4 @@
 0139. 📚 docs: document token refresh logic
 0758. 🚀 perf: optimize database query for quiz results
 0635. 🎨 style: apply consistent indentation
+0754. 🐛 fix: handle 500 error in quiz API
