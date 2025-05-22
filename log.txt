@@ -10617,3 +10617,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0936. 🔧 refactor: organize models into subfolders
 0702. ✨ feat: add user authentication
+0790. 📚 docs: write FAQ section
