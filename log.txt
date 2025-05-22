@@ -5591,3 +5591,4 @@
 0649. 📚 docs: update README with setup steps
 0269. ✅ test: test user registration edge cases
 0139. 📚 docs: document token refresh logic
+0758. 🚀 perf: optimize database query for quiz results
