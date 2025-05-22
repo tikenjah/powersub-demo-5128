@@ -8608,3 +8608,4 @@
 0861. ♻️ chore: clean up unused files
 0800. 🚀 perf: optimize database query for quiz results
 0496. ✅ test: add integration test for /submit endpoint
+0286. ✅ test: mock database connection in test suite
