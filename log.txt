@@ -7617,3 +7617,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0731. 🎨 style: standardize quote style
 0363. 📚 docs: clarify environment setup
+0457. 🐛 fix: handle 500 error in quiz API
