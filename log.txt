@@ -7618,3 +7618,4 @@
 0731. 🎨 style: standardize quote style
 0363. 📚 docs: clarify environment setup
 0457. 🐛 fix: handle 500 error in quiz API
+0772. 🐛 fix: fix null pointer exception on login
