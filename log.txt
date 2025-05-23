@@ -6626,3 +6626,4 @@
 0011. ✅ test: add unit test for quiz service
 0884. 📚 docs: clarify environment setup
 0275. 🎨 style: standardize quote style
+0557. 🔧 refactor: clean up auth middleware
