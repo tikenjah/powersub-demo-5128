@@ -3119,3 +3119,4 @@
 0001. 🚀 perf: cache repeated calculations
 0381. ♻️ chore: clean up unused files
 0590. 🐛 fix: fix null pointer exception on login
+0283. ♻️ chore: add GitHub actions badge
