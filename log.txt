@@ -3126,3 +3126,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0540. ♻️ chore: add GitHub actions badge
 0691. 🎨 style: rename variables for clarity
+0336. ✨ feat: add export to CSV option
