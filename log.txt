@@ -8611,3 +8611,4 @@
 0286. ✅ test: mock database connection in test suite
 0557. 🔧 refactor: clean up auth middleware
 0353. ♻️ chore: rename env.example
+0730. ✅ test: test user registration edge cases
