@@ -8615,3 +8615,4 @@
 0252. 🎨 style: remove trailing whitespace
 0500. ✅ test: add integration test for /submit endpoint
 0170. ✅ test: increase coverage on auth module
+0048. 📚 docs: update README with setup steps
