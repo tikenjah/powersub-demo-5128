@@ -3131,3 +3131,4 @@
 0649. 📚 docs: update README with setup steps
 0850. ♻️ chore: rename env.example
 0980. 🎨 style: reformat files with black
+0923. ✨ feat: support email verification
