@@ -5603,3 +5603,4 @@
 0455. ♻️ chore: clean up unused files
 0350. 🚀 perf: cache repeated calculations
 0506. 🐛 fix: handle 500 error in quiz API
+0219. ✅ test: increase coverage on auth module
