@@ -3132,3 +3132,4 @@
 0850. ♻️ chore: rename env.example
 0980. 🎨 style: reformat files with black
 0923. ✨ feat: support email verification
+0252. 🎨 style: remove trailing whitespace
