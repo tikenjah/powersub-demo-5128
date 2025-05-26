@@ -3140,3 +3140,4 @@
 0335. ♻️ chore: update .gitignore
 0744. 🔧 refactor: remove redundant code blocks
 0244. ✨ feat: add export to CSV option
+0359. 🔧 refactor: clean up auth middleware
