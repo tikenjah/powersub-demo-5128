@@ -3139,3 +3139,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0335. ♻️ chore: update .gitignore
 0744. 🔧 refactor: remove redundant code blocks
+0244. ✨ feat: add export to CSV option
