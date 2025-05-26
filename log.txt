@@ -3149,3 +3149,4 @@
 0667. ✨ feat: add export to CSV option
 0546. 🐛 fix: fix null pointer exception on login
 0644. 🎨 style: apply consistent indentation
+0361. ✨ feat: support email verification
