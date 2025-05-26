@@ -3130,3 +3130,4 @@
 0160. ♻️ chore: bump dependencies
 0649. 📚 docs: update README with setup steps
 0850. ♻️ chore: rename env.example
+0980. 🎨 style: reformat files with black
