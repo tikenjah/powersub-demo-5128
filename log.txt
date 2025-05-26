@@ -10628,3 +10628,4 @@
 0526. ✨ feat: add user authentication
 0144. ✅ test: increase coverage on auth module
 0424. ✨ feat: add user authentication
+0053. ✅ test: increase coverage on auth module
