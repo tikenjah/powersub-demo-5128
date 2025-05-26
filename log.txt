@@ -3143,3 +3143,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0225. 🚀 perf: reduce image load time
 0287. 📚 docs: write FAQ section
+0759. 🔧 refactor: organize models into subfolders
