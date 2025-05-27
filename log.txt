@@ -3154,3 +3154,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0003. ✅ test: increase coverage on auth module
 0611. ✅ test: test user registration edge cases
+0948. 🐛 fix: fix broken CSS in mobile view
