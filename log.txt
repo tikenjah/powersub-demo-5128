@@ -3163,3 +3163,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0175. 📚 docs: add API usage examples
 0689. 🎨 style: reformat files with black
+0621. 🔧 refactor: clean up auth middleware
