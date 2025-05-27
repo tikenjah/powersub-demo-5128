@@ -3155,3 +3155,4 @@
 0003. ✅ test: increase coverage on auth module
 0611. ✅ test: test user registration edge cases
 0948. 🐛 fix: fix broken CSS in mobile view
+0990. ♻️ chore: rename env.example
