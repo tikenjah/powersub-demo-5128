@@ -3158,3 +3158,4 @@
 0990. ♻️ chore: rename env.example
 0996. ✅ test: test user registration edge cases
 0617. ✨ feat: support email verification
+0872. 🎨 style: rename variables for clarity
