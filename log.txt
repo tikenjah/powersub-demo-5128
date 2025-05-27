@@ -9622,3 +9622,4 @@
 0012. 🚀 perf: cache repeated calculations
 0619. ✨ feat: create admin dashboard
 0749. ✨ feat: support email verification
+0397. 🐛 fix: handle 500 error in quiz API
