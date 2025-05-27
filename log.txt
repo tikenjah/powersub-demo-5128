@@ -9624,3 +9624,4 @@
 0749. ✨ feat: support email verification
 0397. 🐛 fix: handle 500 error in quiz API
 0120. ✅ test: add integration test for /submit endpoint
+0793. 📚 docs: clarify environment setup
