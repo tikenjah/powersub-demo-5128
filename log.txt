@@ -9623,3 +9623,4 @@
 0619. ✨ feat: create admin dashboard
 0749. ✨ feat: support email verification
 0397. 🐛 fix: handle 500 error in quiz API
+0120. ✅ test: add integration test for /submit endpoint
