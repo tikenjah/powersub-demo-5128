@@ -3152,3 +3152,4 @@
 0361. ✨ feat: support email verification
 0845. 🚀 perf: cache repeated calculations
 0958. 🐛 fix: prevent crash on empty input
+0003. ✅ test: increase coverage on auth module
