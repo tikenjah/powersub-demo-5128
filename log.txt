@@ -10630,3 +10630,4 @@
 0424. ✨ feat: add user authentication
 0053. ✅ test: increase coverage on auth module
 0793. 📚 docs: clarify environment setup
+0180. ✨ feat: add export to CSV option
