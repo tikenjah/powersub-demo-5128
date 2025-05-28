@@ -3177,3 +3177,4 @@
 0029. 🚀 perf: lazy-load components
 0668. 🚀 perf: optimize database query for quiz results
 0641. 📚 docs: write FAQ section
+0542. 🔧 refactor: organize models into subfolders
