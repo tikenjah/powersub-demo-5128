@@ -3174,3 +3174,4 @@
 0745. ✅ test: add unit test for quiz service
 0935. 📚 docs: update README with setup steps
 0720. ✨ feat: add export to CSV option
+0029. 🚀 perf: lazy-load components
