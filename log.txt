@@ -6640,3 +6640,4 @@
 0152. ✨ feat: add user authentication
 0860. 🔧 refactor: organize models into subfolders
 0388. 🎨 style: reformat files with black
+0601. ✨ feat: implement quiz timer feature
