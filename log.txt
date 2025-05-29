@@ -9627,3 +9627,4 @@
 0793. 📚 docs: clarify environment setup
 0277. 🎨 style: standardize quote style
 0525. ✅ test: mock database connection in test suite
+0579. 📚 docs: clarify environment setup
