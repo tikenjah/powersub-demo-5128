@@ -5610,3 +5610,4 @@
 0487. 🎨 style: reformat files with black
 0099. 🚀 perf: reduce image load time
 0763. 🔧 refactor: organize models into subfolders
+0281. ✨ feat: support email verification
