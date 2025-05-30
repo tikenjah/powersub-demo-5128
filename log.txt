@@ -3202,3 +3202,4 @@
 0572. ✨ feat: add user authentication
 0029. 🚀 perf: lazy-load components
 0138. 🎨 style: rename variables for clarity
+0178. ✨ feat: support email verification
