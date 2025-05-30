@@ -9631,3 +9631,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0377. ✨ feat: add user authentication
 0586. 🎨 style: remove trailing whitespace
+0446. 🎨 style: apply consistent indentation
