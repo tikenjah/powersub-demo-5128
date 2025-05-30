@@ -7638,3 +7638,4 @@
 0580. ♻️ chore: bump dependencies
 0611. ✅ test: test user registration edge cases
 0095. ✅ test: mock database connection in test suite
+0218. 🔧 refactor: clean up auth middleware
