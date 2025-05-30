@@ -9632,3 +9632,4 @@
 0377. ✨ feat: add user authentication
 0586. 🎨 style: remove trailing whitespace
 0446. 🎨 style: apply consistent indentation
+0101. 📚 docs: clarify environment setup
