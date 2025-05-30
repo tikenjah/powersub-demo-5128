@@ -6641,3 +6641,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0388. 🎨 style: reformat files with black
 0601. ✨ feat: implement quiz timer feature
+0783. 🐛 fix: handle 500 error in quiz API
