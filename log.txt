@@ -9630,3 +9630,4 @@
 0579. 📚 docs: clarify environment setup
 0671. 🐛 fix: fix null pointer exception on login
 0377. ✨ feat: add user authentication
+0586. 🎨 style: remove trailing whitespace
