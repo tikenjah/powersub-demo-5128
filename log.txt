@@ -3204,3 +3204,4 @@
 0138. 🎨 style: rename variables for clarity
 0178. ✨ feat: support email verification
 0792. 🎨 style: standardize quote style
+0531. 🐛 fix: prevent crash on empty input
