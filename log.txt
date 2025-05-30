@@ -10638,3 +10638,4 @@
 0964. ♻️ chore: clean up unused files
 0764. ✨ feat: add user authentication
 0836. 🚀 perf: optimize database query for quiz results
+0315. ✅ test: add integration test for /submit endpoint
