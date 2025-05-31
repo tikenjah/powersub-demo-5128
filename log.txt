@@ -8629,3 +8629,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0031. 📚 docs: document token refresh logic
 0849. 🐛 fix: correct typo in registration form
+0672. 🐛 fix: fix broken CSS in mobile view
