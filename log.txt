@@ -3216,3 +3216,4 @@
 0944. ✨ feat: add user authentication
 0937. 🐛 fix: handle 500 error in quiz API
 0205. 📚 docs: update README with setup steps
+0092. 🚀 perf: reduce image load time
