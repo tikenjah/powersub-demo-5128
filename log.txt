@@ -3236,3 +3236,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0434. 📚 docs: document token refresh logic
 0074. ♻️ chore: add GitHub actions badge
+0934. ✨ feat: support email verification
