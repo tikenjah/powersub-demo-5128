@@ -7647,3 +7647,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0593. 🐛 fix: correct typo in registration form
 0568. 🐛 fix: handle 500 error in quiz API
+0348. ✅ test: test user registration edge cases
