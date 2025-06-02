@@ -3243,3 +3243,4 @@
 0158. 📚 docs: clarify environment setup
 0758. 🚀 perf: optimize database query for quiz results
 0187. ✨ feat: support email verification
+0877. 🚀 perf: optimize database query for quiz results
