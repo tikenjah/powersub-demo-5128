@@ -3255,3 +3255,4 @@
 0683. ✅ test: mock database connection in test suite
 0431. 🎨 style: reformat files with black
 0455. ♻️ chore: clean up unused files
+0826. 📚 docs: clarify environment setup
