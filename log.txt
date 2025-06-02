@@ -9644,3 +9644,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0638. 📚 docs: improve code comments in utils
 0710. 🐛 fix: fix broken CSS in mobile view
+0558. ✨ feat: enable dark mode toggle
