@@ -3260,3 +3260,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0020. ✅ test: add integration test for /submit endpoint
 0353. ♻️ chore: rename env.example
+0742. 📚 docs: clarify environment setup
