@@ -6651,3 +6651,4 @@
 0003. ✅ test: increase coverage on auth module
 0059. ♻️ chore: bump dependencies
 0235. 🐛 fix: fix null pointer exception on login
+0459. 🔧 refactor: organize models into subfolders
