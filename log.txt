@@ -3263,3 +3263,4 @@
 0742. 📚 docs: clarify environment setup
 0364. 🐛 fix: resolve issue with date parsing
 0634. 🎨 style: reformat files with black
+0356. 📚 docs: write FAQ section
