@@ -7650,3 +7650,4 @@
 0348. ✅ test: test user registration edge cases
 0904. ✨ feat: implement quiz timer feature
 0191. 🔧 refactor: refactor quiz grading logic
+0331. 🐛 fix: fix broken CSS in mobile view
