@@ -5620,3 +5620,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0583. ✅ test: increase coverage on auth module
 0784. ♻️ chore: clean up unused files
+0159. 🚀 perf: lazy-load components
