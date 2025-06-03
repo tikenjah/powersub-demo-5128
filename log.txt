@@ -3269,3 +3269,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0936. 🔧 refactor: organize models into subfolders
 0210. 🎨 style: apply consistent indentation
+0578. ✅ test: add integration test for /submit endpoint
