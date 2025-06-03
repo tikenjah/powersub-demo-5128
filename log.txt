@@ -8640,3 +8640,4 @@
 0234. ♻️ chore: rename env.example
 0434. 📚 docs: document token refresh logic
 0653. 🐛 fix: prevent crash on empty input
+0229. 🚀 perf: optimize database query for quiz results
