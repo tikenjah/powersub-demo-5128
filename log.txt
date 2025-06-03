@@ -6655,3 +6655,4 @@
 0438. ♻️ chore: bump dependencies
 0942. ✅ test: increase coverage on auth module
 0674. 🔧 refactor: split large controller into smaller functions
+0957. 🐛 fix: fix null pointer exception on login
