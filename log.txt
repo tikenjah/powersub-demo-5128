@@ -7657,3 +7657,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0599. ✅ test: test user registration edge cases
 0289. 🐛 fix: resolve issue with date parsing
+0544. 🔧 refactor: organize models into subfolders
