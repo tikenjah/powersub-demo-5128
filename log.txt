@@ -7653,3 +7653,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0562. 🔧 refactor: clean up auth middleware
 0101. 📚 docs: clarify environment setup
+0189. 📚 docs: clarify environment setup
