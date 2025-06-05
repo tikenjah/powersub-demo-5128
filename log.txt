@@ -9651,3 +9651,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0406. ✨ feat: add export to CSV option
 0970. ♻️ chore: update .gitignore
+0247. 🎨 style: apply consistent indentation
