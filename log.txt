@@ -5626,3 +5626,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0641. 📚 docs: write FAQ section
 0609. 🐛 fix: handle 500 error in quiz API
+0998. 🐛 fix: fix null pointer exception on login
