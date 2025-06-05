@@ -3307,3 +3307,4 @@
 0265. 🎨 style: reformat files with black
 0432. 🎨 style: apply consistent indentation
 0640. ♻️ chore: bump dependencies
+0021. ✨ feat: support email verification
