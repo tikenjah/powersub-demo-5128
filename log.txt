@@ -3309,3 +3309,4 @@
 0640. ♻️ chore: bump dependencies
 0021. ✨ feat: support email verification
 0082. 🔧 refactor: refactor quiz grading logic
+0511. 🐛 fix: fix broken CSS in mobile view
