@@ -3312,3 +3312,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0428. 🐛 fix: fix null pointer exception on login
 0475. 🔧 refactor: clean up auth middleware
+0379. ✨ feat: support email verification
