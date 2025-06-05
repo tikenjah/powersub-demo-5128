@@ -3291,3 +3291,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0910. 🎨 style: remove trailing whitespace
 0798. 🚀 perf: reduce image load time
+0749. ✨ feat: support email verification
