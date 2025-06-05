@@ -3298,3 +3298,4 @@
 0390. 🎨 style: standardize quote style
 0665. ♻️ chore: update .gitignore
 0224. 🐛 fix: fix broken CSS in mobile view
+0513. ♻️ chore: bump dependencies
