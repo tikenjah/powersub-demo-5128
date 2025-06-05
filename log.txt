@@ -3296,3 +3296,4 @@
 0486. ✨ feat: add export to CSV option
 0390. 🎨 style: standardize quote style
 0390. 🎨 style: standardize quote style
+0665. ♻️ chore: update .gitignore
