@@ -6658,3 +6658,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0083. 🎨 style: reformat files with black
 0202. 🔧 refactor: refactor quiz grading logic
+0659. 📚 docs: add API usage examples
