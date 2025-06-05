@@ -3305,3 +3305,4 @@
 0789. ✨ feat: create admin dashboard
 0876. ♻️ chore: rename env.example
 0265. 🎨 style: reformat files with black
+0432. 🎨 style: apply consistent indentation
