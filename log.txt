@@ -3327,3 +3327,4 @@
 0287. 📚 docs: write FAQ section
 0011. ✅ test: add unit test for quiz service
 0210. 🎨 style: apply consistent indentation
+0339. 📚 docs: update README with setup steps
