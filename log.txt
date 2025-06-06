@@ -3323,3 +3323,4 @@
 0374. 🎨 style: standardize quote style
 0043. ✅ test: add integration test for /submit endpoint
 0718. 🐛 fix: resolve issue with date parsing
+0197. 📚 docs: update README with setup steps
