@@ -7663,3 +7663,4 @@
 0794. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
 0569. 📚 docs: document token refresh logic
+0088. 📚 docs: add API usage examples
