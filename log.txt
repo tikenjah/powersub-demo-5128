@@ -5630,3 +5630,4 @@
 0586. 🎨 style: remove trailing whitespace
 0976. ✨ feat: implement quiz timer feature
 0363. 📚 docs: clarify environment setup
+0573. ✅ test: add integration test for /submit endpoint
