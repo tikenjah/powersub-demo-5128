@@ -5629,3 +5629,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0586. 🎨 style: remove trailing whitespace
 0976. ✨ feat: implement quiz timer feature
+0363. 📚 docs: clarify environment setup
