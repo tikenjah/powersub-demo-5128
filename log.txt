@@ -3335,3 +3335,4 @@
 0699. 🎨 style: standardize quote style
 0330. ✅ test: test user registration edge cases
 0299. 🐛 fix: resolve issue with date parsing
+0752. ✅ test: add integration test for /submit endpoint
