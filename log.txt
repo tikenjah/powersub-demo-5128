@@ -5631,3 +5631,4 @@
 0976. ✨ feat: implement quiz timer feature
 0363. 📚 docs: clarify environment setup
 0573. ✅ test: add integration test for /submit endpoint
+0185. 📚 docs: write FAQ section
