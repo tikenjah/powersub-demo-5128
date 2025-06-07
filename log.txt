@@ -3330,3 +3330,4 @@
 0339. 📚 docs: update README with setup steps
 0139. 📚 docs: document token refresh logic
 0805. ♻️ chore: add GitHub actions badge
+0033. 🎨 style: apply consistent indentation
