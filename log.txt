@@ -5634,3 +5634,4 @@
 0185. 📚 docs: write FAQ section
 0240. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
+0956. 📚 docs: clarify environment setup
