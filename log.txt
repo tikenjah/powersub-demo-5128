@@ -6670,3 +6670,4 @@
 0944. ✨ feat: add user authentication
 0751. 🐛 fix: handle 500 error in quiz API
 0505. ♻️ chore: add GitHub actions badge
+0330. ✅ test: test user registration edge cases
