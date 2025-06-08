@@ -3342,3 +3342,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0114. ♻️ chore: update .gitignore
 0219. ✅ test: increase coverage on auth module
+0476. 🚀 perf: reduce image load time
