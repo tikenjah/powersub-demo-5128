@@ -9656,3 +9656,4 @@
 0914. ✅ test: test user registration edge cases
 0629. 🔧 refactor: organize models into subfolders
 0933. 📚 docs: clarify environment setup
+0242. ♻️ chore: clean up unused files
