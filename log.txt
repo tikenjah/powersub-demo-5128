@@ -3349,3 +3349,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0535. 📚 docs: write FAQ section
 0552. 🐛 fix: fix null pointer exception on login
+0785. ✨ feat: enable dark mode toggle
