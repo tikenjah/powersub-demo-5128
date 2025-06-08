@@ -3343,3 +3343,4 @@
 0114. ♻️ chore: update .gitignore
 0219. ✅ test: increase coverage on auth module
 0476. 🚀 perf: reduce image load time
+0910. 🎨 style: remove trailing whitespace
