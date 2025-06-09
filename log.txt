@@ -3361,3 +3361,4 @@
 0651. ✨ feat: enable dark mode toggle
 0378. 🐛 fix: prevent crash on empty input
 0533. ♻️ chore: add GitHub actions badge
+0096. 🐛 fix: prevent crash on empty input
