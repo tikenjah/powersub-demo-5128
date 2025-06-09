@@ -5638,3 +5638,4 @@
 0986. 📚 docs: document token refresh logic
 0178. ✨ feat: support email verification
 0110. 🐛 fix: prevent crash on empty input
+0634. 🎨 style: reformat files with black
