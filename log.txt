@@ -3359,3 +3359,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0249. ✅ test: increase coverage on auth module
 0651. ✨ feat: enable dark mode toggle
+0378. 🐛 fix: prevent crash on empty input
