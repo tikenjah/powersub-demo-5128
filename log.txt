@@ -3368,3 +3368,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0251. ♻️ chore: update .gitignore
 0167. 🚀 perf: reduce image load time
+0856. 🐛 fix: fix null pointer exception on login
