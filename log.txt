@@ -3372,3 +3372,4 @@
 0884. 📚 docs: clarify environment setup
 0486. ✨ feat: add export to CSV option
 0312. ✨ feat: add user authentication
+0668. 🚀 perf: optimize database query for quiz results
