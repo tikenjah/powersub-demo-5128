@@ -5642,3 +5642,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0406. ✨ feat: add export to CSV option
 0602. 🔧 refactor: remove redundant code blocks
+0348. ✅ test: test user registration edge cases
