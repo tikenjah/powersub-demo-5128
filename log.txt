@@ -5641,3 +5641,4 @@
 0634. 🎨 style: reformat files with black
 0740. 🐛 fix: resolve issue with date parsing
 0406. ✨ feat: add export to CSV option
+0602. 🔧 refactor: remove redundant code blocks
