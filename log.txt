@@ -3377,3 +3377,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0326. 🚀 perf: cache repeated calculations
 0072. 🚀 perf: optimize database query for quiz results
+0519. 📚 docs: document token refresh logic
