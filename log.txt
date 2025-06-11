@@ -3381,3 +3381,4 @@
 0911. ✅ test: increase coverage on auth module
 0169. 📚 docs: add API usage examples
 0162. ♻️ chore: add GitHub actions badge
+0973. 🔧 refactor: organize models into subfolders
