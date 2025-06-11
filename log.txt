@@ -7675,3 +7675,4 @@
 0225. 🚀 perf: reduce image load time
 0472. 🐛 fix: fix null pointer exception on login
 0022. 📚 docs: document token refresh logic
+0633. ✨ feat: add user authentication
