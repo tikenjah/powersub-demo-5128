@@ -3386,3 +3386,4 @@
 0786. ✨ feat: enable dark mode toggle
 0394. 🚀 perf: lazy-load components
 0883. 📚 docs: improve code comments in utils
+0739. 🎨 style: remove trailing whitespace
