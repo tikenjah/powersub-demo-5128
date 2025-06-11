@@ -10672,3 +10672,4 @@
 0509. ♻️ chore: bump dependencies
 0543. ✨ feat: support email verification
 0477. 🐛 fix: fix broken CSS in mobile view
+0934. ✨ feat: support email verification
