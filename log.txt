@@ -3399,3 +3399,4 @@
 0144. ✅ test: increase coverage on auth module
 0735. ♻️ chore: add GitHub actions badge
 0749. ✨ feat: support email verification
+0673. 🐛 fix: correct typo in registration form
