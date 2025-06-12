@@ -3398,3 +3398,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0144. ✅ test: increase coverage on auth module
 0735. ♻️ chore: add GitHub actions badge
+0749. ✨ feat: support email verification
