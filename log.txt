@@ -5645,3 +5645,4 @@
 0348. ✅ test: test user registration edge cases
 0481. ✅ test: add unit test for quiz service
 0647. 🐛 fix: prevent crash on empty input
+0205. 📚 docs: update README with setup steps
