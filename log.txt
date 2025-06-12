@@ -3397,3 +3397,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0425. 🔧 refactor: refactor quiz grading logic
 0144. ✅ test: increase coverage on auth module
+0735. ♻️ chore: add GitHub actions badge
