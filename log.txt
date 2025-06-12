@@ -10675,3 +10675,4 @@
 0934. ✨ feat: support email verification
 0863. 🐛 fix: correct typo in registration form
 0714. 📚 docs: improve code comments in utils
+0710. 🐛 fix: fix broken CSS in mobile view
