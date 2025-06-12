@@ -7680,3 +7680,4 @@
 0105. 🐛 fix: correct typo in registration form
 0344. ♻️ chore: add GitHub actions badge
 1000. ✅ test: increase coverage on auth module
+0992. ♻️ chore: clean up unused files
