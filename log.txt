@@ -3392,3 +3392,4 @@
 0196. ♻️ chore: bump dependencies
 0166. 🚀 perf: cache repeated calculations
 0699. 🎨 style: standardize quote style
+0963. 🚀 perf: reduce image load time
