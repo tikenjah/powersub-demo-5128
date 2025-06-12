@@ -7678,3 +7678,4 @@
 0633. ✨ feat: add user authentication
 0476. 🚀 perf: reduce image load time
 0105. 🐛 fix: correct typo in registration form
+0344. ♻️ chore: add GitHub actions badge
