@@ -7683,3 +7683,4 @@
 0992. ♻️ chore: clean up unused files
 0924. ✅ test: mock database connection in test suite
 0591. ♻️ chore: clean up unused files
+0650. ✅ test: add unit test for quiz service
