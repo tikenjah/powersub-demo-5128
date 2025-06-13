@@ -8661,3 +8661,4 @@
 0022. 📚 docs: document token refresh logic
 0459. 🔧 refactor: organize models into subfolders
 0089. 🔧 refactor: remove redundant code blocks
+0584. 🚀 perf: lazy-load components
