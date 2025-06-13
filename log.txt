@@ -3404,3 +3404,4 @@
 0928. 🎨 style: apply consistent indentation
 0080. ✨ feat: support email verification
 0639. 🐛 fix: correct typo in registration form
+0049. 🐛 fix: handle 500 error in quiz API
