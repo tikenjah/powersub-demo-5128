@@ -10676,3 +10676,4 @@
 0863. 🐛 fix: correct typo in registration form
 0714. 📚 docs: improve code comments in utils
 0710. 🐛 fix: fix broken CSS in mobile view
+0301. 🎨 style: apply consistent indentation
