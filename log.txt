@@ -10681,3 +10681,4 @@
 0022. 📚 docs: document token refresh logic
 0070. ✨ feat: implement quiz timer feature
 0629. 🔧 refactor: organize models into subfolders
+0036. 🔧 refactor: clean up auth middleware
