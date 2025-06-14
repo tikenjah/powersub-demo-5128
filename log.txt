@@ -3431,3 +3431,4 @@
 0777. 📚 docs: document token refresh logic
 0202. 🔧 refactor: refactor quiz grading logic
 0992. ♻️ chore: clean up unused files
+0947. 📚 docs: write FAQ section
