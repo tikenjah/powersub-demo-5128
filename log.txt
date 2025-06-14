@@ -3421,3 +3421,4 @@
 0510. 🎨 style: rename variables for clarity
 0757. 🔧 refactor: remove redundant code blocks
 0687. 🎨 style: remove trailing whitespace
+0430. 🐛 fix: fix null pointer exception on login
