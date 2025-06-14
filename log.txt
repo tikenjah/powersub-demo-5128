@@ -3424,3 +3424,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0772. 🐛 fix: fix null pointer exception on login
 0865. ♻️ chore: add GitHub actions badge
+0791. 🔧 refactor: clean up auth middleware
