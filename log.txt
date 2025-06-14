@@ -9674,3 +9674,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0332. 🎨 style: standardize quote style
 0536. ✨ feat: add user authentication
+0544. 🔧 refactor: organize models into subfolders
