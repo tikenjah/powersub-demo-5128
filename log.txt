@@ -9678,3 +9678,4 @@
 0745. ✅ test: add unit test for quiz service
 0472. 🐛 fix: fix null pointer exception on login
 0905. ♻️ chore: bump dependencies
+0857. 🎨 style: rename variables for clarity
