@@ -3437,3 +3437,4 @@
 0388. 🎨 style: reformat files with black
 0087. ✨ feat: add export to CSV option
 0467. ✅ test: add integration test for /submit endpoint
+0538. 🐛 fix: fix broken CSS in mobile view
