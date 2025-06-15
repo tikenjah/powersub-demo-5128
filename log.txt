@@ -9675,3 +9675,4 @@
 0332. 🎨 style: standardize quote style
 0536. ✨ feat: add user authentication
 0544. 🔧 refactor: organize models into subfolders
+0745. ✅ test: add unit test for quiz service
