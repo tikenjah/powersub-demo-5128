@@ -8670,3 +8670,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0820. 📚 docs: add API usage examples
 0377. ✨ feat: add user authentication
+0576. ♻️ chore: update .gitignore
