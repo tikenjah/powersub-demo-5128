@@ -3432,3 +3432,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0992. ♻️ chore: clean up unused files
 0947. 📚 docs: write FAQ section
+0888. 🚀 perf: lazy-load components
