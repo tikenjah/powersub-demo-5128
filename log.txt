@@ -3446,3 +3446,4 @@
 0491. 🚀 perf: lazy-load components
 0074. ♻️ chore: add GitHub actions badge
 0856. 🐛 fix: fix null pointer exception on login
+0804. ♻️ chore: add GitHub actions badge
