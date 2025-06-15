@@ -5657,3 +5657,4 @@
 0292. 📚 docs: clarify environment setup
 0478. 🐛 fix: resolve issue with date parsing
 0931. 🚀 perf: reduce image load time
+0337. 📚 docs: document token refresh logic
