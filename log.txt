@@ -10684,3 +10684,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0442. 🎨 style: standardize quote style
 0272. 🔧 refactor: remove redundant code blocks
+0581. ✅ test: add integration test for /submit endpoint
