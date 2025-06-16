@@ -3460,3 +3460,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0269. ✅ test: test user registration edge cases
 0873. 🚀 perf: cache repeated calculations
+0293. ✅ test: add integration test for /submit endpoint
