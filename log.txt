@@ -3456,3 +3456,4 @@
 0100. ♻️ chore: update .gitignore
 0643. 🎨 style: apply consistent indentation
 0643. 🎨 style: apply consistent indentation
+0294. 🐛 fix: prevent crash on empty input
