@@ -8672,3 +8672,4 @@
 0377. ✨ feat: add user authentication
 0576. ♻️ chore: update .gitignore
 0071. 🔧 refactor: refactor quiz grading logic
+0225. 🚀 perf: reduce image load time
