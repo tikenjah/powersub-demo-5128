@@ -9683,3 +9683,4 @@
 0662. ♻️ chore: clean up unused files
 0687. 🎨 style: remove trailing whitespace
 1000. ✅ test: increase coverage on auth module
+0844. 📚 docs: update README with setup steps
