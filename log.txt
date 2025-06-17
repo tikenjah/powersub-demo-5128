@@ -3464,3 +3464,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0377. ✨ feat: add user authentication
 0605. ✨ feat: support email verification
+0531. 🐛 fix: prevent crash on empty input
