@@ -3467,3 +3467,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0633. ✨ feat: add user authentication
 0984. ♻️ chore: clean up unused files
+0565. ♻️ chore: add GitHub actions badge
