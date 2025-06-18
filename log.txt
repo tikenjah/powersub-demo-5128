@@ -5662,3 +5662,4 @@
 0233. 🚀 perf: lazy-load components
 0921. 🐛 fix: correct typo in registration form
 0556. ✨ feat: support email verification
+0448. 🐛 fix: correct typo in registration form
