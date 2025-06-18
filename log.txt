@@ -3478,3 +3478,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0786. ✨ feat: enable dark mode toggle
 0340. 🚀 perf: optimize database query for quiz results
+0918. ✨ feat: enable dark mode toggle
