@@ -7698,3 +7698,4 @@
 0823. ✨ feat: add user authentication
 0838. 🎨 style: standardize quote style
 0386. 🚀 perf: optimize database query for quiz results
+0965. 🎨 style: reformat files with black
