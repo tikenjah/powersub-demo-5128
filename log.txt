@@ -3486,3 +3486,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0385. ♻️ chore: clean up unused files
 0688. 🚀 perf: reduce image load time
+0831. 📚 docs: clarify environment setup
