@@ -3491,3 +3491,4 @@
 0212. 🎨 style: standardize quote style
 0727. ♻️ chore: add GitHub actions badge
 0128. ♻️ chore: rename env.example
+0566. 📚 docs: write FAQ section
