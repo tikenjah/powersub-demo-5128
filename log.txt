@@ -10692,3 +10692,4 @@
 0203. 🚀 perf: lazy-load components
 0481. ✅ test: add unit test for quiz service
 0368. 🚀 perf: lazy-load components
+0756. ✨ feat: support email verification
