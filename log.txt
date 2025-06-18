@@ -3488,3 +3488,4 @@
 0688. 🚀 perf: reduce image load time
 0831. 📚 docs: clarify environment setup
 0370. 🚀 perf: reduce image load time
+0212. 🎨 style: standardize quote style
