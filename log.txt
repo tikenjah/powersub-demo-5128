@@ -8675,3 +8675,4 @@
 0225. 🚀 perf: reduce image load time
 0172. 📚 docs: add API usage examples
 0681. ✨ feat: create admin dashboard
+0599. ✅ test: test user registration edge cases
