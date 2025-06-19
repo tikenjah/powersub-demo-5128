@@ -9688,3 +9688,4 @@
 0001. 🚀 perf: cache repeated calculations
 0977. 🔧 refactor: organize models into subfolders
 0342. 🚀 perf: cache repeated calculations
+0299. 🐛 fix: resolve issue with date parsing
