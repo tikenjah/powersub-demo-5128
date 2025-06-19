@@ -5667,3 +5667,4 @@
 0435. ✅ test: add unit test for quiz service
 0462. ♻️ chore: update .gitignore
 0986. 📚 docs: document token refresh logic
+0295. 🎨 style: remove trailing whitespace
