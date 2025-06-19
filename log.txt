@@ -10697,3 +10697,4 @@
 0251. ♻️ chore: update .gitignore
 0899. 🚀 perf: cache repeated calculations
 0751. 🐛 fix: handle 500 error in quiz API
+0616. 🚀 perf: lazy-load components
