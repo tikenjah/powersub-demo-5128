@@ -3506,3 +3506,4 @@
 0443. 🎨 style: standardize quote style
 0908. ♻️ chore: bump dependencies
 0760. 🐛 fix: resolve issue with date parsing
+0894. ✅ test: add integration test for /submit endpoint
