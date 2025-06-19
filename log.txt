@@ -3501,3 +3501,4 @@
 0485. 📚 docs: update README with setup steps
 0781. 🚀 perf: reduce image load time
 0487. 🎨 style: reformat files with black
+0544. 🔧 refactor: organize models into subfolders
