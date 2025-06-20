@@ -3521,3 +3521,4 @@
 0782. 📚 docs: improve code comments in utils
 0515. 🚀 perf: optimize database query for quiz results
 0910. 🎨 style: remove trailing whitespace
+0628. ♻️ chore: add GitHub actions badge
