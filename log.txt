@@ -5672,3 +5672,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0887. 📚 docs: add API usage examples
 0656. 🎨 style: apply consistent indentation
+0386. 🚀 perf: optimize database query for quiz results
