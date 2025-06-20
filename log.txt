@@ -3514,3 +3514,4 @@
 0412. ✅ test: increase coverage on auth module
 0436. ✅ test: add integration test for /submit endpoint
 0990. ♻️ chore: rename env.example
+0701. 🔧 refactor: clean up auth middleware
