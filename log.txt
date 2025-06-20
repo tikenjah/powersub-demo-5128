@@ -7703,3 +7703,4 @@
 0269. ✅ test: test user registration edge cases
 0172. 📚 docs: add API usage examples
 0728. 🔧 refactor: split large controller into smaller functions
+0006. 🐛 fix: prevent crash on empty input
