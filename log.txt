@@ -3535,3 +3535,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0601. ✨ feat: implement quiz timer feature
 0396. 🔧 refactor: split large controller into smaller functions
+0269. ✅ test: test user registration edge cases
