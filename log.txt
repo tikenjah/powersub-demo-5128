@@ -3523,3 +3523,4 @@
 0910. 🎨 style: remove trailing whitespace
 0628. ♻️ chore: add GitHub actions badge
 0183. 🔧 refactor: split large controller into smaller functions
+0201. 🔧 refactor: clean up auth middleware
