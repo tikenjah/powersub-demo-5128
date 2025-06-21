@@ -3529,3 +3529,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0942. ✅ test: increase coverage on auth module
 0249. ✅ test: increase coverage on auth module
+0578. ✅ test: add integration test for /submit endpoint
