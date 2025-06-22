@@ -10705,3 +10705,4 @@
 0390. 🎨 style: standardize quote style
 0789. ✨ feat: create admin dashboard
 0643. 🎨 style: apply consistent indentation
+0249. ✅ test: increase coverage on auth module
