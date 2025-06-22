@@ -3539,3 +3539,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0520. 🐛 fix: fix null pointer exception on login
 0463. 🚀 perf: reduce image load time
+0925. ✨ feat: add export to CSV option
