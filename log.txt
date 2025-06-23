@@ -5676,3 +5676,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0250. 📚 docs: update README with setup steps
 0320. 📚 docs: update README with setup steps
+0477. 🐛 fix: fix broken CSS in mobile view
