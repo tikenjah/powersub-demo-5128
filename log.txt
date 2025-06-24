@@ -7712,3 +7712,4 @@
 0781. 🚀 perf: reduce image load time
 0197. 📚 docs: update README with setup steps
 0652. 🔧 refactor: organize models into subfolders
+0628. ♻️ chore: add GitHub actions badge
