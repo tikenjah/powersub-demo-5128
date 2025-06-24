@@ -6710,3 +6710,4 @@
 0454. ♻️ chore: bump dependencies
 0806. 📚 docs: improve code comments in utils
 0460. 📚 docs: write FAQ section
+0618. ✨ feat: support email verification
