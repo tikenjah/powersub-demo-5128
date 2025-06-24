@@ -10714,3 +10714,4 @@
 0949. 📚 docs: write FAQ section
 0511. 🐛 fix: fix broken CSS in mobile view
 0229. 🚀 perf: optimize database query for quiz results
+0498. ✅ test: mock database connection in test suite
