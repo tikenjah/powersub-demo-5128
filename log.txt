@@ -3559,3 +3559,4 @@
 0709. ♻️ chore: bump dependencies
 0548. 📚 docs: write FAQ section
 0995. ✅ test: mock database connection in test suite
+0618. ✨ feat: support email verification
