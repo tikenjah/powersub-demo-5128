@@ -10712,3 +10712,4 @@
 0452. ✨ feat: implement quiz timer feature
 0969. ✨ feat: create admin dashboard
 0949. 📚 docs: write FAQ section
+0511. 🐛 fix: fix broken CSS in mobile view
