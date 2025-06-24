@@ -5679,3 +5679,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0228. 🔧 refactor: remove redundant code blocks
 0671. 🐛 fix: fix null pointer exception on login
+0026. 🔧 refactor: clean up auth middleware
