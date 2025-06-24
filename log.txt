@@ -3555,3 +3555,4 @@
 0217. 🚀 perf: reduce image load time
 0460. 📚 docs: write FAQ section
 0840. 🔧 refactor: refactor quiz grading logic
+0939. 📚 docs: update README with setup steps
