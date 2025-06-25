@@ -6712,3 +6712,4 @@
 0460. 📚 docs: write FAQ section
 0618. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
+0671. 🐛 fix: fix null pointer exception on login
