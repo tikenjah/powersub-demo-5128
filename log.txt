@@ -3566,3 +3566,4 @@
 0437. 📚 docs: clarify environment setup
 0632. 🎨 style: remove trailing whitespace
 0155. ✨ feat: create admin dashboard
+0026. 🔧 refactor: clean up auth middleware
