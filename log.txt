@@ -10717,3 +10717,4 @@
 0498. ✅ test: mock database connection in test suite
 0433. 🐛 fix: prevent crash on empty input
 0624. ✅ test: add unit test for quiz service
+0265. 🎨 style: reformat files with black
