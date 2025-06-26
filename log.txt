@@ -3583,3 +3583,4 @@
 0198. 📚 docs: clarify environment setup
 0919. 🚀 perf: optimize database query for quiz results
 0372. ✨ feat: add user authentication
+0625. 🐛 fix: handle 500 error in quiz API
