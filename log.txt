@@ -9701,3 +9701,4 @@
 0866. 📚 docs: add API usage examples
 0085. ✨ feat: support email verification
 0449. ✅ test: add unit test for quiz service
+0539. 🔧 refactor: organize models into subfolders
