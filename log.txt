@@ -3603,3 +3603,4 @@
 0984. ♻️ chore: clean up unused files
 0020. ✅ test: add integration test for /submit endpoint
 0393. 🚀 perf: lazy-load components
+0475. 🔧 refactor: clean up auth middleware
