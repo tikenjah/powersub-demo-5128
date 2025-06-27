@@ -3589,3 +3589,4 @@
 0398. 🚀 perf: cache repeated calculations
 0811. 🎨 style: reformat files with black
 0967. ♻️ chore: add GitHub actions badge
+0290. ✅ test: test user registration edge cases
