@@ -3595,3 +3595,4 @@
 0124. 🎨 style: reformat files with black
 0118. 🚀 perf: reduce image load time
 0595. ✨ feat: enable dark mode toggle
+0353. ♻️ chore: rename env.example
