@@ -3591,3 +3591,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0290. ✅ test: test user registration edge cases
 0297. 🎨 style: remove trailing whitespace
+0401. 🚀 perf: reduce image load time
