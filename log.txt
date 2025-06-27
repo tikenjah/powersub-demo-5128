@@ -9704,3 +9704,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0457. 🐛 fix: handle 500 error in quiz API
 0601. ✨ feat: implement quiz timer feature
+0462. ♻️ chore: update .gitignore
