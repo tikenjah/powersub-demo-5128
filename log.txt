@@ -8695,3 +8695,4 @@
 0944. ✨ feat: add user authentication
 0352. ✨ feat: add export to CSV option
 0106. 🎨 style: reformat files with black
+0453. 🎨 style: standardize quote style
