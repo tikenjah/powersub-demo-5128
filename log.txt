@@ -3604,3 +3604,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0393. 🚀 perf: lazy-load components
 0475. 🔧 refactor: clean up auth middleware
+0695. ✨ feat: create admin dashboard
