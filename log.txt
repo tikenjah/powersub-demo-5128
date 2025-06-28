@@ -3606,3 +3606,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0695. ✨ feat: create admin dashboard
 0785. ✨ feat: enable dark mode toggle
+0603. 🐛 fix: fix broken CSS in mobile view
