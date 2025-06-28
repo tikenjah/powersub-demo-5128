@@ -6719,3 +6719,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0871. ✅ test: add integration test for /submit endpoint
 0460. 📚 docs: write FAQ section
+0444. ✅ test: add unit test for quiz service
