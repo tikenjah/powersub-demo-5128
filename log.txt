@@ -3621,3 +3621,4 @@
 0062. ♻️ chore: update .gitignore
 0809. ♻️ chore: rename env.example
 0124. 🎨 style: reformat files with black
+0430. 🐛 fix: fix null pointer exception on login
