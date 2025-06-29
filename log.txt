@@ -3619,3 +3619,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0523. ♻️ chore: bump dependencies
 0062. ♻️ chore: update .gitignore
+0809. ♻️ chore: rename env.example
