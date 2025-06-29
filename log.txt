@@ -8698,3 +8698,4 @@
 0453. 🎨 style: standardize quote style
 0312. ✨ feat: add user authentication
 0967. ♻️ chore: add GitHub actions badge
+0224. 🐛 fix: fix broken CSS in mobile view
