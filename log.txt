@@ -3618,3 +3618,4 @@
 0626. 🎨 style: standardize quote style
 0488. ♻️ chore: add GitHub actions badge
 0523. ♻️ chore: bump dependencies
+0062. ♻️ chore: update .gitignore
