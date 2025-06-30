@@ -5694,3 +5694,4 @@
 0423. ✅ test: mock database connection in test suite
 0055. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
+0623. 🎨 style: standardize quote style
