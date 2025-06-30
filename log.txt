@@ -3644,3 +3644,4 @@
 0980. 🎨 style: reformat files with black
 0482. ✨ feat: add export to CSV option
 0654. ✨ feat: create admin dashboard
+0653. 🐛 fix: prevent crash on empty input
