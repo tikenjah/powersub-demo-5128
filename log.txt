@@ -3629,3 +3629,4 @@
 0869. ♻️ chore: bump dependencies
 0802. 🔧 refactor: remove redundant code blocks
 0558. ✨ feat: enable dark mode toggle
+0296. 🔧 refactor: organize models into subfolders
