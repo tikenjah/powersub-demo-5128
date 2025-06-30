@@ -3645,3 +3645,4 @@
 0482. ✨ feat: add export to CSV option
 0654. ✨ feat: create admin dashboard
 0653. 🐛 fix: prevent crash on empty input
+0429. ✨ feat: add user authentication
