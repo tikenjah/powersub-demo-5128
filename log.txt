@@ -10728,3 +10728,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0107. 🐛 fix: prevent crash on empty input
 0371. ✅ test: add integration test for /submit endpoint
+0535. 📚 docs: write FAQ section
