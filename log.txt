@@ -5696,3 +5696,4 @@
 0160. ♻️ chore: bump dependencies
 0623. 🎨 style: standardize quote style
 0505. ♻️ chore: add GitHub actions badge
+0264. 🚀 perf: optimize database query for quiz results
