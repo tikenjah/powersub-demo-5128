@@ -6731,3 +6731,4 @@
 0339. 📚 docs: update README with setup steps
 0727. ♻️ chore: add GitHub actions badge
 0526. ✨ feat: add user authentication
+0611. ✅ test: test user registration edge cases
