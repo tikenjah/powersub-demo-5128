@@ -3652,3 +3652,4 @@
 0931. 🚀 perf: reduce image load time
 0215. 🎨 style: reformat files with black
 0207. 🐛 fix: prevent crash on empty input
+0441. 📚 docs: add API usage examples
