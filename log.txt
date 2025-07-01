@@ -3646,3 +3646,4 @@
 0654. ✨ feat: create admin dashboard
 0653. 🐛 fix: prevent crash on empty input
 0429. ✨ feat: add user authentication
+0365. 🚀 perf: reduce image load time
