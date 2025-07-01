@@ -9710,3 +9710,4 @@
 0440. 📚 docs: update README with setup steps
 0653. 🐛 fix: prevent crash on empty input
 0160. ♻️ chore: bump dependencies
+0958. 🐛 fix: prevent crash on empty input
