@@ -6729,3 +6729,4 @@
 0688. 🚀 perf: reduce image load time
 0749. ✨ feat: support email verification
 0339. 📚 docs: update README with setup steps
+0727. ♻️ chore: add GitHub actions badge
