@@ -8707,3 +8707,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0854. ♻️ chore: rename env.example
 0546. 🐛 fix: fix null pointer exception on login
+0580. ♻️ chore: bump dependencies
