@@ -3660,3 +3660,4 @@
 0558. ✨ feat: enable dark mode toggle
 0395. 📚 docs: write FAQ section
 0268. 🐛 fix: prevent crash on empty input
+0421. 🔧 refactor: split large controller into smaller functions
