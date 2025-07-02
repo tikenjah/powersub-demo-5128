@@ -3664,3 +3664,4 @@
 0614. 🚀 perf: reduce image load time
 0275. 🎨 style: standardize quote style
 0835. 🐛 fix: prevent crash on empty input
+0383. 🐛 fix: fix broken CSS in mobile view
