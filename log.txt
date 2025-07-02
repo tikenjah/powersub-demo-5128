@@ -3669,3 +3669,4 @@
 0755. 🚀 perf: cache repeated calculations
 0265. 🎨 style: reformat files with black
 0666. 🐛 fix: fix broken CSS in mobile view
+0441. 📚 docs: add API usage examples
