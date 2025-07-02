@@ -3659,3 +3659,4 @@
 0023. 📚 docs: clarify environment setup
 0558. ✨ feat: enable dark mode toggle
 0395. 📚 docs: write FAQ section
+0268. 🐛 fix: prevent crash on empty input
