@@ -10733,3 +10733,4 @@
 0287. 📚 docs: write FAQ section
 0803. ✅ test: mock database connection in test suite
 0831. 📚 docs: clarify environment setup
+0727. ♻️ chore: add GitHub actions badge
