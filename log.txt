@@ -5700,3 +5700,4 @@
 0035. ✅ test: increase coverage on auth module
 0285. 🐛 fix: resolve issue with date parsing
 0460. 📚 docs: write FAQ section
+0850. ♻️ chore: rename env.example
