@@ -5703,3 +5703,4 @@
 0850. ♻️ chore: rename env.example
 0465. 🎨 style: rename variables for clarity
 0015. ✨ feat: implement quiz timer feature
+0766. 🎨 style: reformat files with black
