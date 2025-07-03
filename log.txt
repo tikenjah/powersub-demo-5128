@@ -3685,3 +3685,4 @@
 0766. 🎨 style: reformat files with black
 0230. ✨ feat: create admin dashboard
 0376. 🎨 style: apply consistent indentation
+0528. ♻️ chore: clean up unused files
