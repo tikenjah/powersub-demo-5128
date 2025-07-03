@@ -9715,3 +9715,4 @@
 0968. 🎨 style: standardize quote style
 0247. 🎨 style: apply consistent indentation
 0762. 🚀 perf: lazy-load components
+0320. 📚 docs: update README with setup steps
