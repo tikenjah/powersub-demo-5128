@@ -10737,3 +10737,4 @@
 0929. ✨ feat: support email verification
 0193. 🚀 perf: optimize database query for quiz results
 0881. 🔧 refactor: split large controller into smaller functions
+0702. ✨ feat: add user authentication
