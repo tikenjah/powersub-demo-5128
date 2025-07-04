@@ -3690,3 +3690,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0624. ✅ test: add unit test for quiz service
 0086. 🐛 fix: correct typo in registration form
+0871. ✅ test: add integration test for /submit endpoint
