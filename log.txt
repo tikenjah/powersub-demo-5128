@@ -5710,3 +5710,4 @@
 0992. ♻️ chore: clean up unused files
 0295. 🎨 style: remove trailing whitespace
 0785. ✨ feat: enable dark mode toggle
+0596. ♻️ chore: update .gitignore
