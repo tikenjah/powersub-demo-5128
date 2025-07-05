@@ -5712,3 +5712,4 @@
 0785. ✨ feat: enable dark mode toggle
 0596. ♻️ chore: update .gitignore
 0370. 🚀 perf: reduce image load time
+0320. 📚 docs: update README with setup steps
