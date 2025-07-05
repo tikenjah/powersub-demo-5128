@@ -3707,3 +3707,4 @@
 0940. 📚 docs: document token refresh logic
 0988. 🐛 fix: fix broken CSS in mobile view
 0274. 🔧 refactor: refactor quiz grading logic
+0036. 🔧 refactor: clean up auth middleware
