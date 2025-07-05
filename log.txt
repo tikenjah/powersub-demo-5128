@@ -8719,3 +8719,4 @@
 0243. 🔧 refactor: clean up auth middleware
 0884. 📚 docs: clarify environment setup
 0422. 🔧 refactor: organize models into subfolders
+0745. ✅ test: add unit test for quiz service
