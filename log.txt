@@ -5716,3 +5716,4 @@
 0155. ✨ feat: create admin dashboard
 0036. 🔧 refactor: clean up auth middleware
 0617. ✨ feat: support email verification
+0107. 🐛 fix: prevent crash on empty input
