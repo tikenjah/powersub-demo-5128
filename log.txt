@@ -8721,3 +8721,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0745. ✅ test: add unit test for quiz service
 0520. 🐛 fix: fix null pointer exception on login
+0412. ✅ test: increase coverage on auth module
