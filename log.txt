@@ -6740,3 +6740,4 @@
 0939. 📚 docs: update README with setup steps
 0568. 🐛 fix: handle 500 error in quiz API
 0568. 🐛 fix: handle 500 error in quiz API
+0713. 🐛 fix: handle 500 error in quiz API
