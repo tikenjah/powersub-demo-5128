@@ -3718,3 +3718,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0468. 📚 docs: update README with setup steps
 0289. 🐛 fix: resolve issue with date parsing
+0037. 🐛 fix: correct typo in registration form
