@@ -10743,3 +10743,4 @@
 0798. 🚀 perf: reduce image load time
 0591. ♻️ chore: clean up unused files
 0840. 🔧 refactor: refactor quiz grading logic
+0623. 🎨 style: standardize quote style
