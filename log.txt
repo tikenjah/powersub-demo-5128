@@ -6742,3 +6742,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0713. 🐛 fix: handle 500 error in quiz API
 0063. 🐛 fix: handle 500 error in quiz API
+0643. 🎨 style: apply consistent indentation
