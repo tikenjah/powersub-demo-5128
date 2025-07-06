@@ -3724,3 +3724,4 @@
 0801. ✨ feat: enable dark mode toggle
 0228. 🔧 refactor: remove redundant code blocks
 0485. 📚 docs: update README with setup steps
+0415. 🐛 fix: handle 500 error in quiz API
