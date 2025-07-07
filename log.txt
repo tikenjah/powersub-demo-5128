@@ -8726,3 +8726,4 @@
 0888. 🚀 perf: lazy-load components
 0864. 🐛 fix: correct typo in registration form
 0048. 📚 docs: update README with setup steps
+0556. ✨ feat: support email verification
