@@ -5718,3 +5718,4 @@
 0617. ✨ feat: support email verification
 0107. 🐛 fix: prevent crash on empty input
 0150. 🎨 style: remove trailing whitespace
+0519. 📚 docs: document token refresh logic
