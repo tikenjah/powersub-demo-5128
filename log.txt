@@ -3733,3 +3733,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0339. 📚 docs: update README with setup steps
 0567. 📚 docs: add API usage examples
+0652. 🔧 refactor: organize models into subfolders
