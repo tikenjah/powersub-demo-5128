@@ -3731,3 +3731,4 @@
 0434. 📚 docs: document token refresh logic
 0061. ✨ feat: create admin dashboard
 0246. ✅ test: add integration test for /submit endpoint
+0339. 📚 docs: update README with setup steps
