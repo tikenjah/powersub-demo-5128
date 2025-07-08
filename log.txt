@@ -3743,3 +3743,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0833. ✨ feat: add user authentication
 0220. 🐛 fix: fix null pointer exception on login
+0593. 🐛 fix: correct typo in registration form
