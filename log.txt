@@ -8733,3 +8733,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0784. ♻️ chore: clean up unused files
 0103. 🔧 refactor: remove redundant code blocks
+0029. 🚀 perf: lazy-load components
