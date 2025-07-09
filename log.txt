@@ -6754,3 +6754,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0992. ♻️ chore: clean up unused files
 0478. 🐛 fix: resolve issue with date parsing
+0583. ✅ test: increase coverage on auth module
