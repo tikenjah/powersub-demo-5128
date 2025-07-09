@@ -3755,3 +3755,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0459. 🔧 refactor: organize models into subfolders
 0760. 🐛 fix: resolve issue with date parsing
+0676. 🐛 fix: prevent crash on empty input
