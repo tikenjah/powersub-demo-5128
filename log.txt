@@ -5723,3 +5723,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0653. 🐛 fix: prevent crash on empty input
 0590. 🐛 fix: fix null pointer exception on login
+0722. 📚 docs: add API usage examples
