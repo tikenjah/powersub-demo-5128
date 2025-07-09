@@ -5721,3 +5721,4 @@
 0519. 📚 docs: document token refresh logic
 0127. 🐛 fix: fix null pointer exception on login
 0539. 🔧 refactor: organize models into subfolders
+0653. 🐛 fix: prevent crash on empty input
