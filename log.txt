@@ -5727,3 +5727,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0124. 🎨 style: reformat files with black
 0807. 🔧 refactor: remove redundant code blocks
+0054. ♻️ chore: update .gitignore
