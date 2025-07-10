@@ -6756,3 +6756,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0583. ✅ test: increase coverage on auth module
 0338. ♻️ chore: add GitHub actions badge
+0238. 🎨 style: apply consistent indentation
