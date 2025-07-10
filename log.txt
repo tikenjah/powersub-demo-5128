@@ -3773,3 +3773,4 @@
 0604. 📚 docs: add API usage examples
 0135. ✅ test: test user registration edge cases
 0885. ♻️ chore: update .gitignore
+0512. 🚀 perf: reduce image load time
