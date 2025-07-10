@@ -3762,3 +3762,4 @@
 0438. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
 0794. ♻️ chore: clean up unused files
+0706. ✨ feat: support email verification
