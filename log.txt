@@ -3768,3 +3768,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0366. 🔧 refactor: remove redundant code blocks
 0960. ✅ test: increase coverage on auth module
+0656. 🎨 style: apply consistent indentation
