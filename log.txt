@@ -6755,3 +6755,4 @@
 0992. ♻️ chore: clean up unused files
 0478. 🐛 fix: resolve issue with date parsing
 0583. ✅ test: increase coverage on auth module
+0338. ♻️ chore: add GitHub actions badge
