@@ -7746,3 +7746,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0944. ✨ feat: add user authentication
 0052. 🎨 style: standardize quote style
+0128. ♻️ chore: rename env.example
