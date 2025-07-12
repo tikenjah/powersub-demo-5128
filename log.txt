@@ -3784,3 +3784,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0115. 🚀 perf: reduce image load time
 0063. 🐛 fix: handle 500 error in quiz API
+0090. ✅ test: increase coverage on auth module
