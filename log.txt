@@ -10758,3 +10758,4 @@
 0056. ♻️ chore: rename env.example
 0215. 🎨 style: reformat files with black
 0006. 🐛 fix: prevent crash on empty input
+0013. ✅ test: increase coverage on auth module
