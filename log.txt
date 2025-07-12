@@ -3789,3 +3789,4 @@
 0980. 🎨 style: reformat files with black
 0982. 🚀 perf: lazy-load components
 0480. ♻️ chore: add GitHub actions badge
+0849. 🐛 fix: correct typo in registration form
