@@ -10757,3 +10757,4 @@
 0902. ✨ feat: enable dark mode toggle
 0056. ♻️ chore: rename env.example
 0215. 🎨 style: reformat files with black
+0006. 🐛 fix: prevent crash on empty input
