@@ -3799,3 +3799,4 @@
 0357. ✅ test: add unit test for quiz service
 0420. 🚀 perf: reduce image load time
 0185. 📚 docs: write FAQ section
+0582. ✨ feat: add export to CSV option
