@@ -8748,3 +8748,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0614. 🚀 perf: reduce image load time
 0420. 🚀 perf: reduce image load time
+0590. 🐛 fix: fix null pointer exception on login
