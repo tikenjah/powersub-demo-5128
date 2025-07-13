@@ -3800,3 +3800,4 @@
 0420. 🚀 perf: reduce image load time
 0185. 📚 docs: write FAQ section
 0582. ✨ feat: add export to CSV option
+0850. ♻️ chore: rename env.example
