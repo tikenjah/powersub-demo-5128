@@ -7756,3 +7756,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0908. ♻️ chore: bump dependencies
 0195. 📚 docs: clarify environment setup
+0078. ♻️ chore: update .gitignore
