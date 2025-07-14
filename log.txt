@@ -3826,3 +3826,4 @@
 0470. 🎨 style: remove trailing whitespace
 0549. ✨ feat: enable dark mode toggle
 0749. ✨ feat: support email verification
+0678. ✨ feat: add user authentication
