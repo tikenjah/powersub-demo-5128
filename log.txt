@@ -9734,3 +9734,4 @@
 0620. ✨ feat: implement quiz timer feature
 0168. ✅ test: add integration test for /submit endpoint
 0788. 📚 docs: add API usage examples
+0229. 🚀 perf: optimize database query for quiz results
