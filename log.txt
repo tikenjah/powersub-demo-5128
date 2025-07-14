@@ -3817,3 +3817,4 @@
 0297. 🎨 style: remove trailing whitespace
 0893. 🐛 fix: handle 500 error in quiz API
 0852. ✨ feat: enable dark mode toggle
+0998. 🐛 fix: fix null pointer exception on login
