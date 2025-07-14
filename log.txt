@@ -3809,3 +3809,4 @@
 0670. ✨ feat: add export to CSV option
 0236. 🔧 refactor: remove redundant code blocks
 0258. 🐛 fix: prevent crash on empty input
+0489. 🔧 refactor: organize models into subfolders
