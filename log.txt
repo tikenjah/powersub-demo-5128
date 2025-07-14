@@ -3819,3 +3819,4 @@
 0852. ✨ feat: enable dark mode toggle
 0998. 🐛 fix: fix null pointer exception on login
 0351. ✨ feat: add export to CSV option
+0759. 🔧 refactor: organize models into subfolders
