@@ -3811,3 +3811,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0489. 🔧 refactor: organize models into subfolders
 0254. 🚀 perf: reduce image load time
+0078. ♻️ chore: update .gitignore
