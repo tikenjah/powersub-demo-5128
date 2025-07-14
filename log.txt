@@ -8751,3 +8751,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0717. 🔧 refactor: refactor quiz grading logic
 0431. 🎨 style: reformat files with black
+0615. 🐛 fix: correct typo in registration form
