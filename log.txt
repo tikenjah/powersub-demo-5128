@@ -7761,3 +7761,4 @@
 0392. 🎨 style: remove trailing whitespace
 0152. ✨ feat: add user authentication
 0997. ✅ test: increase coverage on auth module
+0809. ♻️ chore: rename env.example
