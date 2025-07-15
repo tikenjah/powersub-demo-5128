@@ -7760,3 +7760,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0392. 🎨 style: remove trailing whitespace
 0152. ✨ feat: add user authentication
+0997. ✅ test: increase coverage on auth module
