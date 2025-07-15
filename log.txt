@@ -10767,3 +10767,4 @@
 0678. ✨ feat: add user authentication
 0280. ✅ test: add integration test for /submit endpoint
 0309. 🔧 refactor: refactor quiz grading logic
+0391. 🐛 fix: fix null pointer exception on login
