@@ -3827,3 +3827,4 @@
 0549. ✨ feat: enable dark mode toggle
 0749. ✨ feat: support email verification
 0678. ✨ feat: add user authentication
+0849. 🐛 fix: correct typo in registration form
