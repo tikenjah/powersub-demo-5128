@@ -5749,3 +5749,4 @@
 0106. 🎨 style: reformat files with black
 0123. ✨ feat: implement quiz timer feature
 0305. ✨ feat: enable dark mode toggle
+0718. 🐛 fix: resolve issue with date parsing
