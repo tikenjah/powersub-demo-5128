@@ -3854,3 +3854,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0402. 🎨 style: reformat files with black
 0793. 📚 docs: clarify environment setup
+0866. 📚 docs: add API usage examples
