@@ -6770,3 +6770,4 @@
 0567. 📚 docs: add API usage examples
 0281. ✨ feat: support email verification
 0952. 🔧 refactor: split large controller into smaller functions
+0579. 📚 docs: clarify environment setup
