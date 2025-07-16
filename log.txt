@@ -10771,3 +10771,4 @@
 0257. 📚 docs: clarify environment setup
 0491. 🚀 perf: lazy-load components
 0568. 🐛 fix: handle 500 error in quiz API
+0205. 📚 docs: update README with setup steps
