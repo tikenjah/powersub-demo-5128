@@ -5751,3 +5751,4 @@
 0305. ✨ feat: enable dark mode toggle
 0718. 🐛 fix: resolve issue with date parsing
 0174. 📚 docs: clarify environment setup
+0279. ✨ feat: support email verification
