@@ -6773,3 +6773,4 @@
 0579. 📚 docs: clarify environment setup
 0514. 🐛 fix: fix broken CSS in mobile view
 0379. ✨ feat: support email verification
+0420. 🚀 perf: reduce image load time
