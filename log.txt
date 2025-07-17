@@ -3864,3 +3864,4 @@
 0470. 🎨 style: remove trailing whitespace
 0769. ✨ feat: create admin dashboard
 0193. 🚀 perf: optimize database query for quiz results
+0429. ✨ feat: add user authentication
