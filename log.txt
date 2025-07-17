@@ -10773,3 +10773,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0205. 📚 docs: update README with setup steps
 0593. 🐛 fix: correct typo in registration form
+0994. 🚀 perf: reduce image load time
