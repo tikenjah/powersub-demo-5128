@@ -6780,3 +6780,4 @@
 0464. 🎨 style: remove trailing whitespace
 0518. ✨ feat: support email verification
 0080. ✨ feat: support email verification
+0402. 🎨 style: reformat files with black
