@@ -3873,3 +3873,4 @@
 0797. 📚 docs: add API usage examples
 0151. ✅ test: add unit test for quiz service
 0407. 🚀 perf: cache repeated calculations
+0579. 📚 docs: clarify environment setup
