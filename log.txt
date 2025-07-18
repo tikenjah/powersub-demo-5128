@@ -3876,3 +3876,4 @@
 0579. 📚 docs: clarify environment setup
 0522. 🐛 fix: handle 500 error in quiz API
 0685. ✅ test: test user registration edge cases
+0451. ✨ feat: support email verification
