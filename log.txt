@@ -3872,3 +3872,4 @@
 0244. ✨ feat: add export to CSV option
 0797. 📚 docs: add API usage examples
 0151. ✅ test: add unit test for quiz service
+0407. 🚀 perf: cache repeated calculations
