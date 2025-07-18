@@ -3880,3 +3880,4 @@
 0308. 🚀 perf: reduce image load time
 0936. 🔧 refactor: organize models into subfolders
 0203. 🚀 perf: lazy-load components
+0623. 🎨 style: standardize quote style
