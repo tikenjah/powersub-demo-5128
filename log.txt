@@ -6785,3 +6785,4 @@
 0866. 📚 docs: add API usage examples
 0593. 🐛 fix: correct typo in registration form
 0762. 🚀 perf: lazy-load components
+0848. 📚 docs: update README with setup steps
