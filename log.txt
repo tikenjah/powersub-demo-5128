@@ -8764,3 +8764,4 @@
 0884. 📚 docs: clarify environment setup
 0649. 📚 docs: update README with setup steps
 0071. 🔧 refactor: refactor quiz grading logic
+0611. ✅ test: test user registration edge cases
