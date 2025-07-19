@@ -8762,3 +8762,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0578. ✅ test: add integration test for /submit endpoint
 0884. 📚 docs: clarify environment setup
+0649. 📚 docs: update README with setup steps
