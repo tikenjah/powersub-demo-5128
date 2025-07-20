@@ -3908,3 +3908,4 @@
 0342. 🚀 perf: cache repeated calculations
 0925. ✨ feat: add export to CSV option
 0254. 🚀 perf: reduce image load time
+0732. ♻️ chore: add GitHub actions badge
