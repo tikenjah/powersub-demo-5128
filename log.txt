@@ -3903,3 +3903,4 @@
 0971. 🎨 style: standardize quote style
 0049. 🐛 fix: handle 500 error in quiz API
 0853. 🔧 refactor: refactor quiz grading logic
+0647. 🐛 fix: prevent crash on empty input
