@@ -6788,3 +6788,4 @@
 0848. 📚 docs: update README with setup steps
 0292. 📚 docs: clarify environment setup
 0556. ✨ feat: support email verification
+0715. ✨ feat: create admin dashboard
