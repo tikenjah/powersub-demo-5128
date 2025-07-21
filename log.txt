@@ -3914,3 +3914,4 @@
 0054. ♻️ chore: update .gitignore
 0098. 🎨 style: rename variables for clarity
 0348. ✅ test: test user registration edge cases
+0017. ✅ test: mock database connection in test suite
