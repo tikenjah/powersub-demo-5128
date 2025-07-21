@@ -8775,3 +8775,4 @@
 0916. ♻️ chore: bump dependencies
 0067. 🔧 refactor: remove redundant code blocks
 0459. 🔧 refactor: organize models into subfolders
+0394. 🚀 perf: lazy-load components
