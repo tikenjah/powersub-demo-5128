@@ -7774,3 +7774,4 @@
 0216. 🎨 style: rename variables for clarity
 0329. 📚 docs: update README with setup steps
 0406. ✨ feat: add export to CSV option
+0740. 🐛 fix: resolve issue with date parsing
