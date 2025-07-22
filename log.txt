@@ -6789,3 +6789,4 @@
 0292. 📚 docs: clarify environment setup
 0556. ✨ feat: support email verification
 0715. ✨ feat: create admin dashboard
+0321. 🔧 refactor: organize models into subfolders
