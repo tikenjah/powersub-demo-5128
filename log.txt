@@ -3918,3 +3918,4 @@
 0852. ✨ feat: enable dark mode toggle
 0969. ✨ feat: create admin dashboard
 0117. ✅ test: increase coverage on auth module
+0647. 🐛 fix: prevent crash on empty input
