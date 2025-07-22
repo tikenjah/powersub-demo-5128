@@ -3930,3 +3930,4 @@
 0634. 🎨 style: reformat files with black
 0244. ✨ feat: add export to CSV option
 0815. 🔧 refactor: split large controller into smaller functions
+0570. 🎨 style: apply consistent indentation
