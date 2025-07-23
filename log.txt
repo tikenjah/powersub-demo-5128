@@ -3940,3 +3940,4 @@
 0131. 📚 docs: write FAQ section
 0056. ♻️ chore: rename env.example
 0248. 🐛 fix: handle 500 error in quiz API
+0295. 🎨 style: remove trailing whitespace
