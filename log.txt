@@ -9764,3 +9764,4 @@
 0638. 📚 docs: improve code comments in utils
 0305. ✨ feat: enable dark mode toggle
 0766. 🎨 style: reformat files with black
+0589. 🐛 fix: fix broken CSS in mobile view
