@@ -8778,3 +8778,4 @@
 0394. 🚀 perf: lazy-load components
 0492. 🎨 style: remove trailing whitespace
 0989. 📚 docs: write FAQ section
+0079. 🐛 fix: correct typo in registration form
