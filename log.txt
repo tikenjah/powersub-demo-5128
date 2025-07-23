@@ -3941,3 +3941,4 @@
 0056. ♻️ chore: rename env.example
 0248. 🐛 fix: handle 500 error in quiz API
 0295. 🎨 style: remove trailing whitespace
+0786. ✨ feat: enable dark mode toggle
