@@ -7781,3 +7781,4 @@
 0541. 🐛 fix: correct typo in registration form
 0228. 🔧 refactor: remove redundant code blocks
 0905. ♻️ chore: bump dependencies
+0567. 📚 docs: add API usage examples
