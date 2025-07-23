@@ -8779,3 +8779,4 @@
 0492. 🎨 style: remove trailing whitespace
 0989. 📚 docs: write FAQ section
 0079. 🐛 fix: correct typo in registration form
+0578. ✅ test: add integration test for /submit endpoint
