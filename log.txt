@@ -9765,3 +9765,4 @@
 0305. ✨ feat: enable dark mode toggle
 0766. 🎨 style: reformat files with black
 0589. 🐛 fix: fix broken CSS in mobile view
+0633. ✨ feat: add user authentication
