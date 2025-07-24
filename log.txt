@@ -6796,3 +6796,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0127. 🐛 fix: fix null pointer exception on login
 0908. ♻️ chore: bump dependencies
+0575. ✅ test: add unit test for quiz service
