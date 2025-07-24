@@ -6794,3 +6794,4 @@
 0102. ✨ feat: support email verification
 0176. 🔧 refactor: remove redundant code blocks
 0039. ✅ test: add integration test for /submit endpoint
+0127. 🐛 fix: fix null pointer exception on login
