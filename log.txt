@@ -3945,3 +3945,4 @@
 0654. ✨ feat: create admin dashboard
 0289. 🐛 fix: resolve issue with date parsing
 0870. ♻️ chore: clean up unused files
+0335. ♻️ chore: update .gitignore
