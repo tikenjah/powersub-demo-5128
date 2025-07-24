@@ -3949,3 +3949,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0511. 🐛 fix: fix broken CSS in mobile view
 0273. 🚀 perf: reduce image load time
+0675. 🔧 refactor: organize models into subfolders
