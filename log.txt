@@ -6798,3 +6798,4 @@
 0908. ♻️ chore: bump dependencies
 0575. ✅ test: add unit test for quiz service
 0768. 🎨 style: remove trailing whitespace
+0243. 🔧 refactor: clean up auth middleware
