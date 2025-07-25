@@ -3959,3 +3959,4 @@
 0013. ✅ test: increase coverage on auth module
 0327. 🔧 refactor: split large controller into smaller functions
 0014. 🔧 refactor: remove redundant code blocks
+0926. 🔧 refactor: organize models into subfolders
