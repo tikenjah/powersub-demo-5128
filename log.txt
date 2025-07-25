@@ -5780,3 +5780,4 @@
 0610. 🚀 perf: lazy-load components
 0616. 🚀 perf: lazy-load components
 0493. ✨ feat: add user authentication
+0614. 🚀 perf: reduce image load time
