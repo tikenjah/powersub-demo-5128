@@ -3965,3 +3965,4 @@
 0876. ♻️ chore: rename env.example
 0035. ✅ test: increase coverage on auth module
 0629. 🔧 refactor: organize models into subfolders
+0538. 🐛 fix: fix broken CSS in mobile view
