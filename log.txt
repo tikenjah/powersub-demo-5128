@@ -8785,3 +8785,4 @@
 0516. ✅ test: add unit test for quiz service
 0889. 🚀 perf: lazy-load components
 0304. 🔧 refactor: remove redundant code blocks
+0166. 🚀 perf: cache repeated calculations
