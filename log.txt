@@ -3977,3 +3977,4 @@
 0709. ♻️ chore: bump dependencies
 0029. 🚀 perf: lazy-load components
 0476. 🚀 perf: reduce image load time
+0543. ✨ feat: support email verification
