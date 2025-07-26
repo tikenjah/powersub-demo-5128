@@ -3980,3 +3980,4 @@
 0543. ✨ feat: support email verification
 0539. 🔧 refactor: organize models into subfolders
 0834. ✅ test: increase coverage on auth module
+0866. 📚 docs: add API usage examples
