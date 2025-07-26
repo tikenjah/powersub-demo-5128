@@ -10794,3 +10794,4 @@
 0090. ✅ test: increase coverage on auth module
 0961. 📚 docs: add API usage examples
 0498. ✅ test: mock database connection in test suite
+0507. 🔧 refactor: clean up auth middleware
