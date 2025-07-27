@@ -9775,3 +9775,4 @@
 0312. ✨ feat: add user authentication
 0906. 📚 docs: add API usage examples
 0512. 🚀 perf: reduce image load time
+0200. 🐛 fix: handle 500 error in quiz API
