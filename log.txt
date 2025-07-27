@@ -5786,3 +5786,4 @@
 0631. ✨ feat: create admin dashboard
 0326. 🚀 perf: cache repeated calculations
 0766. 🎨 style: reformat files with black
+0356. 📚 docs: write FAQ section
