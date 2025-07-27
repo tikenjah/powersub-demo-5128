@@ -3988,3 +3988,4 @@
 0113. ✨ feat: add user authentication
 0330. ✅ test: test user registration edge cases
 0603. 🐛 fix: fix broken CSS in mobile view
+0588. 🔧 refactor: organize models into subfolders
