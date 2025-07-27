@@ -7789,3 +7789,4 @@
 0180. ✨ feat: add export to CSV option
 0677. 📚 docs: add API usage examples
 0632. 🎨 style: remove trailing whitespace
+0776. ✅ test: add integration test for /submit endpoint
