@@ -9776,3 +9776,4 @@
 0906. 📚 docs: add API usage examples
 0512. 🚀 perf: reduce image load time
 0200. 🐛 fix: handle 500 error in quiz API
+0081. 🐛 fix: fix null pointer exception on login
