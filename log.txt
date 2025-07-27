@@ -3987,3 +3987,4 @@
 0872. 🎨 style: rename variables for clarity
 0113. ✨ feat: add user authentication
 0330. ✅ test: test user registration edge cases
+0603. 🐛 fix: fix broken CSS in mobile view
