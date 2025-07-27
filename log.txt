@@ -3991,3 +3991,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0804. ♻️ chore: add GitHub actions badge
 0789. ✨ feat: create admin dashboard
+0399. ✅ test: mock database connection in test suite
