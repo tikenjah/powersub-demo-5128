@@ -3998,3 +3998,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0773. 📚 docs: document token refresh logic
 0362. 📚 docs: add API usage examples
+0253. 📚 docs: update README with setup steps
