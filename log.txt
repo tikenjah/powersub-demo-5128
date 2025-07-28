@@ -9777,3 +9777,4 @@
 0512. 🚀 perf: reduce image load time
 0200. 🐛 fix: handle 500 error in quiz API
 0081. 🐛 fix: fix null pointer exception on login
+0226. 🚀 perf: lazy-load components
