@@ -5789,3 +5789,4 @@
 0356. 📚 docs: write FAQ section
 0780. 📚 docs: add API usage examples
 0509. ♻️ chore: bump dependencies
+0428. 🐛 fix: fix null pointer exception on login
