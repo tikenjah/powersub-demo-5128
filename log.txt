@@ -6808,3 +6808,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0203. 🚀 perf: lazy-load components
 0940. 📚 docs: document token refresh logic
+0709. ♻️ chore: bump dependencies
