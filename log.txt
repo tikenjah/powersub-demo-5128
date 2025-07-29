@@ -6810,3 +6810,4 @@
 0940. 📚 docs: document token refresh logic
 0709. ♻️ chore: bump dependencies
 0227. ✅ test: test user registration edge cases
+0131. 📚 docs: write FAQ section
