@@ -7795,3 +7795,4 @@
 0237. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
 0958. 🐛 fix: prevent crash on empty input
+0597. 🚀 perf: cache repeated calculations
