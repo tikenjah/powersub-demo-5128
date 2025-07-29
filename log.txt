@@ -4013,3 +4013,4 @@
 0048. 📚 docs: update README with setup steps
 0251. ♻️ chore: update .gitignore
 0957. 🐛 fix: fix null pointer exception on login
+0295. 🎨 style: remove trailing whitespace
