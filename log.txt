@@ -10804,3 +10804,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0537. 🔧 refactor: remove redundant code blocks
 0666. 🐛 fix: fix broken CSS in mobile view
+0066. 🔧 refactor: clean up auth middleware
