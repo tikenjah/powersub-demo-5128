@@ -9781,3 +9781,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0662. ♻️ chore: clean up unused files
 0929. ✨ feat: support email verification
+0567. 📚 docs: add API usage examples
