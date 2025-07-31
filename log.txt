@@ -4036,3 +4036,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0064. 📚 docs: clarify environment setup
 0453. 🎨 style: standardize quote style
+0450. 🐛 fix: fix broken CSS in mobile view
