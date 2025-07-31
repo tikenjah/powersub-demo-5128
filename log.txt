@@ -10808,3 +10808,4 @@
 0790. 📚 docs: write FAQ section
 0520. 🐛 fix: fix null pointer exception on login
 0123. ✨ feat: implement quiz timer feature
+0678. ✨ feat: add user authentication
