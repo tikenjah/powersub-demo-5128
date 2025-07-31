@@ -9786,3 +9786,4 @@
 0624. ✅ test: add unit test for quiz service
 0608. 🔧 refactor: remove redundant code blocks
 0801. ✨ feat: enable dark mode toggle
+0770. ♻️ chore: rename env.example
