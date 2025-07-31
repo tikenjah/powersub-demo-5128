@@ -5797,3 +5797,4 @@
 0517. ✅ test: mock database connection in test suite
 0928. 🎨 style: apply consistent indentation
 0360. ✨ feat: add export to CSV option
+0231. 🔧 refactor: clean up auth middleware
