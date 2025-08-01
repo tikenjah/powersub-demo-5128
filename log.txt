@@ -4051,3 +4051,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0009. ✨ feat: enable dark mode toggle
 0824. 🚀 perf: lazy-load components
+0603. 🐛 fix: fix broken CSS in mobile view
