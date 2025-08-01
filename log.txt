@@ -4041,3 +4041,4 @@
 0756. ✨ feat: support email verification
 0164. 📚 docs: document token refresh logic
 0797. 📚 docs: add API usage examples
+0884. 📚 docs: clarify environment setup
