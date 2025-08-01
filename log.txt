@@ -4039,3 +4039,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0711. 🐛 fix: fix broken CSS in mobile view
 0756. ✨ feat: support email verification
+0164. 📚 docs: document token refresh logic
