@@ -8808,3 +8808,4 @@
 0525. ✅ test: mock database connection in test suite
 0288. 🔧 refactor: refactor quiz grading logic
 0021. ✨ feat: support email verification
+0116. ✨ feat: support email verification
