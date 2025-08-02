@@ -4057,3 +4057,4 @@
 0370. 🚀 perf: reduce image load time
 0476. 🚀 perf: reduce image load time
 0248. 🐛 fix: handle 500 error in quiz API
+0562. 🔧 refactor: clean up auth middleware
