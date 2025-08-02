@@ -5800,3 +5800,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0910. 🎨 style: remove trailing whitespace
 0671. 🐛 fix: fix null pointer exception on login
+0777. 📚 docs: document token refresh logic
