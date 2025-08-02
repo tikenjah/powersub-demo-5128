@@ -4062,3 +4062,4 @@
 0778. 📚 docs: write FAQ section
 0933. 📚 docs: clarify environment setup
 0596. ♻️ chore: update .gitignore
+0788. 📚 docs: add API usage examples
