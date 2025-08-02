@@ -4059,3 +4059,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0562. 🔧 refactor: clean up auth middleware
 0626. 🎨 style: standardize quote style
+0778. 📚 docs: write FAQ section
