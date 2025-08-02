@@ -4060,3 +4060,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0626. 🎨 style: standardize quote style
 0778. 📚 docs: write FAQ section
+0933. 📚 docs: clarify environment setup
