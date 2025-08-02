@@ -4064,3 +4064,4 @@
 0596. ♻️ chore: update .gitignore
 0788. 📚 docs: add API usage examples
 0761. ✅ test: add unit test for quiz service
+0178. ✨ feat: support email verification
