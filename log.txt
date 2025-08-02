@@ -7807,3 +7807,4 @@
 0279. ✨ feat: support email verification
 0256. ✅ test: mock database connection in test suite
 0034. 📚 docs: improve code comments in utils
+0978. 🐛 fix: prevent crash on empty input
