@@ -4056,3 +4056,4 @@
 0225. 🚀 perf: reduce image load time
 0370. 🚀 perf: reduce image load time
 0476. 🚀 perf: reduce image load time
+0248. 🐛 fix: handle 500 error in quiz API
