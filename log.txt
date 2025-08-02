@@ -4066,3 +4066,4 @@
 0761. ✅ test: add unit test for quiz service
 0178. ✨ feat: support email verification
 0462. ♻️ chore: update .gitignore
+0331. 🐛 fix: fix broken CSS in mobile view
