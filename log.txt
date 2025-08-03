@@ -10814,3 +10814,4 @@
 0161. ✨ feat: create admin dashboard
 0186. ✅ test: test user registration edge cases
 0209. ✨ feat: implement quiz timer feature
+0384. 📚 docs: clarify environment setup
