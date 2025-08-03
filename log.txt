@@ -7811,3 +7811,4 @@
 0594. 🎨 style: reformat files with black
 0093. ✅ test: add unit test for quiz service
 0275. 🎨 style: standardize quote style
+0020. ✅ test: add integration test for /submit endpoint
