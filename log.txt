@@ -8810,3 +8810,4 @@
 0021. ✨ feat: support email verification
 0116. ✨ feat: support email verification
 0362. 📚 docs: add API usage examples
+0128. ♻️ chore: rename env.example
