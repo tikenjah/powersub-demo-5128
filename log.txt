@@ -4081,3 +4081,4 @@
 0324. 📚 docs: document token refresh logic
 0443. 🎨 style: standardize quote style
 0532. 🔧 refactor: split large controller into smaller functions
+0186. ✅ test: test user registration edge cases
