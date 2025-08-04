@@ -9797,3 +9797,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0589. 🐛 fix: fix broken CSS in mobile view
 0212. 🎨 style: standardize quote style
+0141. 📚 docs: document token refresh logic
