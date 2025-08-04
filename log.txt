@@ -8813,3 +8813,4 @@
 0128. ♻️ chore: rename env.example
 0424. ✨ feat: add user authentication
 0979. 🎨 style: standardize quote style
+0659. 📚 docs: add API usage examples
