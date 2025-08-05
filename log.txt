@@ -4093,3 +4093,4 @@
 0395. 📚 docs: write FAQ section
 0676. 🐛 fix: prevent crash on empty input
 0455. ♻️ chore: clean up unused files
+0336. ✨ feat: add export to CSV option
