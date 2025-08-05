@@ -4098,3 +4098,4 @@
 0969. ✨ feat: create admin dashboard
 0784. ♻️ chore: clean up unused files
 0497. 🔧 refactor: refactor quiz grading logic
+0291. 📚 docs: write FAQ section
