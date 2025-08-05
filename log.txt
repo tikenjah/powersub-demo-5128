@@ -5811,3 +5811,4 @@
 0646. ✅ test: test user registration edge cases
 0658. 🎨 style: rename variables for clarity
 0293. ✅ test: add integration test for /submit endpoint
+0558. ✨ feat: enable dark mode toggle
