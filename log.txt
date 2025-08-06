@@ -4106,3 +4106,4 @@
 0551. 📚 docs: write FAQ section
 0306. 🎨 style: apply consistent indentation
 0531. 🐛 fix: prevent crash on empty input
+0158. 📚 docs: clarify environment setup
