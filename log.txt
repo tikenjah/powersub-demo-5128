@@ -9804,3 +9804,4 @@
 0922. 📚 docs: write FAQ section
 0128. ♻️ chore: rename env.example
 0117. ✅ test: increase coverage on auth module
+0997. ✅ test: increase coverage on auth module
