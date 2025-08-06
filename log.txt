@@ -9806,3 +9806,4 @@
 0117. ✅ test: increase coverage on auth module
 0997. ✅ test: increase coverage on auth module
 0730. ✅ test: test user registration edge cases
+0103. 🔧 refactor: remove redundant code blocks
