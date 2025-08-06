@@ -4116,3 +4116,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0920. 🔧 refactor: organize models into subfolders
 0144. ✅ test: increase coverage on auth module
+0814. 🔧 refactor: remove redundant code blocks
