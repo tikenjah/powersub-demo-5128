@@ -8821,3 +8821,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0121. ✨ feat: support email verification
 0605. ✨ feat: support email verification
+0520. 🐛 fix: fix null pointer exception on login
