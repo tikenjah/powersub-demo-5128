@@ -5813,3 +5813,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0558. ✨ feat: enable dark mode toggle
 0056. ♻️ chore: rename env.example
+0676. 🐛 fix: prevent crash on empty input
