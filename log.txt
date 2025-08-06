@@ -7823,3 +7823,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0345. 📚 docs: document token refresh logic
 0249. ✅ test: increase coverage on auth module
+0641. 📚 docs: write FAQ section
