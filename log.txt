@@ -4118,3 +4118,4 @@
 0144. ✅ test: increase coverage on auth module
 0814. 🔧 refactor: remove redundant code blocks
 0112. ✨ feat: enable dark mode toggle
+0517. ✅ test: mock database connection in test suite
