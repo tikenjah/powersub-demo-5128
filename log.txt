@@ -4105,3 +4105,4 @@
 0663. 🚀 perf: reduce image load time
 0551. 📚 docs: write FAQ section
 0306. 🎨 style: apply consistent indentation
+0531. 🐛 fix: prevent crash on empty input
