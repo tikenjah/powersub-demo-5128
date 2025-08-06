@@ -5814,3 +5814,4 @@
 0558. ✨ feat: enable dark mode toggle
 0056. ♻️ chore: rename env.example
 0676. 🐛 fix: prevent crash on empty input
+0629. 🔧 refactor: organize models into subfolders
