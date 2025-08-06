@@ -7825,3 +7825,4 @@
 0249. ✅ test: increase coverage on auth module
 0641. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
+0322. 🔧 refactor: split large controller into smaller functions
