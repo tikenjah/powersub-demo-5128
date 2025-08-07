@@ -4133,3 +4133,4 @@
 0227. ✅ test: test user registration edge cases
 0376. 🎨 style: apply consistent indentation
 0940. 📚 docs: document token refresh logic
+0335. ♻️ chore: update .gitignore
