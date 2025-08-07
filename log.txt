@@ -4123,3 +4123,4 @@
 0292. 📚 docs: clarify environment setup
 0623. 🎨 style: standardize quote style
 0227. ✅ test: test user registration edge cases
+0268. 🐛 fix: prevent crash on empty input
