@@ -7830,3 +7830,4 @@
 0324. 📚 docs: document token refresh logic
 0479. 🐛 fix: fix null pointer exception on login
 0577. ✨ feat: implement quiz timer feature
+0397. 🐛 fix: handle 500 error in quiz API
