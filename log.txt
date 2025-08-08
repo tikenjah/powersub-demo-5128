@@ -9813,3 +9813,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0536. ✨ feat: add user authentication
 0273. 🚀 perf: reduce image load time
+0172. 📚 docs: add API usage examples
