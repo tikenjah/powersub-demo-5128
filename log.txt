@@ -7837,3 +7837,4 @@
 0527. 🎨 style: remove trailing whitespace
 0375. 🐛 fix: handle 500 error in quiz API
 0608. 🔧 refactor: remove redundant code blocks
+0413. ✅ test: add integration test for /submit endpoint
