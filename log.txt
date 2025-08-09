@@ -4153,3 +4153,4 @@
 0838. 🎨 style: standardize quote style
 0237. 🎨 style: standardize quote style
 0569. 📚 docs: document token refresh logic
+0676. 🐛 fix: prevent crash on empty input
