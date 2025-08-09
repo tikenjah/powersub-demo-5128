@@ -6835,3 +6835,4 @@
 0362. 📚 docs: add API usage examples
 0725. 🚀 perf: lazy-load components
 0509. ♻️ chore: bump dependencies
+0828. ♻️ chore: add GitHub actions badge
