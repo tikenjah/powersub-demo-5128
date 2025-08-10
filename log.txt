@@ -4164,3 +4164,4 @@
 0490. ✨ feat: create admin dashboard
 0900. 🐛 fix: handle 500 error in quiz API
 0360. ✨ feat: add export to CSV option
+0493. ✨ feat: add user authentication
