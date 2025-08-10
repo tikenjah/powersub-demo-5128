@@ -9825,3 +9825,4 @@
 0300. ✨ feat: add export to CSV option
 0415. 🐛 fix: handle 500 error in quiz API
 0812. 🔧 refactor: refactor quiz grading logic
+0701. 🔧 refactor: clean up auth middleware
