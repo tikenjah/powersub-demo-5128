@@ -8832,3 +8832,4 @@
 0862. ♻️ chore: bump dependencies
 0826. 📚 docs: clarify environment setup
 0916. ♻️ chore: bump dependencies
+0781. 🚀 perf: reduce image load time
