@@ -4169,3 +4169,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0525. ✅ test: mock database connection in test suite
 0500. ✅ test: add integration test for /submit endpoint
+0298. ♻️ chore: update .gitignore
