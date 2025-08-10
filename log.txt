@@ -7843,3 +7843,4 @@
 0406. ✨ feat: add export to CSV option
 0010. ✨ feat: add user authentication
 0557. 🔧 refactor: clean up auth middleware
+0196. ♻️ chore: bump dependencies
