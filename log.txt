@@ -5825,3 +5825,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0357. ✅ test: add unit test for quiz service
 0649. 📚 docs: update README with setup steps
+0873. 🚀 perf: cache repeated calculations
