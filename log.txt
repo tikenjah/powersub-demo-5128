@@ -5829,3 +5829,4 @@
 0641. 📚 docs: write FAQ section
 0615. 🐛 fix: correct typo in registration form
 0362. 📚 docs: add API usage examples
+0359. 🔧 refactor: clean up auth middleware
