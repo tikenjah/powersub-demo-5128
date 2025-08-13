@@ -6844,3 +6844,4 @@
 0336. ✨ feat: add export to CSV option
 0605. ✨ feat: support email verification
 0797. 📚 docs: add API usage examples
+0409. 🚀 perf: lazy-load components
