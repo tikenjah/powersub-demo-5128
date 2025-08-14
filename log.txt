@@ -6846,3 +6846,4 @@
 0797. 📚 docs: add API usage examples
 0409. 🚀 perf: lazy-load components
 0896. 🚀 perf: reduce image load time
+0829. 🔧 refactor: organize models into subfolders
