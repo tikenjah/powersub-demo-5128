@@ -4232,3 +4232,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0612. ✅ test: test user registration edge cases
 0059. ♻️ chore: bump dependencies
+0035. ✅ test: increase coverage on auth module
