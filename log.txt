@@ -4227,3 +4227,4 @@
 0123. ✨ feat: implement quiz timer feature
 0681. ✨ feat: create admin dashboard
 0602. 🔧 refactor: remove redundant code blocks
+0480. ♻️ chore: add GitHub actions badge
