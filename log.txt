@@ -4223,3 +4223,4 @@
 0167. 🚀 perf: reduce image load time
 0615. 🐛 fix: correct typo in registration form
 0544. 🔧 refactor: organize models into subfolders
+0863. 🐛 fix: correct typo in registration form
