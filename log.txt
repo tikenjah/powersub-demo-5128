@@ -4239,3 +4239,4 @@
 0286. ✅ test: mock database connection in test suite
 0164. 📚 docs: document token refresh logic
 0771. 🚀 perf: cache repeated calculations
+0747. 🔧 refactor: clean up auth middleware
