@@ -10842,3 +10842,4 @@
 0777. 📚 docs: document token refresh logic
 0657. 🎨 style: standardize quote style
 0194. 🎨 style: standardize quote style
+0296. 🔧 refactor: organize models into subfolders
