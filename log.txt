@@ -5838,3 +5838,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0855. 🎨 style: reformat files with black
 0348. ✅ test: test user registration edge cases
+0581. ✅ test: add integration test for /submit endpoint
