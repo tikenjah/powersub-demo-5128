@@ -4235,3 +4235,4 @@
 0035. ✅ test: increase coverage on auth module
 0524. ♻️ chore: rename env.example
 0045. 🎨 style: apply consistent indentation
+0535. 📚 docs: write FAQ section
