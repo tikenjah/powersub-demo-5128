@@ -4237,3 +4237,4 @@
 0045. 🎨 style: apply consistent indentation
 0535. 📚 docs: write FAQ section
 0286. ✅ test: mock database connection in test suite
+0164. 📚 docs: document token refresh logic
