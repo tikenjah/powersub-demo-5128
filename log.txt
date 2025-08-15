@@ -4234,3 +4234,4 @@
 0059. ♻️ chore: bump dependencies
 0035. ✅ test: increase coverage on auth module
 0524. ♻️ chore: rename env.example
+0045. 🎨 style: apply consistent indentation
