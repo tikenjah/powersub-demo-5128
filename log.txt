@@ -4240,3 +4240,4 @@
 0164. 📚 docs: document token refresh logic
 0771. 🚀 perf: cache repeated calculations
 0747. 🔧 refactor: clean up auth middleware
+0646. ✅ test: test user registration edge cases
