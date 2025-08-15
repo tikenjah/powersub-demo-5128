@@ -4247,3 +4247,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0114. ♻️ chore: update .gitignore
 0706. ✨ feat: support email verification
+0201. 🔧 refactor: clean up auth middleware
