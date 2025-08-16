@@ -4261,3 +4261,4 @@
 0420. 🚀 perf: reduce image load time
 0152. ✨ feat: add user authentication
 0932. ✅ test: add integration test for /submit endpoint
+0177. 📚 docs: add API usage examples
