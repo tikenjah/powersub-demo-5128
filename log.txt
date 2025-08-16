@@ -4249,3 +4249,4 @@
 0706. ✨ feat: support email verification
 0201. 🔧 refactor: clean up auth middleware
 0177. 📚 docs: add API usage examples
+0090. ✅ test: increase coverage on auth module
