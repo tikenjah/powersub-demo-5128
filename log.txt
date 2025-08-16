@@ -7851,3 +7851,4 @@
 0468. 📚 docs: update README with setup steps
 0961. 📚 docs: add API usage examples
 0781. 🚀 perf: reduce image load time
+0427. ✅ test: mock database connection in test suite
