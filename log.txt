@@ -4266,3 +4266,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0512. 🚀 perf: reduce image load time
 0353. ♻️ chore: rename env.example
+0106. 🎨 style: reformat files with black
