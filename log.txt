@@ -9841,3 +9841,4 @@
 0265. 🎨 style: reformat files with black
 0271. ✅ test: add unit test for quiz service
 0151. ✅ test: add unit test for quiz service
+0107. 🐛 fix: prevent crash on empty input
