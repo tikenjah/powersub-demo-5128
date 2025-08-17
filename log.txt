@@ -6856,3 +6856,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0519. 📚 docs: document token refresh logic
 0133. 🐛 fix: fix null pointer exception on login
+0050. ✨ feat: enable dark mode toggle
