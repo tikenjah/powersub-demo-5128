@@ -8851,3 +8851,4 @@
 0412. ✅ test: increase coverage on auth module
 0421. 🔧 refactor: split large controller into smaller functions
 0177. 📚 docs: add API usage examples
+0201. 🔧 refactor: clean up auth middleware
