@@ -9839,3 +9839,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0350. 🚀 perf: cache repeated calculations
 0265. 🎨 style: reformat files with black
+0271. ✅ test: add unit test for quiz service
