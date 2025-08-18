@@ -8856,3 +8856,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0344. ♻️ chore: add GitHub actions badge
 0198. 📚 docs: clarify environment setup
+0556. ✨ feat: support email verification
