@@ -8857,3 +8857,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0198. 📚 docs: clarify environment setup
 0556. ✨ feat: support email verification
+0693. 📚 docs: add API usage examples
