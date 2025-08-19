@@ -4281,3 +4281,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0576. ♻️ chore: update .gitignore
 0223. 🔧 refactor: remove redundant code blocks
+0798. 🚀 perf: reduce image load time
