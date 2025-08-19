@@ -8859,3 +8859,4 @@
 0556. ✨ feat: support email verification
 0693. 📚 docs: add API usage examples
 0018. 🔧 refactor: organize models into subfolders
+0748. 🚀 perf: optimize database query for quiz results
