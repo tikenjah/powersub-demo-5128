@@ -9849,3 +9849,4 @@
 0275. 🎨 style: standardize quote style
 0464. 🎨 style: remove trailing whitespace
 0702. ✨ feat: add user authentication
+0666. 🐛 fix: fix broken CSS in mobile view
