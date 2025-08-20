@@ -4302,3 +4302,4 @@
 0132. ✅ test: add unit test for quiz service
 0777. 📚 docs: document token refresh logic
 0643. 🎨 style: apply consistent indentation
+0551. 📚 docs: write FAQ section
