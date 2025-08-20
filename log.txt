@@ -4293,3 +4293,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0233. 🚀 perf: lazy-load components
 0307. ✨ feat: support email verification
+0503. ♻️ chore: rename env.example
