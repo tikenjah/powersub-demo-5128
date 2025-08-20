@@ -4288,3 +4288,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0186. ✅ test: test user registration edge cases
 0176. 🔧 refactor: remove redundant code blocks
+0750. 🎨 style: apply consistent indentation
