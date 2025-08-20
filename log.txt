@@ -9851,3 +9851,4 @@
 0702. ✨ feat: add user authentication
 0666. 🐛 fix: fix broken CSS in mobile view
 0958. 🐛 fix: prevent crash on empty input
+0215. 🎨 style: reformat files with black
