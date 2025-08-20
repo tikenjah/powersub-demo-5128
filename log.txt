@@ -6862,3 +6862,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0688. 🚀 perf: reduce image load time
 0441. 📚 docs: add API usage examples
+0186. ✅ test: test user registration edge cases
