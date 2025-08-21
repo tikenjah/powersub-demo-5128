@@ -8864,3 +8864,4 @@
 0324. 📚 docs: document token refresh logic
 0663. 🚀 perf: reduce image load time
 0235. 🐛 fix: fix null pointer exception on login
+0518. ✨ feat: support email verification
