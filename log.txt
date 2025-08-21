@@ -6863,3 +6863,4 @@
 0688. 🚀 perf: reduce image load time
 0441. 📚 docs: add API usage examples
 0186. ✅ test: test user registration edge cases
+0607. 🐛 fix: prevent crash on empty input
