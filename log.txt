@@ -4311,3 +4311,4 @@
 0950. 🎨 style: reformat files with black
 0856. 🐛 fix: fix null pointer exception on login
 0375. 🐛 fix: handle 500 error in quiz API
+0165. 🎨 style: remove trailing whitespace
