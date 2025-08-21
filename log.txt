@@ -4309,3 +4309,4 @@
 0584. 🚀 perf: lazy-load components
 0932. ✅ test: add integration test for /submit endpoint
 0950. 🎨 style: reformat files with black
+0856. 🐛 fix: fix null pointer exception on login
