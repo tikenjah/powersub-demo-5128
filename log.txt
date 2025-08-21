@@ -4306,3 +4306,4 @@
 0930. 🎨 style: apply consistent indentation
 0912. 📚 docs: document token refresh logic
 0964. ♻️ chore: clean up unused files
+0584. 🚀 perf: lazy-load components
