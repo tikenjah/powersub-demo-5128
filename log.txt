@@ -5861,3 +5861,4 @@
 0904. ✨ feat: implement quiz timer feature
 0612. ✅ test: test user registration edge cases
 0980. 🎨 style: reformat files with black
+0005. ✅ test: add unit test for quiz service
