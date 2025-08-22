@@ -6865,3 +6865,4 @@
 0186. ✅ test: test user registration edge cases
 0607. 🐛 fix: prevent crash on empty input
 0800. 🚀 perf: optimize database query for quiz results
+0280. ✅ test: add integration test for /submit endpoint
