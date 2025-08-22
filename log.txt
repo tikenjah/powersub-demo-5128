@@ -4319,3 +4319,4 @@
 0174. 📚 docs: clarify environment setup
 0322. 🔧 refactor: split large controller into smaller functions
 0151. ✅ test: add unit test for quiz service
+0547. 📚 docs: write FAQ section
