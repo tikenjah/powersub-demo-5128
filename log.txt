@@ -7867,3 +7867,4 @@
 0047. 🎨 style: rename variables for clarity
 0573. ✅ test: add integration test for /submit endpoint
 0093. ✅ test: add unit test for quiz service
+0934. ✨ feat: support email verification
