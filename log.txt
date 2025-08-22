@@ -9855,3 +9855,4 @@
 0654. ✨ feat: create admin dashboard
 0492. 🎨 style: remove trailing whitespace
 0130. 🔧 refactor: split large controller into smaller functions
+0376. 🎨 style: apply consistent indentation
