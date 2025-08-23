@@ -6870,3 +6870,4 @@
 0160. ♻️ chore: bump dependencies
 0920. 🔧 refactor: organize models into subfolders
 0379. ✨ feat: support email verification
+0482. ✨ feat: add export to CSV option
