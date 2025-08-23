@@ -8871,3 +8871,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0160. ♻️ chore: bump dependencies
 0651. ✨ feat: enable dark mode toggle
+0514. 🐛 fix: fix broken CSS in mobile view
