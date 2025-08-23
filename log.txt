@@ -9858,3 +9858,4 @@
 0376. 🎨 style: apply consistent indentation
 0438. ♻️ chore: bump dependencies
 0445. 📚 docs: improve code comments in utils
+0557. 🔧 refactor: clean up auth middleware
