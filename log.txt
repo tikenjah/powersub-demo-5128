@@ -4338,3 +4338,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0433. 🐛 fix: prevent crash on empty input
 0525. ✅ test: mock database connection in test suite
+0080. ✨ feat: support email verification
