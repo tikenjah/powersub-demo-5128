@@ -10859,3 +10859,4 @@
 0062. ♻️ chore: update .gitignore
 0330. ✅ test: test user registration edge cases
 0247. 🎨 style: apply consistent indentation
+0958. 🐛 fix: prevent crash on empty input
