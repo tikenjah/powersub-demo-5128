@@ -4348,3 +4348,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0883. 📚 docs: improve code comments in utils
 0234. ♻️ chore: rename env.example
+0283. ♻️ chore: add GitHub actions badge
