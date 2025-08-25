@@ -4358,3 +4358,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0557. 🔧 refactor: clean up auth middleware
 0121. ✨ feat: support email verification
+0573. ✅ test: add integration test for /submit endpoint
