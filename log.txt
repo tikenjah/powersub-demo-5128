@@ -4355,3 +4355,4 @@
 0834. ✅ test: increase coverage on auth module
 0093. ✅ test: add unit test for quiz service
 0857. 🎨 style: rename variables for clarity
+0753. 🔧 refactor: remove redundant code blocks
