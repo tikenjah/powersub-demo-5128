@@ -4374,3 +4374,4 @@
 0849. 🐛 fix: correct typo in registration form
 0397. 🐛 fix: handle 500 error in quiz API
 0106. 🎨 style: reformat files with black
+0921. 🐛 fix: correct typo in registration form
