@@ -5873,3 +5873,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0548. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
+0877. 🚀 perf: optimize database query for quiz results
