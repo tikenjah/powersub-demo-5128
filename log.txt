@@ -6875,3 +6875,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0023. 📚 docs: clarify environment setup
 0155. ✨ feat: create admin dashboard
+0436. ✅ test: add integration test for /submit endpoint
