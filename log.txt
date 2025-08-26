@@ -5872,3 +5872,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0723. 🔧 refactor: remove redundant code blocks
 0548. 📚 docs: write FAQ section
+0233. 🚀 perf: lazy-load components
