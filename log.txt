@@ -9867,3 +9867,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
 0809. ♻️ chore: rename env.example
+0257. 📚 docs: clarify environment setup
