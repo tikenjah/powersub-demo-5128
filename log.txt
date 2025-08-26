@@ -8880,3 +8880,4 @@
 0634. 🎨 style: reformat files with black
 0718. 🐛 fix: resolve issue with date parsing
 0692. ✅ test: add integration test for /submit endpoint
+0448. 🐛 fix: correct typo in registration form
