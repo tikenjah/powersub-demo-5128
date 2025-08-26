@@ -4370,3 +4370,4 @@
 0689. 🎨 style: reformat files with black
 0441. 📚 docs: add API usage examples
 0654. ✨ feat: create admin dashboard
+0451. ✨ feat: support email verification
