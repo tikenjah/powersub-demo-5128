@@ -4382,3 +4382,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0640. ♻️ chore: bump dependencies
 0741. 🎨 style: apply consistent indentation
+0110. 🐛 fix: prevent crash on empty input
