@@ -4379,3 +4379,4 @@
 0233. 🚀 perf: lazy-load components
 0388. 🎨 style: reformat files with black
 0307. ✨ feat: support email verification
+0371. ✅ test: add integration test for /submit endpoint
