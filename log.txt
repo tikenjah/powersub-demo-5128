@@ -4388,3 +4388,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0715. ✨ feat: create admin dashboard
 0440. 📚 docs: update README with setup steps
+0584. 🚀 perf: lazy-load components
