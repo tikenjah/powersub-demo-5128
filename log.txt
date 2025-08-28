@@ -8889,3 +8889,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0619. ✨ feat: create admin dashboard
 0033. 🎨 style: apply consistent indentation
+0936. 🔧 refactor: organize models into subfolders
