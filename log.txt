@@ -4394,3 +4394,4 @@
 0143. ✨ feat: implement quiz timer feature
 0905. ♻️ chore: bump dependencies
 0437. 📚 docs: clarify environment setup
+0725. 🚀 perf: lazy-load components
