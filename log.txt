@@ -10865,3 +10865,4 @@
 0365. 🚀 perf: reduce image load time
 0173. 🚀 perf: cache repeated calculations
 0030. 🐛 fix: fix null pointer exception on login
+0518. ✨ feat: support email verification
