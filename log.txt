@@ -7888,3 +7888,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0161. ✨ feat: create admin dashboard
 0801. ✨ feat: enable dark mode toggle
+0762. 🚀 perf: lazy-load components
