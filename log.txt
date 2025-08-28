@@ -4389,3 +4389,4 @@
 0715. ✨ feat: create admin dashboard
 0440. 📚 docs: update README with setup steps
 0584. 🚀 perf: lazy-load components
+0541. 🐛 fix: correct typo in registration form
