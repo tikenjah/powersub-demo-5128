@@ -8892,3 +8892,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0180. ✨ feat: add export to CSV option
 0402. 🎨 style: reformat files with black
+0887. 📚 docs: add API usage examples
