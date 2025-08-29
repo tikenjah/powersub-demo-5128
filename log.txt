@@ -4401,3 +4401,4 @@
 0402. 🎨 style: reformat files with black
 0285. 🐛 fix: resolve issue with date parsing
 0435. ✅ test: add unit test for quiz service
+0463. 🚀 perf: reduce image load time
