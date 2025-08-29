@@ -5883,3 +5883,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0726. ✨ feat: enable dark mode toggle
 0848. 📚 docs: update README with setup steps
+0604. 📚 docs: add API usage examples
