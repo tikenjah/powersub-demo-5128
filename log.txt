@@ -10867,3 +10867,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0518. ✨ feat: support email verification
 0623. 🎨 style: standardize quote style
+0592. 📚 docs: add API usage examples
