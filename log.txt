@@ -7897,3 +7897,4 @@
 0494. 🎨 style: rename variables for clarity
 0583. ✅ test: increase coverage on auth module
 0433. 🐛 fix: prevent crash on empty input
+0531. 🐛 fix: prevent crash on empty input
