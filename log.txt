@@ -4421,3 +4421,4 @@
 0547. 📚 docs: write FAQ section
 0232. 🎨 style: apply consistent indentation
 0725. 🚀 perf: lazy-load components
+0973. 🔧 refactor: organize models into subfolders
