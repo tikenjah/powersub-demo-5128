@@ -4422,3 +4422,4 @@
 0232. 🎨 style: apply consistent indentation
 0725. 🚀 perf: lazy-load components
 0973. 🔧 refactor: organize models into subfolders
+0133. 🐛 fix: fix null pointer exception on login
