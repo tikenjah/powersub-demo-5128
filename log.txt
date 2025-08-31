@@ -4425,3 +4425,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0057. 🚀 perf: optimize database query for quiz results
 0771. 🚀 perf: cache repeated calculations
+0466. 🚀 perf: optimize database query for quiz results
