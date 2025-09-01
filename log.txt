@@ -10875,3 +10875,4 @@
 0914. ✅ test: test user registration edge cases
 0167. 🚀 perf: reduce image load time
 0816. 🔧 refactor: organize models into subfolders
+0763. 🔧 refactor: organize models into subfolders
