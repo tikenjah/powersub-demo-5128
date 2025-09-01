@@ -6889,3 +6889,4 @@
 0724. ✅ test: mock database connection in test suite
 0572. ✨ feat: add user authentication
 0336. ✨ feat: add export to CSV option
+0347. ♻️ chore: update .gitignore
