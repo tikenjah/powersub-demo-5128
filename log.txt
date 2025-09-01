@@ -6888,3 +6888,4 @@
 0549. ✨ feat: enable dark mode toggle
 0724. ✅ test: mock database connection in test suite
 0572. ✨ feat: add user authentication
+0336. ✨ feat: add export to CSV option
