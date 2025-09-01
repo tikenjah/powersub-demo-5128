@@ -7903,3 +7903,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0975. 🎨 style: apply consistent indentation
 0618. ✨ feat: support email verification
+0676. 🐛 fix: prevent crash on empty input
