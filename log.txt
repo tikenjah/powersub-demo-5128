@@ -6893,3 +6893,4 @@
 0044. ✅ test: add unit test for quiz service
 0906. 📚 docs: add API usage examples
 0497. 🔧 refactor: refactor quiz grading logic
+0361. ✨ feat: support email verification
