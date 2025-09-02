@@ -4449,3 +4449,4 @@
 0525. ✅ test: mock database connection in test suite
 0395. 📚 docs: write FAQ section
 0571. 🔧 refactor: clean up auth middleware
+0149. ✨ feat: add export to CSV option
