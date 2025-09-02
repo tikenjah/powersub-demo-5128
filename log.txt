@@ -4441,3 +4441,4 @@
 1000. ✅ test: increase coverage on auth module
 0075. ✅ test: mock database connection in test suite
 0688. 🚀 perf: reduce image load time
+0175. 📚 docs: add API usage examples
