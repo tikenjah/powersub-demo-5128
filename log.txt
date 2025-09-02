@@ -4440,3 +4440,4 @@
 0459. 🔧 refactor: organize models into subfolders
 1000. ✅ test: increase coverage on auth module
 0075. ✅ test: mock database connection in test suite
+0688. 🚀 perf: reduce image load time
