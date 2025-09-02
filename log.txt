@@ -6894,3 +6894,4 @@
 0906. 📚 docs: add API usage examples
 0497. 🔧 refactor: refactor quiz grading logic
 0361. ✨ feat: support email verification
+0775. 🐛 fix: fix null pointer exception on login
