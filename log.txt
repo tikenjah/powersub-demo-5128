@@ -8897,3 +8897,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0780. 📚 docs: add API usage examples
 0128. ♻️ chore: rename env.example
+0326. 🚀 perf: cache repeated calculations
