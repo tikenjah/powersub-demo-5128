@@ -5893,3 +5893,4 @@
 0024. 📚 docs: write FAQ section
 0358. 🚀 perf: reduce image load time
 0597. 🚀 perf: cache repeated calculations
+0415. 🐛 fix: handle 500 error in quiz API
