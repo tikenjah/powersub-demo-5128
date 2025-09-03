@@ -6896,3 +6896,4 @@
 0361. ✨ feat: support email verification
 0775. 🐛 fix: fix null pointer exception on login
 0487. 🎨 style: reformat files with black
+0876. ♻️ chore: rename env.example
