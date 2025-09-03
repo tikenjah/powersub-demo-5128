@@ -6899,3 +6899,4 @@
 0876. ♻️ chore: rename env.example
 0464. 🎨 style: remove trailing whitespace
 0512. 🚀 perf: reduce image load time
+0394. 🚀 perf: lazy-load components
