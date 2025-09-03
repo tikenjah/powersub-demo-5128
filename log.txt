@@ -4460,3 +4460,4 @@
 0165. 🎨 style: remove trailing whitespace
 0235. 🐛 fix: fix null pointer exception on login
 0923. ✨ feat: support email verification
+0673. 🐛 fix: correct typo in registration form
