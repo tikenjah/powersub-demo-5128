@@ -8901,3 +8901,4 @@
 0232. 🎨 style: apply consistent indentation
 0165. 🎨 style: remove trailing whitespace
 0652. 🔧 refactor: organize models into subfolders
+0780. 📚 docs: add API usage examples
