@@ -7910,3 +7910,4 @@
 0685. ✅ test: test user registration edge cases
 0547. 📚 docs: write FAQ section
 0746. ♻️ chore: add GitHub actions badge
+0040. 🔧 refactor: clean up auth middleware
