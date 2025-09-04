@@ -4474,3 +4474,4 @@
 0402. 🎨 style: reformat files with black
 0764. ✨ feat: add user authentication
 0304. 🔧 refactor: remove redundant code blocks
+0348. ✅ test: test user registration edge cases
