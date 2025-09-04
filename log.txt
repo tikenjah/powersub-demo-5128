@@ -6903,3 +6903,4 @@
 0634. 🎨 style: reformat files with black
 0777. 📚 docs: document token refresh logic
 0626. 🎨 style: standardize quote style
+0551. 📚 docs: write FAQ section
