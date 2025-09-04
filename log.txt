@@ -5900,3 +5900,4 @@
 0831. 📚 docs: clarify environment setup
 0706. ✨ feat: support email verification
 0578. ✅ test: add integration test for /submit endpoint
+0880. 🐛 fix: fix broken CSS in mobile view
