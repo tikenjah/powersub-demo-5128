@@ -4471,3 +4471,4 @@
 0715. ✨ feat: create admin dashboard
 0226. 🚀 perf: lazy-load components
 0672. 🐛 fix: fix broken CSS in mobile view
+0402. 🎨 style: reformat files with black
