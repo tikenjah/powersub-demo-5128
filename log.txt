@@ -5898,3 +5898,4 @@
 0912. 📚 docs: document token refresh logic
 0623. 🎨 style: standardize quote style
 0831. 📚 docs: clarify environment setup
+0706. ✨ feat: support email verification
