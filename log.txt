@@ -10885,3 +10885,4 @@
 0093. ✅ test: add unit test for quiz service
 0350. 🚀 perf: cache repeated calculations
 0127. 🐛 fix: fix null pointer exception on login
+0064. 📚 docs: clarify environment setup
