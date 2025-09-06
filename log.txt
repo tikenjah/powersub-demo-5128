@@ -4493,3 +4493,4 @@
 0215. 🎨 style: reformat files with black
 0030. 🐛 fix: fix null pointer exception on login
 0367. 🐛 fix: fix null pointer exception on login
+0189. 📚 docs: clarify environment setup
