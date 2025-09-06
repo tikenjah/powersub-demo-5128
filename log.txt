@@ -4491,3 +4491,4 @@
 0474. ✅ test: add unit test for quiz service
 0584. 🚀 perf: lazy-load components
 0215. 🎨 style: reformat files with black
+0030. 🐛 fix: fix null pointer exception on login
