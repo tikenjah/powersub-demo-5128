@@ -8907,3 +8907,4 @@
 0091. ✨ feat: add user authentication
 0611. ✅ test: test user registration edge cases
 0284. ✨ feat: implement quiz timer feature
+0065. ✅ test: add integration test for /submit endpoint
