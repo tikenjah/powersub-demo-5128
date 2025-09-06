@@ -5902,3 +5902,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0880. 🐛 fix: fix broken CSS in mobile view
 0587. 🔧 refactor: remove redundant code blocks
+0976. ✨ feat: implement quiz timer feature
