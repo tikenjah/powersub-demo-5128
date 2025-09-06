@@ -4496,3 +4496,4 @@
 0189. 📚 docs: clarify environment setup
 0922. 📚 docs: write FAQ section
 0281. ✨ feat: support email verification
+0135. ✅ test: test user registration edge cases
