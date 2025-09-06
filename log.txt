@@ -10887,3 +10887,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0064. 📚 docs: clarify environment setup
 0989. 📚 docs: write FAQ section
+0698. 🐛 fix: handle 500 error in quiz API
