@@ -4516,3 +4516,4 @@
 0451. ✨ feat: support email verification
 0614. 🚀 perf: reduce image load time
 0843. 📚 docs: document token refresh logic
+0479. 🐛 fix: fix null pointer exception on login
