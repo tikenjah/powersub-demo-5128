@@ -9885,3 +9885,4 @@
 0788. 📚 docs: add API usage examples
 0927. ♻️ chore: bump dependencies
 0237. 🎨 style: standardize quote style
+0341. 🚀 perf: lazy-load components
