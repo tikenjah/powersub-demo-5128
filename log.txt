@@ -4513,3 +4513,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0941. 🚀 perf: cache repeated calculations
 0547. 📚 docs: write FAQ section
+0451. ✨ feat: support email verification
