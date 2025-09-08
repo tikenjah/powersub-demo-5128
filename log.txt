@@ -4529,3 +4529,4 @@
 0305. ✨ feat: enable dark mode toggle
 0221. ✨ feat: add user authentication
 0655. 🚀 perf: cache repeated calculations
+0516. ✅ test: add unit test for quiz service
