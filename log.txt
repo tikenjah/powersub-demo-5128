@@ -10897,3 +10897,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0931. 🚀 perf: reduce image load time
 0568. 🐛 fix: handle 500 error in quiz API
+0944. ✨ feat: add user authentication
