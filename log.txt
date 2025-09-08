@@ -8914,3 +8914,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0536. ✨ feat: add user authentication
 0479. 🐛 fix: fix null pointer exception on login
+0158. 📚 docs: clarify environment setup
