@@ -4527,3 +4527,4 @@
 0927. ♻️ chore: bump dependencies
 0332. 🎨 style: standardize quote style
 0305. ✨ feat: enable dark mode toggle
+0221. ✨ feat: add user authentication
