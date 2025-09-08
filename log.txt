@@ -4530,3 +4530,4 @@
 0221. ✨ feat: add user authentication
 0655. 🚀 perf: cache repeated calculations
 0516. ✅ test: add unit test for quiz service
+0641. 📚 docs: write FAQ section
