@@ -5907,3 +5907,4 @@
 0547. 📚 docs: write FAQ section
 0532. 🔧 refactor: split large controller into smaller functions
 0482. ✨ feat: add export to CSV option
+0544. 🔧 refactor: organize models into subfolders
