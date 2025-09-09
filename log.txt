@@ -6911,3 +6911,4 @@
 0941. 🚀 perf: cache repeated calculations
 0162. ♻️ chore: add GitHub actions badge
 0186. ✅ test: test user registration edge cases
+0596. ♻️ chore: update .gitignore
