@@ -5908,3 +5908,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0482. ✨ feat: add export to CSV option
 0544. 🔧 refactor: organize models into subfolders
+0950. 🎨 style: reformat files with black
