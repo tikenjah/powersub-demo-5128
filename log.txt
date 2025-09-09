@@ -4531,3 +4531,4 @@
 0655. 🚀 perf: cache repeated calculations
 0516. ✅ test: add unit test for quiz service
 0641. 📚 docs: write FAQ section
+0532. 🔧 refactor: split large controller into smaller functions
