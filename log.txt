@@ -8919,3 +8919,4 @@
 0743. 🎨 style: apply consistent indentation
 0306. 🎨 style: apply consistent indentation
 0189. 📚 docs: clarify environment setup
+0178. ✨ feat: support email verification
