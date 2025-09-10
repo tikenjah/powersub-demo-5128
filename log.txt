@@ -8918,3 +8918,4 @@
 0750. 🎨 style: apply consistent indentation
 0743. 🎨 style: apply consistent indentation
 0306. 🎨 style: apply consistent indentation
+0189. 📚 docs: clarify environment setup
