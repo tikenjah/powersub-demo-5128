@@ -4551,3 +4551,4 @@
 0658. 🎨 style: rename variables for clarity
 0438. ♻️ chore: bump dependencies
 0929. ✨ feat: support email verification
+0565. ♻️ chore: add GitHub actions badge
