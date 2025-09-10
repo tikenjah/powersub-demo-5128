@@ -4547,3 +4547,4 @@
 0217. 🚀 perf: reduce image load time
 0852. ✨ feat: enable dark mode toggle
 0893. 🐛 fix: handle 500 error in quiz API
+0437. 📚 docs: clarify environment setup
