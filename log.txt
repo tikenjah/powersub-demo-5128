@@ -4543,3 +4543,4 @@
 0991. ♻️ chore: clean up unused files
 0845. 🚀 perf: cache repeated calculations
 0960. ✅ test: increase coverage on auth module
+0386. 🚀 perf: optimize database query for quiz results
