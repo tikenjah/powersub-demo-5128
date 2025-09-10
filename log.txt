@@ -6912,3 +6912,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0186. ✅ test: test user registration edge cases
 0596. ♻️ chore: update .gitignore
+0546. 🐛 fix: fix null pointer exception on login
