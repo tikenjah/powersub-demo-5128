@@ -4542,3 +4542,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0991. ♻️ chore: clean up unused files
 0845. 🚀 perf: cache repeated calculations
+0960. ✅ test: increase coverage on auth module
