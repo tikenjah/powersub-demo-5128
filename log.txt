@@ -4563,3 +4563,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0234. ♻️ chore: rename env.example
 0325. 🎨 style: rename variables for clarity
+0637. 🎨 style: apply consistent indentation
