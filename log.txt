@@ -9899,3 +9899,4 @@
 0606. 📚 docs: improve code comments in utils
 0356. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
+0092. 🚀 perf: reduce image load time
