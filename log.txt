@@ -4553,3 +4553,4 @@
 0929. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
 0066. 🔧 refactor: clean up auth middleware
+0105. 🐛 fix: correct typo in registration form
