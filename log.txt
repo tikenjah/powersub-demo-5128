@@ -4552,3 +4552,4 @@
 0438. ♻️ chore: bump dependencies
 0929. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
+0066. 🔧 refactor: clean up auth middleware
