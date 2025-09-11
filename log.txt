@@ -5912,3 +5912,4 @@
 0342. 🚀 perf: cache repeated calculations
 0121. ✨ feat: support email verification
 0451. ✨ feat: support email verification
+0856. 🐛 fix: fix null pointer exception on login
