@@ -9900,3 +9900,4 @@
 0356. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
 0092. 🚀 perf: reduce image load time
+0147. ♻️ chore: bump dependencies
