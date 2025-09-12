@@ -7930,3 +7930,4 @@
 0595. ✨ feat: enable dark mode toggle
 0760. 🐛 fix: resolve issue with date parsing
 0483. 📚 docs: update README with setup steps
+0287. 📚 docs: write FAQ section
