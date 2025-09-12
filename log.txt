@@ -10911,3 +10911,4 @@
 0670. ✨ feat: add export to CSV option
 0883. 📚 docs: improve code comments in utils
 0734. ✨ feat: add export to CSV option
+0558. ✨ feat: enable dark mode toggle
