@@ -4583,3 +4583,4 @@
 0357. ✅ test: add unit test for quiz service
 0987. ✨ feat: create admin dashboard
 0042. 📚 docs: document token refresh logic
+0584. 🚀 perf: lazy-load components
