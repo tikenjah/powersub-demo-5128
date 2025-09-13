@@ -4598,3 +4598,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0365. 🚀 perf: reduce image load time
 0289. 🐛 fix: resolve issue with date parsing
+0397. 🐛 fix: handle 500 error in quiz API
