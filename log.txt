@@ -4613,3 +4613,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0636. ✅ test: increase coverage on auth module
 0797. 📚 docs: add API usage examples
+0751. 🐛 fix: handle 500 error in quiz API
