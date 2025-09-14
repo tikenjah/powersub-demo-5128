@@ -4606,3 +4606,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0180. ✨ feat: add export to CSV option
 0149. ✨ feat: add export to CSV option
+0059. ♻️ chore: bump dependencies
