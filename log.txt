@@ -4615,3 +4615,4 @@
 0797. 📚 docs: add API usage examples
 0751. 🐛 fix: handle 500 error in quiz API
 0002. 🚀 perf: cache repeated calculations
+0315. ✅ test: add integration test for /submit endpoint
