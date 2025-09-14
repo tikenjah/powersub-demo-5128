@@ -5922,3 +5922,4 @@
 0679. ♻️ chore: bump dependencies
 0601. ✨ feat: implement quiz timer feature
 0749. ✨ feat: support email verification
+0710. 🐛 fix: fix broken CSS in mobile view
