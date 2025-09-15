@@ -4631,3 +4631,4 @@
 0784. ♻️ chore: clean up unused files
 0356. 📚 docs: write FAQ section
 0916. ♻️ chore: bump dependencies
+0017. ✅ test: mock database connection in test suite
