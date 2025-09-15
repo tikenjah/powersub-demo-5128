@@ -4635,3 +4635,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0364. 🐛 fix: resolve issue with date parsing
 0664. ✅ test: add unit test for quiz service
+0090. ✅ test: increase coverage on auth module
