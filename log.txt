@@ -4634,3 +4634,4 @@
 0017. ✅ test: mock database connection in test suite
 0478. 🐛 fix: resolve issue with date parsing
 0364. 🐛 fix: resolve issue with date parsing
+0664. ✅ test: add unit test for quiz service
