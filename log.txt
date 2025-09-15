@@ -9910,3 +9910,4 @@
 0108. 🎨 style: remove trailing whitespace
 0289. 🐛 fix: resolve issue with date parsing
 0365. 🚀 perf: reduce image load time
+0068. 🐛 fix: fix null pointer exception on login
