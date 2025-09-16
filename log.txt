@@ -9916,3 +9916,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0868. ✅ test: add unit test for quiz service
 0211. 🔧 refactor: remove redundant code blocks
+0206. 🐛 fix: handle 500 error in quiz API
