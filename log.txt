@@ -4655,3 +4655,4 @@
 0523. ♻️ chore: bump dependencies
 0804. ♻️ chore: add GitHub actions badge
 0363. 📚 docs: clarify environment setup
+0731. 🎨 style: standardize quote style
