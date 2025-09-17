@@ -4666,3 +4666,4 @@
 0112. ✨ feat: enable dark mode toggle
 0060. ♻️ chore: clean up unused files
 0975. 🎨 style: apply consistent indentation
+0345. 📚 docs: document token refresh logic
