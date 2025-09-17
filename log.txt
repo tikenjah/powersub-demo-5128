@@ -5931,3 +5931,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0929. ✨ feat: support email verification
 0842. 🎨 style: remove trailing whitespace
+0113. ✨ feat: add user authentication
