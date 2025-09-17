@@ -4669,3 +4669,4 @@
 0345. 📚 docs: document token refresh logic
 0224. 🐛 fix: fix broken CSS in mobile view
 0570. 🎨 style: apply consistent indentation
+0471. ✨ feat: support email verification
