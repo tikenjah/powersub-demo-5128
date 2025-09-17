@@ -5929,3 +5929,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0249. ✅ test: increase coverage on auth module
 0544. 🔧 refactor: organize models into subfolders
+0929. ✨ feat: support email verification
