@@ -4688,3 +4688,4 @@
 0079. 🐛 fix: correct typo in registration form
 0966. 📚 docs: improve code comments in utils
 0373. 📚 docs: document token refresh logic
+0113. ✨ feat: add user authentication
