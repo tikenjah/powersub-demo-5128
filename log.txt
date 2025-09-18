@@ -9923,3 +9923,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0364. 🐛 fix: resolve issue with date parsing
 0740. 🐛 fix: resolve issue with date parsing
+0472. 🐛 fix: fix null pointer exception on login
