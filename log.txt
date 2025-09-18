@@ -8939,3 +8939,4 @@
 0650. ✅ test: add unit test for quiz service
 0775. 🐛 fix: fix null pointer exception on login
 0827. 🚀 perf: optimize database query for quiz results
+0408. ♻️ chore: add GitHub actions badge
