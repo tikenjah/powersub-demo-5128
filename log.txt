@@ -4690,3 +4690,4 @@
 0373. 📚 docs: document token refresh logic
 0113. ✨ feat: add user authentication
 0484. 🐛 fix: handle 500 error in quiz API
+0105. 🐛 fix: correct typo in registration form
