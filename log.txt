@@ -4692,3 +4692,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0105. 🐛 fix: correct typo in registration form
 0842. 🎨 style: remove trailing whitespace
+0518. ✨ feat: support email verification
