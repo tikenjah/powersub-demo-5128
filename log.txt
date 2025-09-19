@@ -8942,3 +8942,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0451. ✨ feat: support email verification
 0908. ♻️ chore: bump dependencies
+0613. 🐛 fix: prevent crash on empty input
