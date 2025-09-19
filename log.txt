@@ -5932,3 +5932,4 @@
 0929. ✨ feat: support email verification
 0842. 🎨 style: remove trailing whitespace
 0113. ✨ feat: add user authentication
+0776. ✅ test: add integration test for /submit endpoint
