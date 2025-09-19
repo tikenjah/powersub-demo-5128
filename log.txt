@@ -4701,3 +4701,4 @@
 0606. 📚 docs: improve code comments in utils
 0128. ♻️ chore: rename env.example
 0567. 📚 docs: add API usage examples
+0068. 🐛 fix: fix null pointer exception on login
