@@ -7948,3 +7948,4 @@
 0597. 🚀 perf: cache repeated calculations
 0671. 🐛 fix: fix null pointer exception on login
 0689. 🎨 style: reformat files with black
+0278. 🔧 refactor: clean up auth middleware
