@@ -4695,3 +4695,4 @@
 0518. ✨ feat: support email verification
 0956. 📚 docs: clarify environment setup
 0626. 🎨 style: standardize quote style
+0344. ♻️ chore: add GitHub actions badge
