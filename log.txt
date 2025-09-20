@@ -6938,3 +6938,4 @@
 0217. 🚀 perf: reduce image load time
 0196. ♻️ chore: bump dependencies
 0901. ✨ feat: add user authentication
+0433. 🐛 fix: prevent crash on empty input
