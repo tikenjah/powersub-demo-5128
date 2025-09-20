@@ -4707,3 +4707,4 @@
 0100. ♻️ chore: update .gitignore
 0168. ✅ test: add integration test for /submit endpoint
 0021. ✨ feat: support email verification
+0269. ✅ test: test user registration edge cases
