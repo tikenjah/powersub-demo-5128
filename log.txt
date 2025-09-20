@@ -10931,3 +10931,4 @@
 0925. ✨ feat: add export to CSV option
 0710. 🐛 fix: fix broken CSS in mobile view
 0228. 🔧 refactor: remove redundant code blocks
+0356. 📚 docs: write FAQ section
