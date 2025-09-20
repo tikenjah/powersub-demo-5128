@@ -4713,3 +4713,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0640. ♻️ chore: bump dependencies
 0753. 🔧 refactor: remove redundant code blocks
+0827. 🚀 perf: optimize database query for quiz results
