@@ -9927,3 +9927,4 @@
 0966. 📚 docs: improve code comments in utils
 0345. 📚 docs: document token refresh logic
 0269. ✅ test: test user registration edge cases
+0180. ✨ feat: add export to CSV option
