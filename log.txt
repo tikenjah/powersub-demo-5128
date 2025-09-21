@@ -5943,3 +5943,4 @@
 0311. 🎨 style: apply consistent indentation
 0598. 🔧 refactor: remove redundant code blocks
 0443. 🎨 style: standardize quote style
+0080. ✨ feat: support email verification
