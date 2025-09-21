@@ -9933,3 +9933,4 @@
 0215. 🎨 style: reformat files with black
 0655. 🚀 perf: cache repeated calculations
 0998. 🐛 fix: fix null pointer exception on login
+0986. 📚 docs: document token refresh logic
