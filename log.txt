@@ -4723,3 +4723,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0979. 🎨 style: standardize quote style
 0612. ✅ test: test user registration edge cases
+0427. ✅ test: mock database connection in test suite
