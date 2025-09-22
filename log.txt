@@ -6940,3 +6940,4 @@
 0901. ✨ feat: add user authentication
 0433. 🐛 fix: prevent crash on empty input
 0493. ✨ feat: add user authentication
+0690. 🚀 perf: lazy-load components
