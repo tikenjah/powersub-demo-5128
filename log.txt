@@ -4744,3 +4744,4 @@
 0028. 🎨 style: standardize quote style
 0020. ✅ test: add integration test for /submit endpoint
 0844. 📚 docs: update README with setup steps
+0535. 📚 docs: write FAQ section
