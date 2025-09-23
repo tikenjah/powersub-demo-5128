@@ -7957,3 +7957,4 @@
 0651. ✨ feat: enable dark mode toggle
 0783. 🐛 fix: handle 500 error in quiz API
 0321. 🔧 refactor: organize models into subfolders
+0181. ♻️ chore: add GitHub actions badge
