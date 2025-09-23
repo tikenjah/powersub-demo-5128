@@ -4746,3 +4746,4 @@
 0844. 📚 docs: update README with setup steps
 0535. 📚 docs: write FAQ section
 0104. 🎨 style: apply consistent indentation
+0558. ✨ feat: enable dark mode toggle
