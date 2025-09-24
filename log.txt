@@ -4763,3 +4763,4 @@
 0580. ♻️ chore: bump dependencies
 0470. 🎨 style: remove trailing whitespace
 0326. 🚀 perf: cache repeated calculations
+0329. 📚 docs: update README with setup steps
