@@ -4769,3 +4769,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0518. ✨ feat: support email verification
 0922. 📚 docs: write FAQ section
+0542. 🔧 refactor: organize models into subfolders
