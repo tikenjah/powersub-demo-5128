@@ -4773,3 +4773,4 @@
 0239. 🎨 style: standardize quote style
 0622. 🎨 style: apply consistent indentation
 0718. 🐛 fix: resolve issue with date parsing
+0079. 🐛 fix: correct typo in registration form
