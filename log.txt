@@ -4760,3 +4760,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0851. ✅ test: mock database connection in test suite
 0988. 🐛 fix: fix broken CSS in mobile view
+0580. ♻️ chore: bump dependencies
