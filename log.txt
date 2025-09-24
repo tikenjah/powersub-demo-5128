@@ -4770,3 +4770,4 @@
 0518. ✨ feat: support email verification
 0922. 📚 docs: write FAQ section
 0542. 🔧 refactor: organize models into subfolders
+0239. 🎨 style: standardize quote style
