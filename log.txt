@@ -6948,3 +6948,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0212. 🎨 style: standardize quote style
 0933. 📚 docs: clarify environment setup
+0821. ✅ test: add integration test for /submit endpoint
