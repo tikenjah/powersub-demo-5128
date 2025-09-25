@@ -6950,3 +6950,4 @@
 0933. 📚 docs: clarify environment setup
 0821. ✅ test: add integration test for /submit endpoint
 0965. 🎨 style: reformat files with black
+0553. 🐛 fix: correct typo in registration form
