@@ -6952,3 +6952,4 @@
 0965. 🎨 style: reformat files with black
 0553. 🐛 fix: correct typo in registration form
 0789. ✨ feat: create admin dashboard
+0062. ♻️ chore: update .gitignore
