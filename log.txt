@@ -4775,3 +4775,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0079. 🐛 fix: correct typo in registration form
 0966. 📚 docs: improve code comments in utils
+0276. ✅ test: add integration test for /submit endpoint
