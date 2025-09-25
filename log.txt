@@ -9944,3 +9944,4 @@
 0448. 🐛 fix: correct typo in registration form
 0062. ♻️ chore: update .gitignore
 0989. 📚 docs: write FAQ section
+0086. 🐛 fix: correct typo in registration form
