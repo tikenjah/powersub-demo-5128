@@ -4785,3 +4785,4 @@
 0177. 📚 docs: add API usage examples
 0504. 📚 docs: document token refresh logic
 0687. 🎨 style: remove trailing whitespace
+0148. 🔧 refactor: organize models into subfolders
