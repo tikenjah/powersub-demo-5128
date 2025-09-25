@@ -8956,3 +8956,4 @@
 0683. ✅ test: mock database connection in test suite
 0387. ✨ feat: enable dark mode toggle
 0900. 🐛 fix: handle 500 error in quiz API
+0847. ♻️ chore: clean up unused files
