@@ -7965,3 +7965,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0631. ✨ feat: create admin dashboard
 0827. 🚀 perf: optimize database query for quiz results
+0359. 🔧 refactor: clean up auth middleware
