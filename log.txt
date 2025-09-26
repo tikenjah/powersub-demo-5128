@@ -8958,3 +8958,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0847. ♻️ chore: clean up unused files
 0465. 🎨 style: rename variables for clarity
+0144. ✅ test: increase coverage on auth module
