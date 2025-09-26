@@ -8959,3 +8959,4 @@
 0847. ♻️ chore: clean up unused files
 0465. 🎨 style: rename variables for clarity
 0144. ✅ test: increase coverage on auth module
+0626. 🎨 style: standardize quote style
