@@ -5957,3 +5957,4 @@
 0584. 🚀 perf: lazy-load components
 0131. 📚 docs: write FAQ section
 0859. ✨ feat: create admin dashboard
+0002. 🚀 perf: cache repeated calculations
