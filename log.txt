@@ -4794,3 +4794,4 @@
 0152. ✨ feat: add user authentication
 0828. ♻️ chore: add GitHub actions badge
 0074. ♻️ chore: add GitHub actions badge
+0517. ✅ test: mock database connection in test suite
