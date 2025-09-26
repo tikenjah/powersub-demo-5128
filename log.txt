@@ -7964,3 +7964,4 @@
 0298. ♻️ chore: update .gitignore
 0171. 🐛 fix: fix broken CSS in mobile view
 0631. ✨ feat: create admin dashboard
+0827. 🚀 perf: optimize database query for quiz results
