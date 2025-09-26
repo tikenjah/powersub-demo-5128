@@ -4803,3 +4803,4 @@
 0121. ✨ feat: support email verification
 0681. ✨ feat: create admin dashboard
 0971. 🎨 style: standardize quote style
+0475. 🔧 refactor: clean up auth middleware
