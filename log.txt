@@ -4807,3 +4807,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0715. ✨ feat: create admin dashboard
 0947. 📚 docs: write FAQ section
+0008. 🚀 perf: reduce image load time
