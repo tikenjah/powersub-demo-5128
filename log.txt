@@ -8961,3 +8961,4 @@
 0144. ✅ test: increase coverage on auth module
 0626. 🎨 style: standardize quote style
 0708. ✅ test: add integration test for /submit endpoint
+0344. ♻️ chore: add GitHub actions badge
