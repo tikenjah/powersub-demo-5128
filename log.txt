@@ -4811,3 +4811,4 @@
 0300. ✨ feat: add export to CSV option
 0267. 📚 docs: improve code comments in utils
 0831. 📚 docs: clarify environment setup
+0377. ✨ feat: add user authentication
