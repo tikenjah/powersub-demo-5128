@@ -9946,3 +9946,4 @@
 0989. 📚 docs: write FAQ section
 0086. 🐛 fix: correct typo in registration form
 0505. ♻️ chore: add GitHub actions badge
+0428. 🐛 fix: fix null pointer exception on login
