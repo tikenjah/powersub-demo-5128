@@ -9951,3 +9951,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0086. 🐛 fix: correct typo in registration form
 0875. ✅ test: increase coverage on auth module
+0671. 🐛 fix: fix null pointer exception on login
