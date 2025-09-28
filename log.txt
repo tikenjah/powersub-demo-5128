@@ -4826,3 +4826,4 @@
 0720. ✨ feat: add export to CSV option
 0130. 🔧 refactor: split large controller into smaller functions
 0812. 🔧 refactor: refactor quiz grading logic
+0227. ✅ test: test user registration edge cases
