@@ -4821,3 +4821,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0846. ✨ feat: implement quiz timer feature
 0615. 🐛 fix: correct typo in registration form
+0945. ♻️ chore: add GitHub actions badge
