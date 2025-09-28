@@ -4829,3 +4829,4 @@
 0227. ✅ test: test user registration edge cases
 0094. 📚 docs: document token refresh logic
 0313. 🎨 style: apply consistent indentation
+0484. 🐛 fix: handle 500 error in quiz API
