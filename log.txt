@@ -9950,3 +9950,4 @@
 0986. 📚 docs: document token refresh logic
 0457. 🐛 fix: handle 500 error in quiz API
 0086. 🐛 fix: correct typo in registration form
+0875. ✅ test: increase coverage on auth module
