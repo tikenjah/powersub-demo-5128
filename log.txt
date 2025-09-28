@@ -9949,3 +9949,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0986. 📚 docs: document token refresh logic
 0457. 🐛 fix: handle 500 error in quiz API
+0086. 🐛 fix: correct typo in registration form
