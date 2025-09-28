@@ -4830,3 +4830,4 @@
 0094. 📚 docs: document token refresh logic
 0313. 🎨 style: apply consistent indentation
 0484. 🐛 fix: handle 500 error in quiz API
+0696. 🔧 refactor: clean up auth middleware
