@@ -4844,3 +4844,4 @@
 0031. 📚 docs: document token refresh logic
 0757. 🔧 refactor: remove redundant code blocks
 0950. 🎨 style: reformat files with black
+0117. ✅ test: increase coverage on auth module
