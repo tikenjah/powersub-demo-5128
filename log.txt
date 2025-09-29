@@ -9953,3 +9953,4 @@
 0875. ✅ test: increase coverage on auth module
 0671. 🐛 fix: fix null pointer exception on login
 0635. 🎨 style: apply consistent indentation
+0578. ✅ test: add integration test for /submit endpoint
