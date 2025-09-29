@@ -5967,3 +5967,4 @@
 0419. 🎨 style: remove trailing whitespace
 0820. 📚 docs: add API usage examples
 0392. 🎨 style: remove trailing whitespace
+0334. 🚀 perf: cache repeated calculations
