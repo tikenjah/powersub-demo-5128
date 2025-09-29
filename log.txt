@@ -6964,3 +6964,4 @@
 0053. ✅ test: increase coverage on auth module
 0867. 🔧 refactor: refactor quiz grading logic
 0471. ✨ feat: support email verification
+0362. 📚 docs: add API usage examples
