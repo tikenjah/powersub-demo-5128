@@ -10954,3 +10954,4 @@
 0719. 🎨 style: apply consistent indentation
 0116. ✨ feat: support email verification
 0149. ✨ feat: add export to CSV option
+0107. 🐛 fix: prevent crash on empty input
