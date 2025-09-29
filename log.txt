@@ -4840,3 +4840,4 @@
 0424. ✨ feat: add user authentication
 0733. 🐛 fix: fix null pointer exception on login
 0735. ♻️ chore: add GitHub actions badge
+0206. 🐛 fix: handle 500 error in quiz API
