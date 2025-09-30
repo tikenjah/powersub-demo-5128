@@ -4849,3 +4849,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0094. 📚 docs: document token refresh logic
 0985. 📚 docs: document token refresh logic
+0307. ✨ feat: support email verification
