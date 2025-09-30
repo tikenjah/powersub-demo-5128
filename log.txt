@@ -10962,3 +10962,4 @@
 0044. ✅ test: add unit test for quiz service
 0045. 🎨 style: apply consistent indentation
 0722. 📚 docs: add API usage examples
+0502. 📚 docs: update README with setup steps
