@@ -4850,3 +4850,4 @@
 0094. 📚 docs: document token refresh logic
 0985. 📚 docs: document token refresh logic
 0307. ✨ feat: support email verification
+0924. ✅ test: mock database connection in test suite
