@@ -6965,3 +6965,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0471. ✨ feat: support email verification
 0362. 📚 docs: add API usage examples
+0037. 🐛 fix: correct typo in registration form
