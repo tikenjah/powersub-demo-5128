@@ -4855,3 +4855,4 @@
 0567. 📚 docs: add API usage examples
 0054. ♻️ chore: update .gitignore
 0538. 🐛 fix: fix broken CSS in mobile view
+0399. ✅ test: mock database connection in test suite
