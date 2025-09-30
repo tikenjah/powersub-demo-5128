@@ -4859,3 +4859,4 @@
 0172. 📚 docs: add API usage examples
 0188. 🎨 style: apply consistent indentation
 0929. ✨ feat: support email verification
+0941. 🚀 perf: cache repeated calculations
