@@ -9960,3 +9960,4 @@
 0991. ♻️ chore: clean up unused files
 0928. 🎨 style: apply consistent indentation
 0715. ✨ feat: create admin dashboard
+0365. 🚀 perf: reduce image load time
