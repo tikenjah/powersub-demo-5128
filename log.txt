@@ -7979,3 +7979,4 @@
 0463. 🚀 perf: reduce image load time
 0330. ✅ test: test user registration edge cases
 0916. ♻️ chore: bump dependencies
+0363. 📚 docs: clarify environment setup
