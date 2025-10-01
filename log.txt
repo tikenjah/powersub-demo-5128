@@ -8968,3 +8968,4 @@
 0027. 📚 docs: clarify environment setup
 0969. ✨ feat: create admin dashboard
 0775. 🐛 fix: fix null pointer exception on login
+0238. 🎨 style: apply consistent indentation
