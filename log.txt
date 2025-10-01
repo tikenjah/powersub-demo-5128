@@ -5976,3 +5976,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0246. ✅ test: add integration test for /submit endpoint
 0287. 📚 docs: write FAQ section
+0122. ✨ feat: support email verification
