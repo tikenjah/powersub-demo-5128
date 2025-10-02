@@ -7980,3 +7980,4 @@
 0330. ✅ test: test user registration edge cases
 0916. ♻️ chore: bump dependencies
 0363. 📚 docs: clarify environment setup
+0242. ♻️ chore: clean up unused files
