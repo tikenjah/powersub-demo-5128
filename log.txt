@@ -4876,3 +4876,4 @@
 0989. 📚 docs: write FAQ section
 0657. 🎨 style: standardize quote style
 0916. ♻️ chore: bump dependencies
+0372. ✨ feat: add user authentication
