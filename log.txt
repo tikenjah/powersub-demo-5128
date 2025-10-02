@@ -8971,3 +8971,4 @@
 0238. 🎨 style: apply consistent indentation
 0484. 🐛 fix: handle 500 error in quiz API
 0858. ♻️ chore: clean up unused files
+0569. 📚 docs: document token refresh logic
