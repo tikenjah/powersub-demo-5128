@@ -4879,3 +4879,4 @@
 0372. ✨ feat: add user authentication
 0587. 🔧 refactor: remove redundant code blocks
 0037. 🐛 fix: correct typo in registration form
+0141. 📚 docs: document token refresh logic
