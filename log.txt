@@ -6974,3 +6974,4 @@
 0050. ✨ feat: enable dark mode toggle
 0465. 🎨 style: rename variables for clarity
 0507. 🔧 refactor: clean up auth middleware
+0609. 🐛 fix: handle 500 error in quiz API
