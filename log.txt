@@ -7983,3 +7983,4 @@
 0242. ♻️ chore: clean up unused files
 0941. 🚀 perf: cache repeated calculations
 0379. ✨ feat: support email verification
+0099. 🚀 perf: reduce image load time
