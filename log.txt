@@ -4896,3 +4896,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0685. ✅ test: test user registration edge cases
 0876. ♻️ chore: rename env.example
+0253. 📚 docs: update README with setup steps
