@@ -4890,3 +4890,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0091. ✨ feat: add user authentication
 0025. 🚀 perf: optimize database query for quiz results
+0616. 🚀 perf: lazy-load components
