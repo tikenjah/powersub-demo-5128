@@ -9972,3 +9972,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0398. 🚀 perf: cache repeated calculations
 0713. 🐛 fix: handle 500 error in quiz API
+0968. 🎨 style: standardize quote style
