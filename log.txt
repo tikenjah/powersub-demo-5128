@@ -9971,3 +9971,4 @@
 0298. ♻️ chore: update .gitignore
 0246. ✅ test: add integration test for /submit endpoint
 0398. 🚀 perf: cache repeated calculations
+0713. 🐛 fix: handle 500 error in quiz API
