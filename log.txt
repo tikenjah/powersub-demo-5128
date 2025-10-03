@@ -10964,3 +10964,4 @@
 0722. 📚 docs: add API usage examples
 0502. 📚 docs: update README with setup steps
 0340. 🚀 perf: optimize database query for quiz results
+0136. 🚀 perf: lazy-load components
