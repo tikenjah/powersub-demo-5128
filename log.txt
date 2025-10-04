@@ -10969,3 +10969,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0763. 🔧 refactor: organize models into subfolders
 0878. 🔧 refactor: split large controller into smaller functions
+0787. ♻️ chore: rename env.example
