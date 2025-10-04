@@ -4903,3 +4903,4 @@
 0437. 📚 docs: clarify environment setup
 0716. ✨ feat: implement quiz timer feature
 0787. ♻️ chore: rename env.example
+0596. ♻️ chore: update .gitignore
