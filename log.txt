@@ -7986,3 +7986,4 @@
 0099. 🚀 perf: reduce image load time
 0262. 🎨 style: remove trailing whitespace
 0308. 🚀 perf: reduce image load time
+0989. 📚 docs: write FAQ section
