@@ -4922,3 +4922,4 @@
 0695. ✨ feat: create admin dashboard
 0241. 📚 docs: add API usage examples
 0684. 🚀 perf: reduce image load time
+0945. ♻️ chore: add GitHub actions badge
