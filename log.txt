@@ -4924,3 +4924,4 @@
 0684. 🚀 perf: reduce image load time
 0945. ♻️ chore: add GitHub actions badge
 0131. 📚 docs: write FAQ section
+0678. ✨ feat: add user authentication
