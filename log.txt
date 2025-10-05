@@ -8976,3 +8976,4 @@
 0411. ✅ test: add unit test for quiz service
 0954. 🚀 perf: cache repeated calculations
 0789. ✨ feat: create admin dashboard
+0663. 🚀 perf: reduce image load time
