@@ -5988,3 +5988,4 @@
 0116. ✨ feat: support email verification
 0868. ✅ test: add unit test for quiz service
 0027. 📚 docs: clarify environment setup
+0278. 🔧 refactor: clean up auth middleware
