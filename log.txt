@@ -8979,3 +8979,4 @@
 0663. 🚀 perf: reduce image load time
 0343. 🚀 perf: optimize database query for quiz results
 0631. ✨ feat: create admin dashboard
+0908. ♻️ chore: bump dependencies
