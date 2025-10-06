@@ -10976,3 +10976,4 @@
 0013. ✅ test: increase coverage on auth module
 0164. 📚 docs: document token refresh logic
 0906. 📚 docs: add API usage examples
+0578. ✅ test: add integration test for /submit endpoint
