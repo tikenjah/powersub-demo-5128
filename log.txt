@@ -4933,3 +4933,4 @@
 0360. ✨ feat: add export to CSV option
 0634. 🎨 style: reformat files with black
 0136. 🚀 perf: lazy-load components
+0099. 🚀 perf: reduce image load time
