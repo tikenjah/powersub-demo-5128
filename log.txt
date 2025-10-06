@@ -4938,3 +4938,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0637. 🎨 style: apply consistent indentation
 0688. 🚀 perf: reduce image load time
+0751. 🐛 fix: handle 500 error in quiz API
