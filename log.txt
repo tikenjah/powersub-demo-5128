@@ -5990,3 +5990,4 @@
 0027. 📚 docs: clarify environment setup
 0278. 🔧 refactor: clean up auth middleware
 0278. 🔧 refactor: clean up auth middleware
+0693. 📚 docs: add API usage examples
