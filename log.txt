@@ -4942,3 +4942,4 @@
 0406. ✨ feat: add export to CSV option
 0443. 🎨 style: standardize quote style
 0024. 📚 docs: write FAQ section
+0383. 🐛 fix: fix broken CSS in mobile view
