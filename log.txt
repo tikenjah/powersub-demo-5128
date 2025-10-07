@@ -4948,3 +4948,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0627. 📚 docs: document token refresh logic
 0855. 🎨 style: reformat files with black
+0579. 📚 docs: clarify environment setup
