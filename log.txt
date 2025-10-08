@@ -6989,3 +6989,4 @@
 0242. ♻️ chore: clean up unused files
 0918. ✨ feat: enable dark mode toggle
 0141. 📚 docs: document token refresh logic
+0207. 🐛 fix: prevent crash on empty input
