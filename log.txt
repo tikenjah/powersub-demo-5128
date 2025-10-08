@@ -6985,3 +6985,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0513. ♻️ chore: bump dependencies
 0401. 🚀 perf: reduce image load time
+0009. ✨ feat: enable dark mode toggle
