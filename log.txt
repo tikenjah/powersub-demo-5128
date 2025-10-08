@@ -6986,3 +6986,4 @@
 0513. ♻️ chore: bump dependencies
 0401. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
+0242. ♻️ chore: clean up unused files
