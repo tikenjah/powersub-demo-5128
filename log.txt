@@ -10986,3 +10986,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0117. ✅ test: increase coverage on auth module
 0852. ✨ feat: enable dark mode toggle
+0978. 🐛 fix: prevent crash on empty input
