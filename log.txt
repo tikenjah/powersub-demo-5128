@@ -5993,3 +5993,4 @@
 0693. 📚 docs: add API usage examples
 0477. 🐛 fix: fix broken CSS in mobile view
 0032. 🎨 style: apply consistent indentation
+0565. ♻️ chore: add GitHub actions badge
