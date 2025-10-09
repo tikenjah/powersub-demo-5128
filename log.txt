@@ -4983,3 +4983,4 @@
 0187. ✨ feat: support email verification
 0489. 🔧 refactor: organize models into subfolders
 0933. 📚 docs: clarify environment setup
+0624. ✅ test: add unit test for quiz service
