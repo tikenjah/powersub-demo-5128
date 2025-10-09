@@ -10989,3 +10989,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0596. ♻️ chore: update .gitignore
 0997. ✅ test: increase coverage on auth module
+0875. ✅ test: increase coverage on auth module
