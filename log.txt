@@ -4981,3 +4981,4 @@
 0720. ✨ feat: add export to CSV option
 0158. 📚 docs: clarify environment setup
 0187. ✨ feat: support email verification
+0489. 🔧 refactor: organize models into subfolders
