@@ -6993,3 +6993,4 @@
 0398. 🚀 perf: cache repeated calculations
 0876. ♻️ chore: rename env.example
 0205. 📚 docs: update README with setup steps
+0721. 🚀 perf: optimize database query for quiz results
