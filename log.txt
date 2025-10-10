@@ -7996,3 +7996,4 @@
 0714. 📚 docs: improve code comments in utils
 0434. 📚 docs: document token refresh logic
 0653. 🐛 fix: prevent crash on empty input
+0100. ♻️ chore: update .gitignore
