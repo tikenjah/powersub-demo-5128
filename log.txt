@@ -4986,3 +4986,4 @@
 0624. ✅ test: add unit test for quiz service
 0158. 📚 docs: clarify environment setup
 0731. 🎨 style: standardize quote style
+0958. 🐛 fix: prevent crash on empty input
