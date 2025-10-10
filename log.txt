@@ -8995,3 +8995,4 @@
 0332. 🎨 style: standardize quote style
 0645. 🐛 fix: resolve issue with date parsing
 0152. ✨ feat: add user authentication
+0556. ✨ feat: support email verification
