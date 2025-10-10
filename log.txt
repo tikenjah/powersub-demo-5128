@@ -4996,3 +4996,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0659. 📚 docs: add API usage examples
 0723. 🔧 refactor: remove redundant code blocks
+0627. 📚 docs: document token refresh logic
